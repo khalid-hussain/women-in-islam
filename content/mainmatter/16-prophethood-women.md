@@ -1,0 +1,137 @@
+
+## **Prophethood Among Women**
+
+A most remarkable and intriguing issue is that of the prophethood of women. It
+is generally denied, yet we intend to affirm it. One of the major arguments
+advanced for the alleged deficiency in women's intellect is that they have been
+deprived of prophethood. This notion has become so widespread that it is
+difficult to find even a small percentage of people who could entertain, even
+momentarily, the idea of female prophethood. In truth, how bold a claim this is,
+and yet how astonishing that women should be deprived of such a great position.
+
+Among the early scholars, ʿAllāmah Ibn Ḥazm [رحمه الله]{dir="rtl"} supports this
+view. He was not only a master of the religious sciences, Fiqh, and Ḥadīth, but
+also deeply versed in philosophy and the rational disciplines.
+
+Those individuals whom Allah appoints for the guidance of His creation are of
+two categories:
+
+1.  Messengers (Rusul): Those who are given a revealed law (sharīʿah) and
+    through whom scriptures are sent down.
+
+2.  Prophets (Anbiyāʾ): Those who are not given a new scripture, yet receive
+    divine communication through the noble messengers (angels), who come to them
+    at various times with guidance and instruction. These individuals remain
+    followers of the preceding Messenger.
+
+The Quran employs expressions regarding certain women that indicate their
+prophethood. Since there is no explicit text negating their prophethood, and
+there exist indications, both contextual and textual, supporting it, it is
+correct to say that women, too, have been honored with the rank of prophethood.
+
+For example, the story of Maryam [عليها السلام]{dir="rtl"} is mentioned in
+multiple places in the Quran, and almost every instance contains expressions
+that indicate her prophethood.
+
+[إِذْ قَالَتِ الْمَلَائِكَةُ يَا مَرْيَمُ إِنَّ اللّٰهَ اصْطَفَاكِ وَطَهَّرَكِ
+وَاصْطَفَاكِ عَلَىٰ نِسَاءِ الْعَالَمِينَ]{dir="rtl"}
+
+*When the angels said, "O Maryam, indeed Allah has chosen you, purified you, and
+chosen you above the women of all the worlds."* \[Sūrat Āl ʿImrān, Q3:42\]
+
+The term *iṣṭafāʾ* ([اصطفى]{dir="rtl"}), meaning to select, or to elect, is
+frequently used in the Quran for the Prophets. On another occasion, when Maryam
+[عليها السلام]{dir="rtl"} withdrew to a secluded place and encountered a figure,
+she objected, and he (the angel) replied,
+
+[إِنَّمَا أَنَا رَسُولُ رَبِّك]{dir="rtl"}ِ
+
+*"I am only a messenger from your Lord."* \[Sūrat Maryam, Q19:19\]
+
+Do angels come to ordinary people in this manner?
+
+Elsewhere, it is said,
+
+[فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا]{dir="rtl"}
+
+*"So We sent to her Our Spirit (Jibrīl)."* \[Sūrat Maryam, Q19:17\]
+
+Are these not sufficient indications for affirming prophethood?
+
+Similarly, regarding the mother of Mūsá [عليه السلام]{dir="rtl"}, the word
+*waḥy* (revelation) is used.
+
+Another indication regarding Maryam [عليها السلام]{dir="rtl"} is that in Sūrat
+Maryam, a number of Prophets are mentioned with the phrase,
+
+[وَاذْكُرْ فِي الْكِتَابِ]{dir="rtl"}
+
+"And mention in the Book..."
+
+Among them are Zakariyyā [عليه السلام]{dir="rtl"}, Ibrāhīm [عليه
+السلام]{dir="rtl"}, and Idrīs [عليه السلام]{dir="rtl"}. If Maryam [عليها
+السلام]{dir="rtl"} were not a Prophetess, there would be no need to include her
+within this prophetic sequence using similar language.
+
+The opinion of Imam Ibn Ḥazm [رحمه الله]{dir="rtl"} is as follows: "As for the
+mother of Mūsá [عليه السلام]{dir="rtl"}, the mother of ʿĪsá [عليه
+السلام]{dir="rtl"}, and the mother of Isḥāq [عليه السلام]{dir="rtl"}, the Quran
+explicitly states that angels addressed some of them, conveying revelation from
+Allah, informing them of future events before they occurred. This, in essence,
+is precisely what constitutes prophethood, and there is no prophethood other
+than this. Thus, their prophethood is established by the explicit text of the
+Quran." \[al-Milal wa al-Niḥal\]
+
+Therefore, it is incorrect to assert that women have been deprived of the rank
+of prophethood.
+
+**Note:** It should be noted that Shaykh ʿAbd al-Raḥmān Nagrāmī al-Nadwī [رحمه
+الله]{dir="rtl"} is not alone in holding this view. A number of distinguished
+scholars, such as Ibn Ḥazm [رحمه الله]{dir="rtl"}, al-Qurṭubī [رحمه
+الله]{dir="rtl"}, and Abū al-Ḥasan al-Ashʿarī [رحمه الله]{dir="rtl"}, among
+others, are reported to have inclined toward this position. However, it remains
+a minority opinion, with the overwhelming majority of scholars holding that
+prophethood was exclusive to men. Given that this discussion intersects with
+matters of *ʿaqīdah*, this clarification is presented to ensure proper context
+and balance.
+
+The responsibilities of prophethood included engagement in warfare, persistent
+public and private *daʿwah*, direct interaction with diverse segments of
+society, confrontation with disbelievers, hypocrites, and apostates, and the
+establishment and governance of a community. These cumulative demands align more
+readily with the general physical and social capacities assigned to men.
+
+In contrast, the natural responsibilities placed upon women, including
+pregnancy, childbirth, nursing, and the upbringing of children, impose inherent
+constraints that would make the simultaneous fulfillment of prophethood
+alongside these roles exceptionally difficult. These factors may lead to
+physical and emotional exhaustion, making the comprehensive demands of
+prophethood difficult to sustain.
+
+Furthermore, it is important to note that not every individual addressed by
+angels is thereby a Prophet. This is clearly demonstrated in authentic
+narrations. For example, in a *ḥadīth* reported in *Musnad Aḥmad*, an angel was
+sent to a man and informed him that Allah had loved him for loving his brother
+for His sake. Likewise, in the narration of the leper, the blind man, and the
+bald man reported in *Ṣaḥīḥ al-Bukhārī* and *Ṣaḥīḥ Muslim*, angels directly
+interacted with individuals who were not Prophets. Similarly, in the famous
+*ḥadīth* of Jibrīl [عليه السلام]{dir="rtl"}, the angel came in human form and
+taught the Ṣaḥābah [رضي الله عنهم]{dir="rtl"} their *Dīn* through questioning,
+yet none of those present were prophets.
+
+As for the forms of communication received by figures such as the mother of Mūsá
+[عليه السلام]{dir="rtl"} or Āsiyah [عليها السلام]{dir="rtl"}, scholars have
+clarified that such inspiration may occur through dreams or other non-prophetic
+forms of *waḥy*. It is well established that true dreams can constitute a form
+of inspiration granted even to non-prophets.
+
+In conclusion, this discussion should be understood within its proper scholarly
+bounds. While the view presented has roots in the works of respected
+authorities, it remains a minority position. The overwhelming consensus of the
+Ummah affirms that Prophethood was exclusive to men, and this remains the safest
+and most widely accepted position. At the same time, it is essential to
+recognize that the virtue, rank, and nearness to Allah of women such as Maryam
+[عليها السلام]{dir="rtl"}, Āsiyah [عليها السلام]{dir="rtl"}, and the mother of
+Mūsá [عليه السلام]{dir="rtl"} are firmly established in revelation, without
+necessitating Prophethood. Their station is one of *īmān*, *ṣabr*, and closeness
+to Allah, and in many respects, they stand as exemplars for all believers.
