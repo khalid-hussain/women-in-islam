@@ -1,5 +1,5 @@
 
-## **Deficiency of Intellect (Nuqṣān al-ʿAql) and the Question of Female Authority**
+## Deficiency of Intellect (Nuqṣān al-ʿAql) and the Question of Female Authority
 
 There is no doubt that the Prophet Muḥammad [ﷺ]{dir="rtl"} counted women among
 those described as deficient in intellect (*nāqiṣāt ʿaql*). He [ﷺ]{dir="rtl"}

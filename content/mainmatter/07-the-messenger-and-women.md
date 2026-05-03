@@ -1,5 +1,5 @@
 
-## **The Messenger of Allah [ﷺ]{dir="rtl"} and Women**
+## The Messenger of Allah [ﷺ]{dir="rtl"} and Women
 
 Above, we have clarified through certain verses of the Noble Quran and the
 statements of the Master of Creation [ﷺ]{dir="rtl"} the status accorded to women

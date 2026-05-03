@@ -1,5 +1,5 @@
 
-## **The Transformative Impact of Islam**
+## The Transformative Impact of Islam
 
 Some time ago, in the well-known Egyptian journal *al-Manār*, an article was
 published under the title, *Women in Islam* ([المرأة في الإسلام]{dir="rtl"}). In

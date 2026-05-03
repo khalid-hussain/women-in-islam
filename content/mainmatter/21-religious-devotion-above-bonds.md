@@ -1,5 +1,5 @@
 
-## **Religious Devotion Above All Bonds**
+## Religious Devotion Above All Bonds
 
 The bond between husband and wife is among the deepest of human relationships.
 Yet the religious devotion of Muslim women prevailed even over this, and at

@@ -1,5 +1,5 @@
 
-## **Conclusion**
+## Conclusion
 
 These accounts collectively demonstrate that women were not merely passive
 participants but active architects of religious, social, legal, and

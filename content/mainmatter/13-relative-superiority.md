@@ -1,5 +1,5 @@
 
-## **The Relative Superiority of Men and Women**
+## The Relative Superiority of Men and Women
 
 Among the intricate issues that have occupied subtle and analytical minds for
 centuries is the question of the relative superiority between men and women.

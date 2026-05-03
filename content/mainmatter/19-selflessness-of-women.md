@@ -1,5 +1,5 @@
 
-## **The Selflessness of Muslim Women**
+## The Selflessness of Muslim Women
 
 Just as women stood alongside men in all the noble qualities of the early
 generations, they were not behind in the quality of self-sacrifice (*īthār*).

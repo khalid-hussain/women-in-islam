@@ -1,5 +1,5 @@
 
-## **Prophethood Among Women**
+## Prophethood Among Women
 
 A most remarkable and intriguing issue is that of the prophethood of women. It
 is generally denied, yet we intend to affirm it. One of the major arguments

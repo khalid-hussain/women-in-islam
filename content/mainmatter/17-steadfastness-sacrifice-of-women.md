@@ -1,5 +1,5 @@
 
-## **Steadfastness and the Sacrifice of Muslim Women**
+## Steadfastness and the Sacrifice of Muslim Women
 
 Up to this point, what we have written are indications from religious
 discussions commonly associated with women. Now we turn to the historical

@@ -1,5 +1,5 @@
 
-## **Shared Responsibility in Social Life**
+## Shared Responsibility in Social Life
 
 As mentioned earlier, the noble Sharīʿah granted equal rights to both men and
 women in the completion of social life and held both responsible for the
