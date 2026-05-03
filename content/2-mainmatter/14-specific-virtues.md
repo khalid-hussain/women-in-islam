@@ -36,13 +36,22 @@ accordance with his own teachings and performed *ruqyah* on him.
 ʿĀʾishah \hon{\P_HER}{\BODY} relates that during the time of the
 Prophet's \hon{\PBUH}{\BODY} final illness, he would recite the Muʿawwidhatayn:
 
-[قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ...]{dir="rtl"}
+\AYAH_AR_START
+قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ١
+\AYAH_AR_END
 
-[قُلْ أَعُوذُ بِرَبِّ النَّاسِ...]{dir="rtl"}
+\AYAH_START
+Say, “I seek refuge in the Lord of daybreak.” (Sūrat al-Falaq, Q113)
+\AYAH_END
 
-*Say: I seek refuge in the Lord of daybreak.* (Sūrat al-Falaq, Q113)
 
-*Say: I seek refuge in the Lord of mankind.* (Sūrat al-Nās, Q114)
+\AYAH_AR_START
+قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ١
+\AYAH_AR_END
+
+\AYAH_START
+Say, “I seek refuge in the Lord of mankind.” (Sūrat al-Nās, Q114)
+\AYAH_END
 
 ...and would blow over himself. When his illness was aggravated, she used to
 recite those two Sūrahs and blow her breath over him and make him rub his body

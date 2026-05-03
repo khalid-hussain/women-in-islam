@@ -31,9 +31,13 @@ the Prophetic teaching, “Religion is ease.” \[Ṣaḥīḥ al-Bukhārī\]
 
 It also echoes the Quranic declaration:
 
-[يُرِيدُ اللّٰهُ بِكُمُ الْيُسْرَ وَلَا يُرِيدُ بِكُمُ الْعُسْرَ]{dir="rtl"}
+\AYAH_AR_START
+يُرِيدُ ٱللَّهُ بِكُمُ ٱلۡيُسۡرَ وَلَا يُرِيدُ بِكُمُ ٱلۡعُسۡرَ
+\AYAH_AR_END
 
+\AYAH_START
 Allah intends ease for you and does not intend hardship for you. (Sūrat al-Baqarah, Q2:185)
+\AYAH_END
 
 The deeper meaning of her response is this: the Prophet \hon{\PBUH}{\BODY}
 expressed this principle to comfort and reassure his followers, yet for us it
@@ -103,6 +107,8 @@ was that era when courageous and lion-hearted women would confront the Amīr
 al-Muʾminīn in matters of truth in public pathways, and he would humbly submit.
 And how sacred were those days when our mothers and sisters fulfilled the duty
 of commanding good and forbidding evil.
+
+<!-- TODO: Arabic Quote -->
 
 [فَيَا عَجَبًا لِفُنُونِ الدَّهْرِ وَيَا لِزَمَان]{dir="rtl"}ِ
 

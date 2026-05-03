@@ -75,9 +75,13 @@ who are best to their women."
 
 And most comprehensive of all is the statement of the Noble Quran:
 
-[وَعَاشِرُوهُنَّ بِالْمَعْرُوف]{dir="rtl"}ِ
+\AYAH_AR_START
+وَعَاشِرُوهُنَّ بِٱلۡمَعۡرُوفِۚ
+\AYAH_AR_END
 
+\AYAH_START
 And live with them (women) in kindness. (Sūrat al-Nisāʾ, Q4:19)
+\AYAH_END
 
 After such clear and explicit texts, can it justly be claimed that Islam is
 narrow-minded with respect to the fairer sex (Urdu: _ṣinf al-nāzik_)?

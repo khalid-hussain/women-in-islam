@@ -14,14 +14,15 @@ practical terms, for his actions and conduct are for us like red sulphur[^4]
     elevates the human soul from its base state to spiritual perfection, just as
     base metals are transmuted into gold.
 
-<!-- TODO: add missing footnote -->
-
 Allah says,
 
-[لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ]{dir="rtl"}
+\AYAH_AR_START
+لَّقَدۡ كَانَ لَكُمۡ فِي رَسُولِ ٱللَّهِ أُسۡوَةٌ حَسَنَةٞ
+\AYAH_AR_END
 
-Indeed, in the Messenger of Allah you have an excellent example. (Sūrat
-al-Aḥzābʾ, Q33:21)
+\AYAH_START
+Indeed, in the Messenger of Allah you have an excellent example. (Sūrat al-Aḥzābʾ, Q33:21)
+\AYAH_END
 
 The esteem and honor which the women held in the blessed heart of the Prophet
 \hon{\PBUH}{\BODY} may be gauged from the narration of Anas \hon{\P_HIM}{\BODY}

@@ -16,6 +16,8 @@ and they should be granted full freedom in this matter.
 
 The Prophet \hon{\PBUH}{\BODY} said,
 
+<!-- TODO: Add hadith styles -->
+
 [الأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا، وَالْبِكْرُ تُسْتَأْذَنُ فِي
 نَفْسِهَا، وَإِذْنُهَا صُمَاتُهَا]{dir="rtl"}
 
@@ -44,9 +46,13 @@ maintained and neither party holds unqualified superiority over the other.
 
 Allah says,
 
-[خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ]{dir="rtl"}
+\AYAH_AR_START
+خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ
+\AYAH_AR_END
 
+\AYAH_START
 He created you all from a single soul. (Sūrat al-Nisāʾ, Q4:1)
+\AYAH_END
 
 Since both genders originate from one essence, granting one party authority over
 another without any form of compensation runs contrary to the principle of
@@ -61,19 +67,25 @@ alone. \[Tafsīr al-Manār\]
 
 For this reason, after mentioning such rulings, the Quran declares:
 
-[وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ
-بَعْضٍ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+وَلَا تَتَمَنَّوۡاْ مَا فَضَّلَ ٱللَّهُ بِهِۦ بَعۡضَكُمۡ عَلَىٰ بَعۡضٖۚ
+\AYAH_AR_END
 
+\AYAH_START
 Do not desire that by which Allah has given some of you preference over others.
 (Sūrat al-Nisāʾ, Q4:32)
+\AYAH_END
 
 And further:
 
-[لِلرِّجَالِ نَصِيبٌ مِّمَّا اكْتَسَبُوا وَلِلنِّسَاءِ نَصِيبٌ مِّمَّا
-اكْتَسَبْنَ]{dir="rtl"}
+\AYAH_AR_START
+لِلرِّجَالِ نَصِيبٞ مِّمَّا ٱكۡتَسَبُواْۖ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا ٱكۡتَسَبۡنَۚ
+\AYAH_AR_END
 
+\AYAH_START
 For men is a share of what they earn, and for women is a share of what they
 earn. (Sūrat al-Nisāʾ, Q4:32)
+\AYAH_END
 
 Thus, it is contrary to principle that the woman should give compensation to the
 man, for this would amount to granting men superiority without balance.
@@ -137,10 +149,14 @@ It is narrated regarding Umm Salamah \hon{\P_HER}{\BODY} that once the Prophet
 beneath the tree (at Al-Ḥudaybiyyah) would enter the Fire. She immediately
 responded by citing the Quran:
 
-[وَإِنْ مِنْكُمْ إِلَّا وَارِدُهَا]{dir="rtl"}
+\AYAH_AR_START
+وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ
+\AYAH_AR_END
 
+\AYAH_START
 There is none among you except that he will pass over it. (Sūrat Maryam,
 Q19:71)
+\AYAH_END
 
 Upon hearing this, the Prophet \hon{\PBUH}{\BODY} clarified his statement
 through another Quran *āyah*. Consider whether, in our time, women are educated

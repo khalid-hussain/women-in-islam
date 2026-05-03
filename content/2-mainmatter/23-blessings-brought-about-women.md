@@ -16,14 +16,18 @@ declined them. Saddened, she then sent a message to ʿĀʾishah
 \hon{\P_HER}{\BODY}[^10], who consulted the Prophet \hon{\PBUH}{\BODY}. At that
 moment, the verse was revealed:
 
-[^10]: Translator's Note: This report could refer to Asmāʾ bint Abī Bakr [رضي
-    الله عنها]{dir="rtl"} based on similar narrations in *Ṣaḥīḥ al-Bukhārī* and
-    not ʿĀʾishah \hon{\P_HER}{\BODY}.
+[^10]: Translator's Note: This report could refer to Asmāʾ bint Abī Bakr
+    \hon{\P_HER}{\FOOTER} based on similar narrations in *Ṣaḥīḥ al-Bukhārī* and
+    not ʿĀʾishah \hon{\P_HER}{\FOOTER}.
 
-[لَا يَنْهَاكُمُ اللّٰهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُم]{dir="rtl"}ْ
+\AYAH_AR_START
+لَّا يَنۡهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمۡ يُقَٰتِلُوكُمۡ
+\AYAH_AR_END
 
+\AYAH_START
 Allah does not forbid you from those who do not fight you... (Sūrat
 al-Mumtaḥanah, Q60:8)
+\AYAH_END
 
 From this, the permissibility of accepting gifts from non-Muslims was
 established.
@@ -73,9 +77,13 @@ two daughters who were deprived of the inheritance. His wife, Umm Kujjah
 \hon{\PBUH}{\BODY} and lodged a complaint. At that moment, the ruling was
 revealed:
 
-[لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ]{dir="rtl"}
+\AYAH_AR_START
+لِلذَّكَرِ مِثۡلُ حَظِّ ٱلۡأُنثَيَيۡنِۚ
+\AYAH_AR_END
 
+\AYAH_START
 For the male is a share equal to that of two females. (Sūrat al-Nisāʾ, Q4:11)[^11]
+\AYAH_END
 
 [^11]: Translator's Note: The names are incorrect. The case of a woman who
     complained to the Prophet \hon{\PBUH}{\BODY} after her daughters were deprived

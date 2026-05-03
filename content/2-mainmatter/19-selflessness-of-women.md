@@ -6,10 +6,14 @@ generations, they were not behind in the quality of self-sacrifice (*īthār*).
 This trait was among the distinguishing features of that era. The Quran
 highlights,
 
-[وَيُؤْثِرُونَ عَلَىٰ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ]{dir="rtl"}
+\AYAH_AR_START
+وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞۚ
+\AYAH_AR_END
 
+\AYAH_START
 They prefer others over themselves, even though they themselves are in need.
 (Sūrat al-Ḥashr, Q59:9)
+\AYAH_END
 
 In this path, the gentler gender traversed such difficult stages that even among
 men, examples of similar magnitude are rarely found. Women are known for their
@@ -109,18 +113,17 @@ Greater still is the immense sacrifice demonstrated by the Mothers of the
 Believers (Ummahāt al-Muʾminīn). When some of the wives of the Prophet
 \hon{\PBUH}{\BODY} made certain requests, the following *āyah* was revealed:
 
-[يَا أَيُّهَا النَّبِيُّ قُلْ لِّأَزْوَاجِكَ إِن كُنتُنَّ تُرِدْنَ الْحَيَاةَ
-الدُّنْيَا وَزِينَتَهَا فَتَعَالَيْنَ أُمَتِّعْكُنَّ وَأُسَرِّحْكُنَّ سَرَاحًا
-جَمِيلًا]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّأَزۡوَٰجِكَ إِن كُنتُنَّ تُرِدۡنَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا فَتَعَالَيۡنَ أُمَتِّعۡكُنَّ وَأُسَرِّحۡكُنَّ سَرَاحٗا جَمِيلٗا ٢٨ وَإِن كُنتُنَّ تُرِدۡنَ ٱللَّهَ وَرَسُولَهُۥ وَٱلدَّارَ ٱلۡأٓخِرَةَ فَإِنَّ ٱللَّهَ أَعَدَّ لِلۡمُحۡسِنَٰتِ مِنكُنَّ أَجۡرًا عَظِيمٗا ٢٩
+\AYAH_AR_END
 
-[وَإِن كُنتُنَّ تُرِدْنَ اللّٰهَ وَرَسُولَهُ وَالدَّارَ الْآخِرَةَ فَإِنَّ
-اللّٰهَ أَعَدَّ لِلْمُحْسِنَاتِ مِنكُنَّ أَجْرًا عَظِيمًا]{dir="rtl"}
-
+\AYAH_START
 O Prophet! Say to your wives, “If you desire the life of this world and its
 adornment, then come, I will give you a (suitable) compensation (for divorce)
 and let you go graciously. But if you desire Allah, His Messenger, and the
 Hereafter, then indeed Allah has prepared for the righteous among you a great
-reward.” \[Sūrat al-Aḥzāb, Q33:28--29\]
+reward.” (Sūrat al-Aḥzāb, Q33:28--29)
+\AYAH_END
 
 This was an extremely severe test. When this *āyah* was revealed, the Prophet
 \hon{\PBUH}{\BODY} first went to ʿĀʾishah \hon{\P_HER}{\BODY} and said, “I wish
@@ -159,6 +162,10 @@ community and the rescue of its declining condition. By spending generously from
 their wealth in collective causes, they should demonstrate that the same
 religious fervor and communal spirit still flows within them.
 
-[نِعْمَ الْمَوْلَىٰ وَنِعْمَ النَّصِيرُ]{dir="rtl"}[]{dir="ltr"}
+\AYAH_AR_START
+نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ ٤٠
+\AYAH_AR_END
 
+\AYAH_START
 Excellent is the Protector, and excellent is the Helper. (Sūrat al-Anfāl, Q8:40)
+\AYAH_END

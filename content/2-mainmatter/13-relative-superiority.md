@@ -13,9 +13,13 @@ is remarkable that the interpretations and expansions derived from these verses
 are often not supported by the context of the Quran nor by the practice and
 Sunnah of the Messenger \hon{\PBUH}{\BODY}. It is indeed stated in the Quran:
 
-[وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ]{dir="rtl"}
+\AYAH_AR_START
+وَلِلرِّجَالِ عَلَيۡهِنَّ دَرَجَةٞۗ
+\AYAH_AR_END
 
-*And men have a degree over them.* \[Sūrat al-Baqarah, Q2:228\]
+\AYAH_START
+And men have a degree over them. \[Sūrat al-Baqarah, Q2:228\]
+\AYAH_END
 
 Yet this degree does not pertain to the domains often asserted today; rather, it
 relates to functions connected with the physical constitution of human beings.
@@ -29,9 +33,13 @@ development and refinement.
 In this regard, we cite the insightful explanation of the renowned Egyptian
 scholar, Al-ʿAllāmah Muḥammad ʿAbduh \hon{\M_HIM}{\BODY}. The Quran states,
 
-[الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ]{dir="rtl"}
+\AYAH_AR_START
+ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ
+\AYAH_AR_END
 
+\AYAH_START
 Men are maintainers over women. (Sūrat al-Nisāʾ, Q4:34)
+\AYAH_END
 
 This *āyah* is often cited as a strong argument for male superiority; however,
 when examined closely, it clarifies the nature of that "degree." In Arabic

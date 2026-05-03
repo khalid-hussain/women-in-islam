@@ -14,12 +14,15 @@ in divine revelation, would have been lost.
 
 Allah says,
 
-[وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا
-إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً]{dir="rtl"}
+\AYAH_AR_START
+وَمِنۡ ءَايَٰتِهِۦٓ أَنۡ خَلَقَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَٰجٗا لِّتَسۡكُنُوٓاْ إِلَيۡهَا وَجَعَلَ بَيۡنَكُم مَّوَدَّةٗ وَرَحۡمَةًۚ
+\AYAH_AR_END
 
+\AYAH_START
 And among His signs is that He created for you spouses from among yourselves so
 that you may find tranquility in them, and He placed between you love and
 mercy. (Sūrat al-Rūm, Q30:21)
+\AYAH_END
 
 Reflect upon this *āyah* and ask whether the claims of love and mercy can truly
 stand when a woman's rights are violated and she is reduced to little more than
@@ -34,10 +37,14 @@ her husband; after the completion of her waiting period, she wished, in
 accordance with the Sharʿī principle, to remarry him. Both parties were willing,
 but Maʿqil opposed it. At that moment, the following *āyah* was revealed:
 
-[فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ]{dir="rtl"}
+\AYAH_AR_START
+فَلَا تَعۡضُلُوهُنَّ أَن يَنكِحۡنَ أَزۡوَٰجَهُنَّ
+\AYAH_AR_END
 
+\AYAH_START
 Do not prevent them (women) from marrying their (former) husbands. (Sūrat
 al-Baqarah, Q2:232)
+\AYAH_END
 
 Maʿqil was her full brother, and it might have been assumed that his objection
 was based on some wisdom; yet it was rejected solely on the principle that no
@@ -56,11 +63,14 @@ mercilessly to property. The Sharīʿah put an end to this entirely.
 
 Allah says,
 
-[يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ
-كَرْهًا]{dir="rtl"}
+\AYAH_AR_START
+يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَحِلُّ لَكُمۡ أَن تَرِثُواْ ٱلنِّسَآءَ كَرۡهٗاۖ
+\AYAH_AR_END
 
+\AYAH_START
 O believers, it is not lawful for you to inherit women against their will.
 (Sūrat al-Nisāʾ, Q4:19)
+\AYAH_END
 
 The prohibition of such marriages is stated explicitly elsewhere as well, but
 here the essential point is that such coercion against women is contrary to the
@@ -75,8 +85,12 @@ without a woman's consent, she has the right to have it annulled. To safeguard
 such rights, the Sharīʿah instituted the ruling of *khulʿ*, which is nearly
 equivalent to the man's right of *ṭalāq*. The *āyah*:
 
-[وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا]{dir="rtl"}
+\AYAH_AR_START
+وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا
+\AYAH_AR_END
 
+\AYAH_START
 And if a woman fears ill treatment or aversion from her husband... (Sūrat al-Nisāʾ, Q4:128)
+\AYAH_END
 
 ...alludes to this very principle.

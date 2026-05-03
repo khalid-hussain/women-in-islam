@@ -33,26 +33,37 @@ For example, the story of Maryam \hon{\S_HER}{\BODY} is mentioned in multiple
 places in the Quran, and almost every instance contains expressions that
 indicate her prophethood.
 
-[إِذْ قَالَتِ الْمَلَائِكَةُ يَا مَرْيَمُ إِنَّ اللّٰهَ اصْطَفَاكِ وَطَهَّرَكِ
-وَاصْطَفَاكِ عَلَىٰ نِسَاءِ الْعَالَمِينَ]{dir="rtl"}
+\AYAH_AR_START
+وَإِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ ٱصۡطَفَىٰكِ وَطَهَّرَكِ وَٱصۡطَفَىٰكِ عَلَىٰ نِسَآءِ ٱلۡعَٰلَمِينَ ٤٢
+\AYAH_AR_END
 
-When the angels said, “O Maryam, indeed Allah has chosen you, purified you, and
+\AYAH_START
+And when the angels said, “O Maryam, indeed Allah has chosen you, purified you, and
 chosen you above the women of all the worlds.” (Sūrat Āl ʿImrān, Q3:42)
+\AYAH_END
 
 The term *iṣṭafá*, meaning to select, or to elect, is frequently used in the
 Quran for the Prophets. On another occasion, when Maryam \hon{\S_HER}{\BODY}
 withdrew to a secluded place and encountered a figure, she objected, and he (the
 angel) replied,
 
-[إِنَّمَا أَنَا رَسُولُ رَبِّك]{dir="rtl"}ِ
+\AYAH_AR_START
+إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ
+\AYAH_AR_END
 
+\AYAH_START
 “I am only a messenger from your Lord.” (Sūrat Maryam, Q19:19)
+\AYAH_END
 
 Do angels come to ordinary people in this manner? Elsewhere, it is said,
 
-[فَأَرْسَلْنَا إِلَيْهَا رُوحَنَا]{dir="rtl"}
+\AYAH_AR_START
+فَأَرۡسَلۡنَآ إِلَيۡهَا رُوحَنَا
+\AYAH_AR_END
 
+\AYAH_START
 So We sent to her Our Spirit (Jibrīl). (Sūrat Maryam, Q19:17)
+\AYAH_END
 
 Are these not sufficient indications for affirming prophethood? Similarly,
 regarding the mother of Mūsá \hon{\S_HIM}{\BODY}, the word *waḥy* (revelation)
@@ -61,9 +72,13 @@ is used.
 Another indication regarding Maryam \hon{\S_HER}{\BODY} is that in _Sūrat Maryam_,
 a number of Prophets are mentioned with the phrase,
 
-[وَاذْكُرْ فِي الْكِتَابِ]{dir="rtl"}
+\AYAH_AR_START
+وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ
+\AYAH_AR_END
 
+\AYAH_START
 And mention in the Book...
+\AYAH_END
 
 Among them are Zakariyyā \hon{\S_HIM}{\BODY}, Ibrāhīm \hon{\S_HIM}{\BODY}, and
 Idrīs \hon{\S_HIM}{\BODY}. If Maryam \hon{\S_HER}{\BODY} were not a Prophetess,

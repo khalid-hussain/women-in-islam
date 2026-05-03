@@ -7,9 +7,13 @@ collectively cast them, we now present a few historical examples. These
 illustrate how, once Islam enabled this delicate creation to stand on its own
 feet and declared:
 
-[وَلَهُنَّ مِثْلُ الَّذِي عَلَيْهِنَّ بِالْمَعْرُوفِ]{dir="rtl"}
+\AYAH_AR_START
+وَلَهُنَّ مِثۡلُ ٱلَّذِي عَلَيۡهِنَّ بِٱلۡمَعۡرُوفِۚ
+\AYAH_AR_END
 
+\AYAH_START
 And for them are rights similar to those upon them, according to what is just... (Sūrat Al-Baqarah, Q2:228)
+\AYAH_END
 
 Women then, with remarkable freedom and courage, protected their rights,
 presented their claims before the supreme court of Islam, and obtained their

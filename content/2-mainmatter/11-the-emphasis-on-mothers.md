@@ -26,6 +26,10 @@ may become negligent in fulfilling their rights. In any case, the Sharīʿah
 safeguarded the rights of women and granted them full authority to assert their
 legitimate claims with clarity and strength.
 
-[وَكَفَىٰ بِاللَّهِ شَهِيدًا]{dir="rtl"}
+\AYAH_AR_START
+وَكَفَىٰ بِٱللَّهِ شَهِيدٗا
+\AYAH_AR_END
 
+\AYAH_START
 And Allah is sufficient as a witness. (Sūrat al-Nisāʾ, Q4:79)
+\AYAH_END

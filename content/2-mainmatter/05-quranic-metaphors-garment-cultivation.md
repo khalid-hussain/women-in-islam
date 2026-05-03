@@ -20,9 +20,13 @@ and those related to worldly social life. With the establishment of marriage,
 one aspect of social life is, in a sense, completed. Certain *āyāt* of the Noble
 Quran further clarify this reality. For example, Allah the Most High says:
 
-[هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ]{dir="rtl"}
+\AYAH_AR_START
+هُنَّ لِبَاسٞ لَّكُمۡ وَأَنتُمۡ لِبَاسٞ لَّهُنَّۗ
+\AYAH_AR_END
 
+\AYAH_START
 They (women) are a garment for you, and you are a garment for them. (Sūrat al-Baqarah, Q2:187)
+\AYAH_END
 
 Clothing is an essential need for human beings, and generally, people take
 greater care in its adornment and refinement than in other things; for this
@@ -32,9 +36,13 @@ becomes the duty of both man and woman to strive earnestly in beautifying and
 refining one another. In another instance, the status of women is presented in
 an even more striking manner:
 
-[نِسَاؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا حَرْثَكُمْ أَنَّى شِئْتُم]{dir="rtl"}ْ
+\AYAH_AR_START
+نِسَآؤُكُمۡ حَرۡثٞ لَّكُمۡ فَأۡتُواْ حَرۡثَكُمۡ أَنَّىٰ شِئۡتُمۡۖ
+\AYAH_AR_END
 
+\AYAH_START
 Your women are a tilth for you, so approach your tilth as you will. (Sūrat al-Baqarah, Q2:223)
+\AYAH_END
 
 According to the scholars of Tafsīr (exegesis), this *āyah* refers to a
 particular incident; however, it is a well-established principle of Tafsīr that
