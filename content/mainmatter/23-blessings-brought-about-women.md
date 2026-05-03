@@ -16,6 +16,10 @@ declined them. Saddened, she then sent a message to ʿĀʾishah
 \hon{\P_HER}{\BODY}[^10], who consulted the Prophet \hon{\PBUH}{\BODY}. At that
 moment, the verse was revealed:
 
+[^10]: Translator's Note: This report could refer to Asmāʾ bint Abī Bakr [رضي
+    الله عنها]{dir="rtl"} based on similar narrations in *Ṣaḥīḥ al-Bukhārī* and
+    not ʿĀʾishah \hon{\P_HER}{\BODY}.
+
 [لَا يَنْهَاكُمُ اللّٰهُ عَنِ الَّذِينَ لَمْ يُقَاتِلُوكُم]{dir="rtl"}ْ
 
 Allah does not forbid you from those who do not fight you... (Sūrat
@@ -72,6 +76,13 @@ revealed:
 [لِلذَّكَرِ مِثْلُ حَظِّ الْأُنْثَيَيْنِ]{dir="rtl"}
 
 For the male is a share equal to that of two females. (Sūrat al-Nisāʾ, Q4:11)[^11]
+
+[^11]: Translator's Note: The names are incorrect. The case of a woman who
+    complained to the Prophet \hon{\PBUH}{\BODY} after her daughters were deprived
+    of inheritance is found in *Sunan Abī Dāwūd* and *Jāmiʿ al-Tirmidhī*.
+    Therein, it is the wife of Saʿd ibn al-Rabīʿ \hon{\P_HIM}{\BODY} who
+    complained that his uncle took all the wealth and the daughters were left
+    with nothing.
 
 Similarly, a ruling regarding the separation of a mother and child was
 established due to a woman's suffering. A slave woman named Umm Ḍamīrah was

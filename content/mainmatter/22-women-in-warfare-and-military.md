@@ -60,6 +60,11 @@ rode alongside her husband Zubayr \hon{\P_HIM}{\BODY}, entering enemy
 ranks and turning the tide of battle. When he struck, she too struck, and with
 each blow, a head would fall.[^8]
 
+[^8]: Translator's Note: This narration appears to be a misattribution or
+    exaggeration and cannot be cited as an authentic historical report. The
+    report is likely influenced by confusion with Nusaybah bint Kaʿb [رضي الله
+    عنها]{dir="rtl"}.
+
 During the Umayyad period, when Ḥajjāj besieged ʿAbdullāh ibn al-Zubayr
 \hon{\P_TWO}{\BODY}, he sought counsel from his mother, Asmāʾ
 \hon{\P_HER}{\BODY}. She delivered a powerful and impassioned address, saying,
@@ -111,6 +116,10 @@ During the pledge of al-ʿAqabah, women played a significant role. They would
 actively encourage one another to participate. For example, during the Battle of
 Badr, many women joined the battlefield due to the encouragement of Amīnah
 al-Ghifāriyyah \hon{\P_HER}{\BODY}.[^9]
+
+[^9]: Translator's Note: There is no reliable report that establishes groups of
+    women accompanied the army at Badr. Women are clearly documented in the
+    Battles of Uḥud, Khandaq, and later expeditions.
 
 Khansāʾ bint ʿAmr, the famous Arab poetess, would recite her poetry before the
 Prophet \hon{\PBUH}{\BODY}, who would listen with great appreciation. She

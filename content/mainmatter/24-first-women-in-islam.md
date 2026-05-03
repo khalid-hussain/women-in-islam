@@ -19,6 +19,10 @@ al-Ghābah*, “She was the first martyr in Islam.”
 When the Quraysh plotted to assassinate the Prophet \hon{\PBUH}{\BODY}, it was a
 woman who first conveyed the warning.[^12]
 
+[^12]: Translator's Note: The assassination plot is well documented in works
+    like Sīrat Ibn Hishām, but there is no reliable report of a woman conveying
+    the warning first.
+
 Among Muslims, the use of a bier (_tabūt_) was first introduced by Asmāʾ bint
 ʿUmays \hon{\P_HER}{\BODY}. She was among those who migrated to
 Abyssinia, where this practice was common among the Christians, and she
@@ -56,3 +60,10 @@ first stayed in Madīnah at the house of a widow. He observed that a man would
 come daily and leave something behind. Upon inquiry, it was said, “Sahl ibn
 Ḥunāyf \hon{\P_HIM}{\BODY} breaks the idols of his people and gives them
 to me, and I use them as fuel.”[^13]
+
+[^13]: Translator's Note: The original report does not explicitly mention gold.
+    Rather, the idols could have been made of wood, stone, or other precious
+    materials. Point being, even if they had value, they were treated as
+    worthless objects once their false sanctity was removed. The point
+    highlighted here is more of a moral reflection than a literal historical
+    claim.

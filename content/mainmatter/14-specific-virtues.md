@@ -64,6 +64,10 @@ distinction as his representative. However, this honor belongs to the gentler
 gender, because the Prophet \hon{\PBUH}{\BODY} himself first undertook trade to
 Syria as Khadījah's \hon{\P_HER}{\BODY} representative[^6].
 
+[^6]: It appears that the author is trying to highlight how the agency (wakālah)
+    was reversed: rather than someone acting on behalf of the Prophet
+    \hon{\PBUH}{\BODY}, the Prophet \hon{\PBUH}{\BODY} acted on behalf of her.
+
 We have already stated at the outset that such personal virtues do not, in
 reality, establish superiority or precedence. However, since human dispositions
 generally incline toward such distinctions, and such qualities are often

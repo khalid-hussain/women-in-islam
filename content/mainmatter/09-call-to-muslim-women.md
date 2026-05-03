@@ -34,3 +34,8 @@ alone.**
 *Saʿdī's*[^5] *counsel is that the path of purity*
 
 *Can be traversed only by following Muṣṭafā \hon{\PBUH}{\BODY}.*
+
+[^5]: Saʿdī Shirāzī (c.1210--c.1291) was an Iranian poet and prose writer,
+    widely recognized as one of the greatest masters of the classical literary
+    tradition. (Encyclopaedia Iranica) Poetic self-reference is not uncommon;
+    these couplets are attributed to him in his Dīwān.

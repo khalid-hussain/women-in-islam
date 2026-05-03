@@ -170,6 +170,15 @@ Shaykh Thanāʾullāh Amritsarī's \hon{\M_HIM}{\BODY} work *Ḥaqq Prakāsh*[^2
 into Arabic, after removing additional commentary, and distributed it widely in
 the Arab literary world.
 
+[^1]: Satyārth Prakāsh was the principal work of Swami Dayanand Saraswati which
+    was to be used as a foundational text for propagating reformist Hindu
+    doctrines.
+
+[^2]: Ḥaqq Prakāsh was a focused rebuttal of Satyārth Prakāsh, wherein Shaykh
+    Thanāʾullāh Amritsarī systematically critiques the claims of the Arya Samaj
+    using both rational analysis and textual evidence. He defends the core
+    tenets of Islam while exposing inconsistencies within opposing doctrines.
+
 During his time at Nadwat al-ʿUlamāʾ, ʿAllāmah Sayyid Sulaymān al-Nadwī [رحمه
 الله]{dir="rtl"} requested him to prepare an introductory Arabic treatise on
 logic in a clear and accessible style. He completed the work, though it
@@ -196,6 +205,10 @@ cap, which remained unchanged throughout his life. His commitment to
 non-cooperation[^3] was genuine. He lived privately exactly as he appeared
 publicly. In winter, he rarely used more than one or two blankets, often
 covering himself with what he slept upon.
+
+[^3]: The Non-Cooperation Movement was a mass civil resistance campaign led by
+    Gandhi urging Indians to boycott British institutions, goods, and services
+    to achieve self-rule.
 
 ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} noted, "He was an angel
 in the form of a human being. In his youth, he put elders to shame with his

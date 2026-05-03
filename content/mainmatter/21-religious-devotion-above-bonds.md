@@ -52,6 +52,16 @@ women, but the cause of the Prophet's \hon{\PBUH}{\BODY} displeasure was that
 among the conditions of *bayʿah* was that women should spend their wealth
 freely, without hesitation, in the path of Allah.)[^7]
 
+[^7]: Translator's Note: It is not authentically established that the Prophet
+    \hon{\PBUH}{\BODY} ever placed the condition of women parting from their wealth
+    as a condition for *bayʿah*. What the author might be referring to are
+    narrations like when a woman came to the Prophet \hon{\PBUH}{\BODY} with her
+    daughter, and on the daughter's hands were two gold bangles. He
+    \hon{\PBUH}{\BODY} said to her, "Do you give the *zakāh* on these?" She replied,
+    "No." He \hon{\PBUH}{\BODY} said, "Would it please you that Allah should place
+    upon you, on the Day of Resurrection, two bangles of fire?" So she removed
+    them and cast them aside. \[Sunan Abī Dāwūd\]
+
 When the persecution of Quraysh intensified in Makkah, the Prophet
 \hon{\PBUH}{\BODY} traveled to Ṭāʾif to invite its people to Islam. However, their
 mistreatment surpassed even that of Makkah. Dogs were set upon him, and children
