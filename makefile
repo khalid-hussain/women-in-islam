@@ -14,9 +14,10 @@ endif
 MACROS = utils/gpp/_macros.pp
 
 METADATA = metadata.yaml
-FM = content/frontmatter/*.md
-MM = content/mainmatter/*.md
-CONTENT = $(METADATA) $(FM) $(MM)
+FM = content/1-frontmatter/*.md
+MM = content/2-mainmatter/*.md
+BM = content/3-backmatter/*.md
+CONTENT = $(METADATA) $(FM) $(MM) $(BM)
 
 default: docx
 

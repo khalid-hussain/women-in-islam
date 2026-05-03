@@ -1,17 +1,17 @@
 
 # Foreword
 
-Mawlānā ʿAbd al-Raḥmān al-Nagramī al-Nadwī \hon{\M_HIM}{\BODY} was among
-those distinguished sons of Nadwat al-ʿUlamāʾ who left a profound impression
-through their intellectual and practical contributions. In his relatively short
-life, he rendered significant service as a scholar of religion and a guide to
-the community. Although he departed from this world in the prime of his youth,
-the memory of his works and virtues has endured; even today, he is remembered
-with great respect and admiration. He belonged to the second generation of Nadwī
+Mawlānā ʿAbd al-Raḥmān al-Nagramī al-Nadwī \hon{\M_HIM}{\BODY} was among those
+distinguished sons of Nadwat al-ʿUlamāʾ who left a profound impression through
+their intellectual and practical contributions. In his relatively short life, he
+rendered significant service as a scholar of religion and a guide to the
+community. Although he departed from this world in the prime of his youth, the
+memory of his works and virtues has endured; even today, he is remembered with
+great respect and admiration. He belonged to the second generation of Nadwī
 scholars and was a contemporary of luminaries such as ʿAllāmah Sayyid Sulaymān
-al-Nadwī \hon{\M_HIM}{\BODY} and Mawlānā ʿAbd al-Bārī al-Nadwī [رحمه
-الله]{dir="rtl"}, among others. These great scholars regarded his passing as a
-major loss to scholarship and righteous action, expressing their grief in
+al-Nadwī \hon{\M_HIM}{\BODY} and Mawlānā ʿAbd al-Bārī al-Nadwī
+\hon{\M_HIM}{\BODY}, among others. These great scholars regarded his passing as
+a major loss to scholarship and righteous action, expressing their grief in
 eloquent and heartfelt terms.
 
 The intellectual and practical capabilities demonstrated by Mawlānā ʿAbd
@@ -45,7 +45,7 @@ honorable treatment. It ensured that marriage was not a transaction of
 exploitation but a dignified union based on consent, rights, and mutual respect.
 
 Mawlānā ʿAbd al-Raḥmān al-Nagramī \hon{\M_HIM}{\BODY} presented these
-realities in a clear and accessible style, drawing upon the Qurʾān and Ḥadīth to
+realities in a clear and accessible style, drawing upon the Quran and Ḥadīth to
 demonstrate the honor Islam accords to women. He further illustrated how the
 women of the early Islamic period embodied these teachings in practice, often
 displaying capability equal to, or at times exceeding, that of men, and
