@@ -4,27 +4,27 @@
 As mentioned earlier, the noble Sharīʿah granted equal rights to both men and
 women in the completion of social life and held both responsible for the
 well-being or corruption of the family and progeny. Evidence for this claim is
-found in the narration of ʿAbdullāh ibn ʿUmar [رضي الله عنهما]{dir="rtl"}:
+found in the narration of ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY}:
 
 [وَالرَّجُلُ رَاعٍ فِي أَهْلِ بَيْتِهِ، وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ،
 وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا، وَهِيَ مَسْئُولَةٌ عَنْ
 رَعِيَّتِهَا]{dir="rtl"}
 
-"The man is a guardian over his household and will be questioned regarding them,
+“The man is a guardian over his household and will be questioned regarding them,
 and the woman is a guardian over her husband's house and will be questioned
-regarding it." \[Ṣaḥīḥ al-Bukhārī\]
+regarding it.” \[Ṣaḥīḥ al-Bukhārī\]
 
 In another narration from him, an additional phrase appears:
 
 [وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ بَعْلِهَا وَوَلَدِهِ، وَهِيَ مَسْئُولَةٌ
 عَنْهُمْ]{dir="rtl"}
 
-"The woman is responsible for her husband's house and his children." \[Ṣaḥīḥ
+“The woman is responsible for her husband's house and his children.” \[Ṣaḥīḥ
 al-Bukhārī\]
 
-The Messenger of Allah [ﷺ]{dir="rtl"}, upon whom my soul be sacrificed, was the
-most eloquent of both Arabs and non-Arabs, and among his distinguishing
-qualities was that he was "granted concise and comprehensive speech." \[Ṣaḥīḥ
+The Messenger of Allah \hon{\PBUH}{\BODY}, upon whom my soul be sacrificed, was
+the most eloquent of both Arabs and non-Arabs, and among his distinguishing
+qualities was that he was “granted concise and comprehensive speech.” \[Ṣaḥīḥ
 al-Bukhārī\]
 
 Today, among us, numerous debates arise concerning women; even if we set aside
@@ -39,4 +39,4 @@ their children?
 
 If this is the case, then those who oppose the education of women, after this
 statement, are they prepared to answer before the Messenger of Allah
-[ﷺ]{dir="rtl"}?
+\hon{\PBUH}{\BODY}?

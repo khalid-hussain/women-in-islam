@@ -9,7 +9,7 @@ upon those who obey Him. All praise is due to Him who directed mankind to
 recognize His existence through His signs, leaving them with no excuse, as He
 conveyed His message through His Messengers [عليهم السلام]{dir="rtl"}, the best
 of His creation. I bear witness that none has the right to be worshipped except
-Allah alone, and I bear witness that Muḥammad [ﷺ]{dir="rtl"} is His servant and
+Allah alone, and I bear witness that Muḥammad \hon{\PBUH}{\BODY} is His servant and
 Messenger. May Allah send blessings upon him, his family, and his companions, as
 long as the clouds bring rain and the thunder follows the lightning.
 
@@ -18,7 +18,7 @@ another work from the luminous legacy of the scholars of Nagrām. I truly
 stumbled upon this work like an archeologist digging deep into the mountains
 searching for historical treasures. I had set out to collect the scattered
 articles and essays of my great-grandfather, Shaykh al-Tafsīr Muhammad Owais
-al-Nagrāmī al-Nadwī [رحمه الله]{dir="rtl"}. The greatest challenge in
+al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}. The greatest challenge in
 undertaking this project was the absence of clear guidance. The only guidance I
 had was the names of a handful of journals in which the essays appeared. There
 was no comprehensive list, no indication of the total number of articles, and no
@@ -35,8 +35,8 @@ From the libraries of Nadwat al-ʿUlamāʾ in Lucknow, to Dār al-Muṣannifīn 
 Azamgarh, to Aligarh Muslim University and beyond, the journey was long,
 demanding, and yet deeply rewarding. It was during this process that I began to
 uncover the writings of Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī [رحمه
-الله]{dir="rtl"}. Shaykh ʿAbd al-Raḥmān [رحمه الله]{dir="rtl"} was the maternal
-uncle of Shaykh Owais al-Nagrāmī al-Nadwī [رحمه الله]{dir="rtl"}, and his name
+الله]{dir="rtl"}. Shaykh ʿAbd al-Raḥmān \hon{\M_HIM}{\BODY} was the maternal
+uncle of Shaykh Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}, and his name
 was one I had often heard growing up, mentioned by our elders with a mixture of
 reverence and sorrow. Reverence for his brilliance, and sorrow for a life cut
 short before its full potential could unfold. Qadar Allah. Yet a glance at his
@@ -48,7 +48,7 @@ was his first major essay, a profound treatment of the virtues, rights, and
 responsibilities of Muslim women in the light of the Quran and Ḥadīth. This work
 was presented to the Begum of Bhopal, who received it with great appreciation.
 
-ʿAllāmah Sayyid Sulaymān al-Nadwī [رحمه الله]{dir="rtl"} writes regarding this
+ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} writes regarding this
 work, "The first reflection of his intellectual thought is his article *Khawātīn
 al-Islam*, written in the form of a treatise, likely around 1918, with the
 support of the government of Bhopal. This treatise is unique in its subject,
@@ -96,22 +96,22 @@ a testament not only to scholarship but to what can be achieved at a young age
 when purpose, discipline, and sincerity converge. Our history is not silent on
 this reality.
 
-- Zayd ibn Thābit [رضي الله عنه]{dir="rtl"} was the scribe of the Messenger of
-  Allah [ﷺ]{dir="rtl"}. He was approximately 11--13 years old when he was
-  presented to the Prophet [ﷺ]{dir="rtl"}. At the Prophet's [ﷺ]{dir="rtl"}
+- Zayd ibn Thābit \hon{\P_HIM}{\BODY} was the scribe of the Messenger of
+  Allah \hon{\PBUH}{\BODY}. He was approximately 11--13 years old when he was
+  presented to the Prophet \hon{\PBUH}{\BODY}. At the Prophet's \hon{\PBUH}{\BODY}
   instruction, Zayd learned Hebrew in about 15 days, and in another instance,
   Syriac in about 17 days, so as to read, write, and manage the correspondence
-  of the Prophet [ﷺ]{dir="rtl"}.
+  of the Prophet \hon{\PBUH}{\BODY}.
 
-- Usāmah ibn Zayd [رضي الله عنه]{dir="rtl"} was entrusted by the Messenger of
-  Allah [ﷺ]{dir="rtl"} with the leadership of an army at the age of eighteen, an
+- Usāmah ibn Zayd \hon{\P_HIM}{\BODY} was entrusted by the Messenger of
+  Allah \hon{\PBUH}{\BODY} with the leadership of an army at the age of eighteen, an
   army that initially included figures such as Abū Bakr and ʿUmar [رضي الله
   عنهما]{dir="rtl"}.
 
-- Muḥammad ibn Qāsim [رحمه الله]{dir="rtl"} led the conquest of Sindh at the age
+- Muḥammad ibn Qāsim \hon{\M_HIM}{\BODY} led the conquest of Sindh at the age
   of seventeen, altering the course of history.
 
-- Shaykh al-Islam Ibn Taymīyah [رحمه الله]{dir="rtl"} was authorized to issue
+- Shaykh al-Islam Ibn Taymīyah \hon{\M_HIM}{\BODY} was authorized to issue
   legal verdicts while he was barely seventeen years old.
 
 These are not romanticized legends, but historical realities numbering in the
@@ -120,7 +120,7 @@ youth.
 
 Some may argue that such examples belong to a bygone era, distant and
 unattainable. Yet this very work stands as a living refutation of that claim.
-Shaykh ʿAbd al-Raḥmān al-Nagrāmī [رحمه الله]{dir="rtl"} authored this deeply
+Shaykh ʿAbd al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} authored this deeply
 nuanced and remarkably balanced treatise at the age of nineteen. It forces us to
 confront an uncomfortable but necessary question: what occupies the energies and
 ambitions of our youth today? The category of the "teenager" as a prolonged
@@ -139,7 +139,7 @@ in need of good deeds to be the one to revive and translate this work. A full
 century has passed. Generations have come and gone, yet his words remain,
 continuing to benefit, to teach, and to inspire. This is the true measure of a
 life lived with purpose. How true are the words of the Messenger of Allah
-[ﷺ]{dir="rtl"}, "When the son of Ādam dies, his deeds come to an end except for
+\hon{\PBUH}{\BODY}, "When the son of Ādam dies, his deeds come to an end except for
 three: ongoing charity, beneficial knowledge, and a righteous child who prays
 for him." \[Ṣaḥīḥ Muslim\]
 
@@ -165,9 +165,9 @@ maintaining academic integrity and fidelity to the principles of verification
 (taḥqīq) upheld by the scholars of this tradition.
 
 In keeping with the spirit and underlying intent of Shaykh ʿAbd al-Raḥmān
-al-Nagrāmī [رحمه الله]{dir="rtl"} in this work, we have appended a concise
+al-Nagrāmī \hon{\M_HIM}{\BODY} in this work, we have appended a concise
 section at the end of the book highlighting some of the key women from the
-family of the Messenger of Allah [ﷺ]{dir="rtl"} whose lives every reader should
+family of the Messenger of Allah \hon{\PBUH}{\BODY} whose lives every reader should
 be acquainted with. At its heart lies a simple yet essential reminder: we cannot
 truly follow our heroes until we make an effort to know our heroes. True
 following is not mere imitation, but a conscious and informed commitment: one
@@ -181,14 +181,14 @@ attention by my uncle Mawlānā Muḥammad Faizan al-Nagrāmī al-Nadwī, the
 Supervisor of ʿAllāmah Shiblī Nuʿmānī Library that he had published a revised
 Urdu version of this work under Abd al-Raḥmān Academy in Nagrām in 2005. The
 foreword for this work was written by the esteemed Mawlānā Muḥammad Rābiʿ
-al-Ḥasanī al-Nadwī [رحمه الله]{dir="rtl"} (d. 2023). We mapped this work onto
+al-Ḥasanī al-Nadwī \hon{\M_HIM}{\BODY} (d. 2023). We mapped this work onto
 our draft to make sure everything was accurately translated. A few minor
 referencing errors were found in the revised Urdu version which we then
 highlighted to the team be fixed in the upcoming prints. We have translated and
 incorporated the foreword by Mawlānā Muḥammad Rābiʿ into our present
 translation. Allah is Most Kind.
 
-The Prophet [ﷺ]{dir="rtl"} taught us, "Whoever does not thank people has not
+The Prophet \hon{\PBUH}{\BODY} taught us, "Whoever does not thank people has not
 thanked Allah" \[Abū Dāwūd\]. I extend my heartfelt gratitude to Shaykh Mairaj
 Quraishi for helping digitise the work from its manuscript. I would like to
 thank my dear friend Khalid Hussain for helping with the editing and

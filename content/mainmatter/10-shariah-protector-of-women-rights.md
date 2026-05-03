@@ -1,5 +1,5 @@
 
-## Sharīʿah as the Protector of Women\'s Rights
+## Sharīʿah as the Protector of Women's Rights
 
 The noble Sharīʿah has always taken the side of the weak and the vulnerable;
 providing justice to the oppressed and safeguarding their rights is the
@@ -17,27 +17,27 @@ Allah says,
 [وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا
 إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً]{dir="rtl"}
 
-*And among His signs is that He created for you spouses from among yourselves so
+And among His signs is that He created for you spouses from among yourselves so
 that you may find tranquility in them, and He placed between you love and
-mercy.* \[Sūrat al-Rūm, Q30:21\]
+mercy. (Sūrat al-Rūm, Q30:21)
 
 Reflect upon this *āyah* and ask whether the claims of love and mercy can truly
 stand when a woman's rights are violated and she is reduced to little more than
 a servant confined to service. The guidance of the Messenger of Allah
-[ﷺ]{dir="rtl"} in cautioning against harming these delicate beings is rooted
+\hon{\PBUH}{\BODY} in cautioning against harming these delicate beings is rooted
 precisely in this: that the rights granted to them by the Sharīʿah must be
 upheld in full, without neglect or diminution.
 
 In the matter of marriage, authority has been granted equally to both men and
-women. The sister of Maʿqil ibn Yasār [رضي الله عنه]{dir="rtl"} was divorced by
+women. The sister of Maʿqil ibn Yasār \hon{\P_HIM}{\BODY} was divorced by
 her husband; after the completion of her waiting period, she wished, in
 accordance with the Sharʿī principle, to remarry him. Both parties were willing,
 but Maʿqil opposed it. At that moment, the following *āyah* was revealed:
 
 [فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ]{dir="rtl"}
 
-*Do not prevent them (women) from marrying their (former) husbands.* \[Sūrat
-al-Baqarah, Q2:232\]
+Do not prevent them (women) from marrying their (former) husbands. (Sūrat
+al-Baqarah, Q2:232)
 
 Maʿqil was her full brother, and it might have been assumed that his objection
 was based on some wisdom; yet it was rejected solely on the principle that no
@@ -59,14 +59,14 @@ Allah says,
 [يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَحِلُّ لَكُمْ أَنْ تَرِثُوا النِّسَاءَ
 كَرْهًا]{dir="rtl"}
 
-*O believers, it is not lawful for you to inherit women against their will.*
-\[Sūrat al-Nisāʾ, Q4:19\]
+O believers, it is not lawful for you to inherit women against their will.
+(Sūrat al-Nisāʾ, Q4:19)
 
 The prohibition of such marriages is stated explicitly elsewhere as well, but
 here the essential point is that such coercion against women is contrary to the
-dignity of Islam. Khansāʾ bint Khidām [رضي الله عنها]{dir="rtl"}, whose father
-had married her off during her youth without her consent, came and complained in
-the court of Prophethood, and the Prophet [ﷺ]{dir="rtl"} annulled the marriage.
+dignity of Islam. Khansāʾ bint Khidām \hon{\P_HER}{\BODY}, whose father had
+married her off during her youth without her consent, came and complained in the
+court of Prophethood, and the Prophet \hon{\PBUH}{\BODY} annulled the marriage.
 \[Ṣaḥīḥ al-Bukhārī\]
 
 She stands in Islamic history as among the earliest exemplars in establishing
@@ -77,7 +77,6 @@ equivalent to the man's right of *ṭalāq*. The *āyah*:
 
 [وَإِنِ امْرَأَةٌ خَافَتْ مِن بَعْلِهَا]{dir="rtl"}
 
-And if a woman fears ill treatment or aversion from her husband... \[Sūrat
-al-Nisāʾ, 128\]
+And if a woman fears ill treatment or aversion from her husband... (Sūrat al-Nisāʾ, Q4:128)
 
-alludes to this very principle.
+...alludes to this very principle.

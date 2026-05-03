@@ -11,7 +11,7 @@ We do not deny that, in certain respects, men have been given preference over
 women; the Quran itself contains explicit statements to this effect. However, it
 is remarkable that the interpretations and expansions derived from these verses
 are often not supported by the context of the Quran nor by the practice and
-Sunnah of the Messenger [ﷺ]{dir="rtl"}. It is indeed stated in the Quran:
+Sunnah of the Messenger \hon{\PBUH}{\BODY}. It is indeed stated in the Quran:
 
 [وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌ]{dir="rtl"}
 
@@ -27,11 +27,11 @@ can be used as a pretext to strip women of the rights essential for their
 development and refinement.
 
 In this regard, we cite the insightful explanation of the renowned Egyptian
-scholar, Al-ʿAllāmah Muḥammad ʿAbduh [رحمه الله]{dir="rtl"}. The Quran states,
+scholar, Al-ʿAllāmah Muḥammad ʿAbduh \hon{\M_HIM}{\BODY}. The Quran states,
 
 [الرِّجَالُ قَوَّامُونَ عَلَى النِّسَاءِ]{dir="rtl"}
 
-*Men are maintainers over women.* \[Sūrat al-Nisāʾ, Q4:34\]
+Men are maintainers over women. (Sūrat al-Nisāʾ, Q4:34)
 
 This *āyah* is often cited as a strong argument for male superiority; however,
 when examined closely, it clarifies the nature of that "degree." In Arabic
@@ -40,19 +40,20 @@ and responsibility. Thus, the combined implication of the verses is that men
 have been granted this degree in order to assume responsibility for the care,
 maintenance, and protection of women.
 
-Al-ʿAllāmah ʿAbduh [رحمه الله]{dir="rtl"} explains, "The statement in this noble
-*āyah* that men are the protectors and maintainers of women does not imply
-absolute domination. Rather, its intended meaning is that the governed (the
-woman), while remaining under the authority of the guardian, continues to act
-independently in her personal affairs according to her own will and discretion.
-It does not mean that she becomes entirely passive, surrendering all her
-intentions and actions to the authority, turning wherever he directs without
-question. The purpose of this guardianship is simply supervision -- that the
-authority oversees the general conduct and method of life of the one under his
-care, not that he exercises total control over every aspect of her existence."
-\[Tafsīr al-Manār\]
+Al-ʿAllāmah ʿAbduh \hon{\M_HIM}{\BODY} explains,
 
-From this, it becomes evident that the "degree" granted to men is essentially
+> The statement in this noble *āyah* that men are the protectors and maintainers
+> of women does not imply absolute domination. Rather, its intended meaning is
+> that the governed (the woman), while remaining under the authority of the
+> guardian, continues to act independently in her personal affairs according to
+> her own will and discretion. It does not mean that she becomes entirely
+> passive, surrendering all her intentions and actions to the authority, turning
+> wherever he directs without question. The purpose of this guardianship is
+> simply supervision -- that the authority oversees the general conduct and
+> method of life of the one under his care, not that he exercises total control
+> over every aspect of her existence. \[Tafsīr al-Manār\]
+
+From this, it becomes evident that the “degree” granted to men is essentially
 one of responsibility and oversight, not domination. They have no right to
 obstruct women in their education or development.
 
@@ -71,6 +72,6 @@ moral and educational development of children to women.
 Finally, it must be clarified that this preference pertains to the categories of
 men and women in general; individuals are exempt from this generalization.
 Personal excellence is determined by one's own virtues and achievements. Thus,
-al-ʿAllāmah Ibn Ḥazm [رحمه الله]{dir="rtl"} held that women occupy the highest
-rank among Muslims, for in his view, none surpass the Mothers of the Believers
-[رضي الله عنهن]{dir="rtl"}. \[al-Fiṣal\]
+al-ʿAllāmah Ibn Ḥazm \hon{\M_HIM}{\BODY} held that women occupy the highest rank
+among Muslims, for in his view, none surpass the Mothers of the Believers
+\hon{\P_THMF}{\BODY}. \[al-Fiṣal\]

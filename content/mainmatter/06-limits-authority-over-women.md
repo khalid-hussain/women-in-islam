@@ -1,18 +1,18 @@
 
 ## Limits of Authority Over Women
 
-From the statement of ʿUmar [رضي الله عنه]{dir="rtl"}, we have already
-understood that the Arabs did not accord women any significant value, and in
-their estimation, a woman's worth did not exceed that which a person attributes
-to his possessions or properties; accordingly, husbands possessed over them the
-same rights that one exercises over other means of livelihood. However, the
-Messenger of Allah [ﷺ]{dir="rtl"}, while teaching good conduct, kindness, and
-gracious dealings with women at every stage, made it clear that the rights you
-possess over women are only those granted by the noble Sharīʿah.
+From the statement of ʿUmar \hon{\P_HIM}{\BODY}, we have already understood that
+the Arabs did not accord women any significant value, and in their estimation, a
+woman's worth did not exceed that which a person attributes to his possessions
+or properties; accordingly, husbands possessed over them the same rights that
+one exercises over other means of livelihood. However, the Messenger of Allah
+\hon{\PBUH}{\BODY} \hon{\PBUH}{\BODY}, while teaching good conduct, kindness,
+and gracious dealings with women at every stage, made it clear that the rights
+you possess over women are only those granted by the noble Sharīʿah.
 
-Thus, the Messenger of Allah [ﷺ]{dir="rtl"} said, "You do not possess any
+Thus, the Messenger of Allah \hon{\PBUH}{\BODY} said, “You do not possess any
 authority over them beyond this, except in the case that they commit a manifest
-indecency." \[Sunan Ibn Mājah\]
+indecency.” \[Sunan Ibn Mājah\]
 
 Those who advocate for women's freedom and truly understand its proper meaning
 should reflect: how could the limits of freedom for the subtle gender (*al-jins
@@ -24,17 +24,17 @@ that they may indulge in grave immorality without the husband having any right
 of accountability; yet such a notion amounts to the destruction of human modesty
 and dignity.
 
-On certain occasions, the Messenger of Allah [ﷺ]{dir="rtl"} described a woman as
-the most valuable possession of this world, the most precious of all treasures.
-In *Sunan Ibn Mājah*, it is narrated from ʿAbdullāh ibn ʿUmar [رضي الله
-عنهما]{dir="rtl"} that the Messenger of Allah [ﷺ]{dir="rtl"} said, "The world is
-but a provision, and among its provisions there is nothing better than a
-righteous woman."
+On certain occasions, the Messenger of Allah \hon{\PBUH}{\BODY} described a
+woman as the most valuable possession of this world, the most precious of all
+treasures. In *Sunan Ibn Mājah*, it is narrated from ʿAbdullāh ibn ʿUmar
+\hon{\P_TWO}{\BODY} that the Messenger of Allah \hon{\PBUH}{\BODY} said, "The
+world is but a provision, and among its provisions there is nothing better than
+a righteous woman."
 
 The secret of this virtue is the very reality already mentioned---that a woman
 is a powerful link in the chain of the completion of humanity. In another
-narration of *Ṣaḥīḥ al-Bukhārī*, Abū Hurayrah [رضي الله عنه]{dir="rtl"} narrated
-that the Messenger of Allah [ﷺ]{dir="rtl"} said, "A woman is like a rib."
+narration of *Ṣaḥīḥ al-Bukhārī*, Abū Hurayrah \hon{\P_HIM}{\BODY} narrated that
+the Messenger of Allah \hon{\PBUH}{\BODY} said, “A woman is like a rib.”
 
 The full meaning of this statement becomes clear after a brief physiological
 explanation. The various individuals of the human species together form, as it
@@ -61,11 +61,11 @@ accumulate wealth for pride and rivalry after fulfilling their national,
 communal, political, and religious needs. Their true objective is the exaltation
 of the word of Allah and the explanation and clarification of divine knowledge.
 Therefore, when the prohibition of hoarding wealth was mentioned (with necessary
-needs being exempted), Thawbān [رضي الله عنه]{dir="rtl"} asked the Prophet
-[ﷺ]{dir="rtl"}, "Then what should we strive to acquire?" He [ﷺ]{dir="rtl"}
-replied, "Let one of you acquire a grateful heart, a remembering tongue, and a
-believing wife who assists him in the matters of his Hereafter." \[Sunan Ibn
-Mājah\]
+needs being exempted), Thawbān \hon{\P_HIM}{\BODY} asked the Prophet
+\hon{\PBUH}{\BODY}, “Then what should we strive to acquire?” He
+\hon{\PBUH}{\BODY} replied, “Let one of you acquire a grateful heart, a
+remembering tongue, and a believing wife who assists him in the matters of his
+Hereafter.” \[Sunan Ibn Mājah\]
 
 No further elaboration was given regarding the first two, but after mentioning
 the believing wife, the reason was clearly stated: that she will be a helper and
@@ -77,7 +77,7 @@ And most comprehensive of all is the statement of the Noble Quran:
 
 [وَعَاشِرُوهُنَّ بِالْمَعْرُوف]{dir="rtl"}ِ
 
-*And live with them (women) in kindness.* \[Sūrat al-Nisāʾ, Q4:19\]
+And live with them (women) in kindness. (Sūrat al-Nisāʾ, Q4:19)
 
 After such clear and explicit texts, can it justly be claimed that Islam is
-narrow-minded with respect to the fairer sex (ṣinf al-nāzik)?
+narrow-minded with respect to the fairer sex (Urdu: _ṣinf al-nāzik_)?

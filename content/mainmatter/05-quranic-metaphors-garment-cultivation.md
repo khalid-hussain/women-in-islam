@@ -1,9 +1,9 @@
 
 ## Quranic Metaphors: Garment and Cultivation
 
-The importance conveyed by the word *"*guardian" ([رَاعِيَة]{dir="rtl"}ٌ) in the
-hadith is evident. Ḥujjat al-Hind, Shāh Walī Allah Muḥaddith al-Dahlawī [رحمه
-الله]{dir="rtl"}, a great master in the science of the inner wisdoms of the
+The importance conveyed by the word “guardian” (_rāʿiyah_) in the _ḥadīth_ is
+evident. Ḥujjat al-Hind, Shāh Walī Allāh Muḥaddith al-Dahlawī
+\hon{\M_HIM}{\BODY}, a great master in the science of the inner wisdoms of the
 Sharīʿah, has also discussed this equality of rights in his discourse on
 marriage. He states that a human's natural and essential needs are of two types:
 some which a person can fulfill independently, and others which require the
@@ -12,8 +12,8 @@ this reason that the Sharīʿah has declared marriage to be necessary. \[Ḥujja
 Allah al-Bālighah\]
 
 In other words, this implies that a woman is a being who completes humanity. For
-this reason, the Messenger of Allah [ﷺ]{dir="rtl"} said, "When a person marries,
-he has completed half of his religion." \[Mishkāt al-Maṣābīḥ\]
+this reason, the Messenger of Allah \hon{\PBUH}{\BODY} said, “When a person marries,
+he has completed half of his religion.” \[Mishkāt al-Maṣābīḥ\]
 
 This is because human actions are of two types: those related to the Hereafter,
 and those related to worldly social life. With the establishment of marriage,
@@ -22,8 +22,7 @@ Quran further clarify this reality. For example, Allah the Most High says:
 
 [هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ]{dir="rtl"}
 
-*They (women) are a garment for you, and you are a garment for them.* \[Sūrat
-al-Baqarah, Q2:187\]
+They (women) are a garment for you, and you are a garment for them. (Sūrat al-Baqarah, Q2:187)
 
 Clothing is an essential need for human beings, and generally, people take
 greater care in its adornment and refinement than in other things; for this
@@ -35,8 +34,7 @@ an even more striking manner:
 
 [نِسَاؤُكُمْ حَرْثٌ لَّكُمْ فَأْتُوا حَرْثَكُمْ أَنَّى شِئْتُم]{dir="rtl"}ْ
 
-*Your women are a tilth for you, so approach your tilth as you will.* \[Sūrat
-al-Baqarah, Q2:223\]
+Your women are a tilth for you, so approach your tilth as you will. (Sūrat al-Baqarah, Q2:223)
 
 According to the scholars of Tafsīr (exegesis), this *āyah* refers to a
 particular incident; however, it is a well-established principle of Tafsīr that
