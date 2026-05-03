@@ -7,21 +7,21 @@ praise, just as He is superior to all of His creation. All praise belongs to Him
 who grants understanding of the Dīn to whom He wills, and who bestows success
 upon those who obey Him. All praise is due to Him who directed mankind to
 recognize His existence through His signs, leaving them with no excuse, as He
-conveyed His message through His Messengers [عليهم السلام]{dir="rtl"}, the best
-of His creation. I bear witness that none has the right to be worshipped except
-Allah alone, and I bear witness that Muḥammad \hon{\PBUH}{\BODY} is His servant and
+conveyed His message through His Messengers \hon{\S_THM}{\BODY}, the best of His
+creation. I bear witness that none has the right to be worshipped except Allah
+alone, and I bear witness that Muḥammad \hon{\PBUH}{\BODY} is His servant and
 Messenger. May Allah send blessings upon him, his family, and his companions, as
 long as the clouds bring rain and the thunder follows the lightning.
 
-Alḥamdulillāh, Allah has granted us the opportunity to bring to light yet
+_Alḥamdulillāh_, Allah has granted us the opportunity to bring to light yet
 another work from the luminous legacy of the scholars of Nagrām. I truly
 stumbled upon this work like an archeologist digging deep into the mountains
 searching for historical treasures. I had set out to collect the scattered
 articles and essays of my great-grandfather, Shaykh al-Tafsīr Muhammad Owais
-al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}. The greatest challenge in
-undertaking this project was the absence of clear guidance. The only guidance I
-had was the names of a handful of journals in which the essays appeared. There
-was no comprehensive list, no indication of the total number of articles, and no
+al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}. The greatest challenge in undertaking
+this project was the absence of clear guidance. The only guidance I had was the
+names of a handful of journals in which the essays appeared. There was no
+comprehensive list, no indication of the total number of articles, and no
 systematic record of dates or places of publication.
 
 Armed only with the names of a few journals, I began the search. Some magazines
@@ -34,10 +34,10 @@ careful reading would reveal articles that had gone unrecorded.
 From the libraries of Nadwat al-ʿUlamāʾ in Lucknow, to Dār al-Muṣannifīn in
 Azamgarh, to Aligarh Muslim University and beyond, the journey was long,
 demanding, and yet deeply rewarding. It was during this process that I began to
-uncover the writings of Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī [رحمه
-الله]{dir="rtl"}. Shaykh ʿAbd al-Raḥmān \hon{\M_HIM}{\BODY} was the maternal
-uncle of Shaykh Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}, and his name
-was one I had often heard growing up, mentioned by our elders with a mixture of
+uncover the writings of Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī
+\hon{\M_HIM}{\BODY}. Shaykh ʿAbd al-Raḥmān \hon{\M_HIM}{\BODY} was the maternal
+uncle of Shaykh Owais al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY}, and his name was
+one I had often heard growing up, mentioned by our elders with a mixture of
 reverence and sorrow. Reverence for his brilliance, and sorrow for a life cut
 short before its full potential could unfold. Qadar Allah. Yet a glance at his
 writings, and the age at which they were authored, makes that reverence entirely
@@ -103,10 +103,10 @@ this reality.
   Syriac in about 17 days, so as to read, write, and manage the correspondence
   of the Prophet \hon{\PBUH}{\BODY}.
 
-- Usāmah ibn Zayd \hon{\P_HIM}{\BODY} was entrusted by the Messenger of
-  Allah \hon{\PBUH}{\BODY} with the leadership of an army at the age of eighteen, an
-  army that initially included figures such as Abū Bakr and ʿUmar [رضي الله
-  عنهما]{dir="rtl"}.
+- Usāmah ibn Zayd \hon{\P_HIM}{\BODY} was entrusted by the Messenger of Allah
+  \hon{\PBUH}{\BODY} with the leadership of an army at the age of eighteen, an
+  army that initially included figures such as Abū Bakr and ʿUmar
+  \hon{\P_TWO}{\BODY}.
 
 - Muḥammad ibn Qāsim \hon{\M_HIM}{\BODY} led the conquest of Sindh at the age
   of seventeen, altering the course of history.
@@ -134,7 +134,7 @@ this awakening, to grant it sincerity, and to keep it firm.
 
 There is also something profoundly moving in the passage of time itself. The
 Shaykh passed away in March 1926, and this translation was completed in March
-2026, in the blessed month of Ramadan. Alḥamdulillāh, Allah guided the one most
+2026, in the blessed month of Ramadan. _Alḥamdulillāh_, Allah guided the one most
 in need of good deeds to be the one to revive and translate this work. A full
 century has passed. Generations have come and gone, yet his words remain,
 continuing to benefit, to teach, and to inspire. This is the true measure of a
@@ -143,14 +143,14 @@ life lived with purpose. How true are the words of the Messenger of Allah
 three: ongoing charity, beneficial knowledge, and a righteous child who prays
 for him." \[Ṣaḥīḥ Muslim\]
 
-We have added a detailed biography of Shaykh ʿAbd al-Raḥmān al-Nagrāmī [رحمه
-الله]{dir="rtl"} which is the first of its kind in the English language. In
+We have added a detailed biography of Shaykh ʿAbd al-Raḥmān al-Nagrāmī
+\hon{\M_HIM}{\BODY} which is the first of its kind in the English language. In
 preparing this work for publication, careful attention was given to the
 verification and sourcing of the narrations and historical reports cited by the
 esteemed author. While the majority of the material is rooted in
 well-established sources, it should be noted that there are certain incidents
 and narrations for which precise primary references could not be located in the
-early, authoritative works of ḥadīth and sīrah.
+early, authoritative works of Ḥadīth and Sīrah.
 
 Additionally, some reports, though widely circulated in later literature,
 contain elements of weakness, variation in wording, or possible misattribution.
@@ -162,7 +162,7 @@ notes or disclaimers have been added to guide the reader and to ensure that the
 material is approached with appropriate scholarly awareness. This approach has
 been adopted in the spirit of preserving the benefit of the work while
 maintaining academic integrity and fidelity to the principles of verification
-(taḥqīq) upheld by the scholars of this tradition.
+(_taḥqīq_) upheld by the scholars of this tradition.
 
 In keeping with the spirit and underlying intent of Shaykh ʿAbd al-Raḥmān
 al-Nagrāmī \hon{\M_HIM}{\BODY} in this work, we have appended a concise
@@ -208,6 +208,8 @@ May Allah accept our meager deeds, place *barakah* in our time and intentions,
 and make every letter of this translation a witness for us, not against us. May
 He allow it to be a means of guidance, *sadaqah jāriyah*, and lasting benefit.
 
-**Mohammad Zahid ibn Tariq al-Nagramī al-Najdī**\
-Monday, 29 Ramadan 1447H / 19 March 2026\
-Selangor Darul Ehsan, Malaysia
+::: {custom-style="left-ragged"}
+Mohammad Zahid ibn Tariq al-Nagramī al-Najdī\
+Selangor Darul Ehsan, Malaysia\
+Monday, 29 Ramadan 1447H / 19 March 2026
+:::

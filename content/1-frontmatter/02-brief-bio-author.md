@@ -3,35 +3,34 @@
 
 <!-- **Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī (1899--1926)** -->
 
-**Early Life and Education**
+## Early Life and Education
 
-Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} was born in
-1899 in Nagrām, a historic town near Lucknow. The town of Nagrām possessed a
-family whose scholarly and religious teachings and influence extended not only
+Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} was born in 1899
+in Nagrām, a historic town near Lucknow. The town of Nagrām possessed a family
+whose scholarly and religious teachings and influence extended not only
 throughout Nagrām and its surrounding areas but also across several other
 districts. ʿAbd al-Raḥmān was the son of Ḥāfiẓ Khalīl al-Raḥmān al-Nagrāmī (d.
 1901). Ḥāfiẓ Khalīl al-Raḥmān was a scholar, a *ḥāfiẓ*, and a *qārī*, unmatched
 in the science of recitation. He was also skilled in the art of wrestling. The
 lineage of this family traces back to the noble Companion ʿUbādah ibn al-Ṣāmit
-al-Anṣārī \hon{\P_HIM}{\BODY}, unlike many other Anṣārī families in India
-who trace their lineage to Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY}. The
-lineage is connected through his wife, Umm Ḥarām bint Milḥān [رضي الله
-عنها]{dir="rtl"} of Banū Najjār. This fact has been rigorously authenticated and
-documented by learned elders of the family like Mawlānā Maḥfūẓ al-Raḥmān [رحمه
-الله]{dir="rtl"} (d. 1894), Mawlānā Maṭlūb al-Raḥmān \hon{\M_HIM}{\BODY} (d.
-1943), Ḥājī Muḥammad Aḥsan \hon{\M_HIM}{\BODY} (d. 1925), and Ḥājī Muḥammad
-Najm Aḥsan \hon{\M_HIM}{\BODY} (d. 1971), among others.
+al-Anṣārī \hon{\P_HIM}{\BODY}, unlike many other Anṣārī families in India who
+trace their lineage to Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY}. The lineage is
+connected through his wife, Umm Ḥarām bint Milḥān \hon{\P_HER}{\BODY} of Banū
+Najjār. This fact has been rigorously authenticated and documented by learned
+elders of the family like Mawlānā Maḥfūẓ al-Raḥmān (d. 1894)
+\hon{\M_HIM}{\BODY}, Mawlānā Maṭlūb al-Raḥmān (d. 1943) \hon{\M_HIM}{\BODY},
+Ḥājī Muḥammad Aḥsan (d. 1925) \hon{\M_HIM}{\BODY}, and Ḥājī Muḥammad Najm Aḥsan
+(d. 1971) \hon{\M_HIM}{\BODY}, among others.
 
 Shaykh ʿAbd al-Raḥmān's early education and upbringing took place at home. Since
 the entire environment was scholarly, religious, literary, and to a large extent
 reformative, its influence left a deep imprint upon his heart and mind from
 childhood. In 1907, ʿAbd al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} entered Dār
 al-ʿUlūm Nadwat al-ʿUlamāʾ, where he completed all his education, remaining
-there until
-1915. From a young age, he displayed remarkable clarity of expression, speaking
-articulately, intelligently, and with understanding. Despite his youth and
-slight stature, his manner of speech was so captivating that he often became the
-center of attention in gatherings.
+there until 1915. From a young age, he displayed remarkable clarity of
+expression, speaking articulately, intelligently, and with understanding.
+Despite his youth and slight stature, his manner of speech was so captivating
+that he often became the center of attention in gatherings.
 
 The late Mawlānā Shiblī Nuʿmānī \hon{\M_HIM}{\BODY} (d. 1914), known for
 identifying and nurturing talent, took a special interest in his education and
@@ -57,10 +56,12 @@ but his personality combined both firmness and reform. He was extremely
 religious and at the same time deeply reformist. Every word of his speech and
 writing constituted a chapter of moral and religious reform."
 
-**Life After Shiblī: Teaching and Reform Work\** In 1913, following the passing
-of Mawlānā Shiblī \hon{\M_HIM}{\BODY}, his associates and students undertook
-the responsibilities he had left behind. These included the establishment of Dār
-al-Muṣannifīn and the continued operation of Madrasah al-Iṣlāḥ in Sarāy Mīr.
+## Life After Shiblī: Teaching and Reform Work
+
+In 1913, following the passing of Mawlānā Shiblī \hon{\M_HIM}{\BODY}, his
+associates and students undertook the responsibilities he had left behind. These
+included the establishment of Dār al-Muṣannifīn and the continued operation of
+Madrasah al-Iṣlāḥ in Sarāy Mīr.
 
 Accordingly, ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY}, Shaykh
 Masʿūd ʿAlī al-Nadwī \hon{\M_HIM}{\BODY} (d. 1967), and Shaykh ʿAbd al-Salām
@@ -85,7 +86,7 @@ Quran. Among his most prominent students of that period was Shaykh Amīn Aḥsan
 Iṣlāḥī \hon{\M_HIM}{\BODY}, whose celebrated *tafsīr* book *Tadabbur-i
 Qurʾān* later received wide appreciation from scholars.
 
-**Political Engagement and Calcutta Period**
+## Political Engagement and Calcutta Period
 
 Throughout his life, he actively participated in both educational and political
 movements. As President of Anjuman Khuddām al-Muslimīn, Shaykh ʿAbd al-Raḥmān
@@ -120,11 +121,13 @@ for several days. In reply, Mawlānā Āzād conveyed a message to Shaykh ʿAbd
 al-Raḥmān to the effect that both of them were bearing hardship in the path of
 truth, though their respective paths differed.
 
-**Leadership and Public Influence\** During his time in Calcutta, he was elected
-President of the city's Khilafat Committee. Through his sincerity, sacrifice,
-and affection, he won over the hearts of the people. At the Calcutta Khilafat
-Conference, he served as Chairman of the Reception Committee and rendered
-notable service that was long remembered by the people.
+## Leadership and Public Influence
+
+During his time in Calcutta, he was elected President of the city's Khilafat
+Committee. Through his sincerity, sacrifice, and affection, he won over the
+hearts of the people. At the Calcutta Khilafat Conference, he served as Chairman
+of the Reception Committee and rendered notable service that was long remembered
+by the people.
 
 His speeches during the Non-Cooperation Movement, particularly in Azamgarh and
 Calcutta, were highly stirring. Yet despite their intensity, his heart remained
@@ -138,13 +141,13 @@ al-ʿAdam al-Tashaddud* (The Victory of Non-Violence), was also written during
 this period. Some of his writings appeared in the journal *al-Jāmiʿah*
 (Calcutta).
 
-**Back to Lucknow**
+## Return to Lucknow
 
-In 1923, upon the invitation of ʿAllāmah Sayyid Sulaymān al-Nadwī [رحمه
-الله]{dir="rtl"}, he returned to Nadwat al-ʿUlamāʾ, where he was entrusted with
-teaching literature and Tafsīr. He continued in this role until the end of his
-life. Among his notable students during this period was Shaykh Shāh Muʿīn al-Dīn
-Ahmad al-Nadwī \hon{\M_HIM}{\BODY} (d. 1974), later the director of Dār
+In 1923, upon the invitation of ʿAllāmah Sayyid Sulaymān al-Nadwī
+\hon{\M_HIM}{\BODY}, he returned to Nadwat al-ʿUlamāʾ, where he was entrusted
+with teaching literature and Tafsīr. He continued in this role until the end of
+his life. Among his notable students during this period was Shaykh Shāh Muʿīn
+al-Dīn Ahmad al-Nadwī \hon{\M_HIM}{\BODY} (d. 1974), later the director of Dār
 al-Muṣannifīn, Azamgarh.
 
 In 1924, ʿAbd al-ʿAzīz al-Thaʿālabī, Speaker of the Tunisian Assembly, attended
@@ -171,28 +174,29 @@ into Arabic, after removing additional commentary, and distributed it widely in
 the Arab literary world.
 
 [^1]: Satyārth Prakāsh was the principal work of Swami Dayanand Saraswati which
-    was to be used as a foundational text for propagating reformist Hindu
-    doctrines.
+      was to be used as a foundational text for propagating reformist Hindu
+      doctrines.
 
 [^2]: Ḥaqq Prakāsh was a focused rebuttal of Satyārth Prakāsh, wherein Shaykh
-    Thanāʾullāh Amritsarī systematically critiques the claims of the Arya Samaj
-    using both rational analysis and textual evidence. He defends the core
-    tenets of Islam while exposing inconsistencies within opposing doctrines.
+      Thanāʾullāh Amritsarī systematically critiques the claims of the Arya
+      Samaj using both rational analysis and textual evidence. He defends the
+      core tenets of Islam while exposing inconsistencies within opposing
+      doctrines.
 
-During his time at Nadwat al-ʿUlamāʾ, ʿAllāmah Sayyid Sulaymān al-Nadwī [رحمه
-الله]{dir="rtl"} requested him to prepare an introductory Arabic treatise on
+During his time at Nadwat al-ʿUlamāʾ, ʿAllāmah Sayyid Sulaymān al-Nadwī
+\hon{\M_HIM}{\BODY} requested him to prepare an introductory Arabic treatise on
 logic in a clear and accessible style. He completed the work, though it
 unfortunately remained unpublished and survives only in manuscript form.
 
-Shaykh ʿAbd al-Mājid al-Daryābādī \hon{\M_HIM}{\BODY} (d. 1977) had started
-the weekly Sach (Lucknow) magazine in his companionship in 1925. Shaykh ʿAbd
+Shaykh ʿAbd al-Mājid al-Daryābādī (d.1977) \hon{\M_HIM}{\BODY} had started the
+weekly Sach (Lucknow) magazine in his companionship in 1925. Shaykh ʿAbd
 al-Raḥmān's \hon{\M_HIM}{\BODY} reformist thought found its most consistent
 expression in this weekly, where he also served as a contributing editor. Over a
 period of two years, he regularly wrote articles on beneficial subjects,
 distinguished by their simplicity of language and strength of impact.
 
-**\
-Character and Way of Life**\
+## Character and Way of Life
+
 The essence of Shaykh ʿAbd al-Raḥmān's \hon{\M_HIM}{\BODY} life was his
 character, humility, modesty, extreme gentleness, yet at the same time
 extraordinarily self-reliant and dignified. He had immense respect for his
@@ -207,8 +211,8 @@ publicly. In winter, he rarely used more than one or two blankets, often
 covering himself with what he slept upon.
 
 [^3]: The Non-Cooperation Movement was a mass civil resistance campaign led by
-    Gandhi urging Indians to boycott British institutions, goods, and services
-    to achieve self-rule.
+      Gandhi urging Indians to boycott British institutions, goods, and services
+      to achieve self-rule.
 
 ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} noted, "He was an angel
 in the form of a human being. In his youth, he put elders to shame with his
@@ -222,7 +226,8 @@ not only become regular in ṣalāh but would rise to the level of performing
 tahajjud. My teacher, Mawlānā ʿAbd al-Salām Kidwai, was among his distinguished
 students."
 
-**Final Illness and Passing**\
+## Final Illness and Passing
+
 He suffered from recurring health issues over several years, beginning with
 joint pain around 1912 that left him physically weakened and from which he never
 fully recovered. He also developed persistent stomach and liver illness, which
@@ -240,22 +245,19 @@ someone in such a critical condition. He then performed *wuḍūʾ* and offered
 prayer individually. As soon as he completed the prayer, he departed and joined
 the Most High. He was twenty-seven years old.
 
-**Aftermath and Legacy**
+## Aftermath and Legacy
 
 The manner in which all of India mourned this young scholar is well-known. His
 passing occurred in the prime of his youth. Leading figures of the time wrote
 condolence articles and letters, including:
 
 - Shaykh ʿAbd al-Mājid al-Daryābādī \hon{\M_HIM}{\BODY} wrote an obituary in
-  Sach.
-
-- ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} in Maʿārif.
-
-- Sayyid Jālib al-Dahlawī \hon{\M_HIM}{\BODY} in Hamdard.
-
-- Mawlānā Abū al-Kalām Āzād \hon{\M_HIM}{\BODY} wrote an extremely moving
-  letter of condolence in which he spoke of his deep attachment and affection
-  for the late Shaykh.
+  _Sach_.
+- ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} in _Maʿārif_.
+- Sayyid Jālib al-Dahlawī \hon{\M_HIM}{\BODY} in _Hamdard_.
+- Mawlānā Abū al-Kalām Āzād \hon{\M_HIM}{\BODY} wrote an extremely moving letter
+  of condolence in which he spoke of his deep attachment and affection for the
+  late Shaykh.
 
 Sayyid Jālib al-Dahlawī \hon{\M_HIM}{\BODY} wrote, "The country still needed
 many more scholars like al-Nagrāmī."
@@ -290,5 +292,5 @@ principles.
 Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} and his institution took great
 pride in him, and he also served as a trusted associate and strong supporter of
 Abū al-Kalām Āzād \hon{\M_HIM}{\BODY}. At the same time, he was among the
-disciples and authorized representatives of Maḥmūd al-Ḥasan al-Deobandī [رحمه
-الله]{dir="rtl"}." \[Purāne Chirāgh\]
+disciples and authorized representatives of Maḥmūd al-Ḥasan al-Deobandī
+\hon{\M_HIM}{\BODY}." \[Purāne Chirāgh\]

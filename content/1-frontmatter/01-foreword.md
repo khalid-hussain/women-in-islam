@@ -65,7 +65,9 @@ Muḥammad Faizan al-Nagrāmī al-Nadwī, undertook the effort to publish it (th
 Urdu treatise) in book form and requested me to write its foreword, which I have
 done. May Allah accept it and make it beneficial. Āmīn.
 
-**Muḥammad Rābiʿ Ḥasanī Nadwī** (Rector, Dār al-ʿUlūm Nadwat al-ʿUlamā,
-Lucknow)
-Daira Shāh ʿĀlamullāh, Rae Bareli
+::: {custom-style="left-ragged"}
+Muḥammad Rābiʿ Ḥasanī Nadwī\
+Rector, Dār al-ʿUlūm Nadwat al-ʿUlamā (Lucknow)\
+Daira Shāh ʿĀlamullāh, Rae Bareli\
 Wednesday, 1 Ramadan 1423H / 6 November 2002
+:::
