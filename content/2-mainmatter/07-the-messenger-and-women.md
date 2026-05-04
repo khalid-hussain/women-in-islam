@@ -10,7 +10,7 @@ practical terms, for his actions and conduct are for us like red sulphur[^4]
 (*al-kibrīt al-aḥmar*) in the journey of life.
 
 [^4]: The author invokes red sulphur, the rarest alchemical catalyst, to signify
-    that the Prophet's \hon{\PBUH}{\BODY} Sunnah is the transformative force that
+    that the Prophet's \hon{\PBUH}{\FOOTER} Sunnah is the transformative force that
     elevates the human soul from its base state to spiritual perfection, just as
     base metals are transmuted into gold.
 
