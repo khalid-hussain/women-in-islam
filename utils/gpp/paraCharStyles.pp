@@ -36,7 +36,7 @@
 \define{EN_START}{::: {custom-style="trans"}}
 \define{EN_END}{:::}
 
-\define{FA_START}{::: {custom-style="persian" lang="ar" dir="rtl"}}
+\define{FA_START}{::: {custom-style="persian" lang="fa" dir="rtl"}}
 \define{FA_END}{:::}
 \define{EN_START}{::: {custom-style="trans"}}
 \define{EN_END}{:::}
