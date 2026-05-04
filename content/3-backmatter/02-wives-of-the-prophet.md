@@ -1,5 +1,5 @@
 
-# Ahl al-Bayt: Wives of the Prophet \hon{\PBUH}{\BODY}
+# Ahl al-Bayt: Wives of the Prophet \hon{\PBUH}{\HEADER}
 
 An easy way to memorize their names is through the phrase:
 
@@ -46,7 +46,7 @@ Allah Himself." \[Ṣaḥīḥ Muslim\]
 He did not marry any other woman during her lifetime. She was the first person
 to be given the glad tidings of Jannah, and she was given specific glad tidings
 of a palace in Jannah. The Messenger of Allah \hon{\PBUH}{\BODY} conveyed to her the
-Salām from Allah and from Jibrīl [عليه السلام]{dir="rtl"}.
+Salām from Allah and from Jibrīl \hon{\S_HIM}{\BODY}.
 
 She passed away in Makkah in Ramaḍān, three years before the Hijrah, at the age
 of either 53 or 65. She was buried in al-Ḥajūn by the Prophet \hon{\PBUH}{\BODY}.
@@ -69,8 +69,7 @@ While in Abyssinia, she saw two dreams which were interpreted as indicating her
 future marriage to the Prophet \hon{\PBUH}{\BODY}. She later married the Prophet
 \hon{\PBUH}{\BODY} in Ramaḍān, in the tenth year of his Prophethood, with a *mahr*
 of 400 dirhams. She was approximately 50--55 years old at the time. For three
-years, she remained his only wife after the passing of Khadījah [رضي الله
-عنها]{dir="rtl"}.
+years, she remained his only wife after the passing of Khadījah \hon{\P_HER}{\BODY}.
 
 The *āyāt* pertaining to Ḥijāb in *Sūrat al-Nūr* were revealed in connection
 with her. After the passing of the Prophet \hon{\PBUH}{\BODY}, she chose to remain
@@ -88,7 +87,7 @@ of Quraysh. Her mother was Umm Rummān Zaynab bint ʿĀmir from Banū Kinānah.
 
 She was born in Makkah approximately four to five years after the beginning of
 Prophethood. She was the only virgin whom the Prophet \hon{\PBUH}{\BODY} married.
-She was shown to the Prophet \hon{\PBUH}{\BODY} in a dream by Jibrīl [عليه
+She was shown to the Prophet \hon{\PBUH}{\BODY} in a dream by Jibrīl \hon{\S_HIM}{\BODY} [عليه
 السلام]{dir="rtl"} as his future wife.
 
 She married the Prophet \hon{\PBUH}{\BODY} in Shawwāl in the tenth year of
@@ -97,8 +96,7 @@ consummated when she was nine, and she moved into his household in Shawwāl 1 AH
 She was approximately five to eight years younger than Fāṭimah, and she was born
 into Islam.
 
-At the time of the Prophet's \hon{\PBUH}{\BODY} marriage to ʿĀʾishah [رضي الله
-عنها]{dir="rtl"}, even the pagan Makkans who were seeking to slander him did not
+At the time of the Prophet's \hon{\PBUH}{\BODY} marriage to ʿĀʾishah \hon{\P_HER}{\BODY}, even the pagan Makkans who were seeking to slander him did not
 raise objections to this marriage, while they did raise objections to the
 marriage with Zaynab. In reality, ʿĀʾishah was already engaged to Muṭʿim ibn
 ʿAdī before this. That was the norm of the time, and women attained puberty
@@ -130,7 +128,7 @@ shorten her name. She reported, "Once the Messenger of Allah \hon{\PBUH}{\BODY} 
 to me, 'O ʿĀʾish! This is Jibrīl greeting you.'"
 
 *Āyāt* of the Quran were revealed, declaring her innocence---to be recited until
-the Day of Judgment. She also witnessed Jibrīl [عليه السلام]{dir="rtl"} in a
+the Day of Judgment. She also witnessed Jibrīl \hon{\S_HIM}{\BODY} in a
 non-angelic form.
 
 The Prophet \hon{\PBUH}{\BODY} passed away while leaning against her chest when she
@@ -165,7 +163,7 @@ It is reported that she accepted Islam before her father due to her marriage to
 Khuṇays. She later married the Prophet \hon{\PBUH}{\BODY} in Shaʿbān 3 AH with a
 *mahr* of 400 dirhams at the age of nineteen.
 
-Her worship was praised by the Angel Jibrīl [عليه السلام]{dir="rtl"}, who said
+Her worship was praised by the Angel Jibrīl \hon{\S_HIM}{\BODY}, who said
 to the Prophet \hon{\PBUH}{\BODY}, "She is one who frequently fasts and prays, and
 she will be your wife in Paradise."
 
@@ -232,7 +230,7 @@ marriage, she moved into the residence of Zaynab bint Khuzaymah. Her daughter,
 originally named Barrah, was renamed Zaynab by the Prophet \hon{\PBUH}{\BODY}.
 
 Several verses of the Quran were revealed in response to her questions. She also
-witnessed the Angel Jibrīl [عليه السلام]{dir="rtl"} in a non-angelic form. She
+witnessed the Angel Jibrīl \hon{\S_HIM}{\BODY} [عليه السلام]{dir="rtl"} in a non-angelic form. She
 was the only Mother of the Believers alive at the time of the martyrdom of
 Ḥusayn at Karbalāʾ.
 

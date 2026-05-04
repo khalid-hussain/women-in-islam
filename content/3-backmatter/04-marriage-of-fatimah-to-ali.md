@@ -12,8 +12,7 @@ months after the Prophet\'s \hon{\PBUH}{\BODY} *hijrah* to Madīnah. He
 consummated his marriage with her after he returned from the Battle of Badr (in
 Ramadan 2 AH), and she was 18 years old when he consummated the marriage with
 her.” \[Al-Ṭabaqāt al-Kubrá\] Imam ʿAlī al-Ḥalabī \hon{\M_HIM}{\BODY} writes,
-“ʿAlī \hon{\P_HIM}{\BODY} was 21 years old when he married Fāṭimah [رضي الله
-عنها]{dir="rtl"}, and that she was 15 years old.” \[Al-Sīrah al-Ḥalabīyyah\]
+“ʿAlī \hon{\P_HIM}{\BODY} was 21 years old when he married Fāṭimah \hon{\P_HER}{\BODY}, and that she was 15 years old.” \[Al-Sīrah al-Ḥalabīyyah\]
 
 ʿAlī \hon{\P_HIM}{\BODY} said, “I wanted to propose marriage to the daughter of
 the Messenger of Allah \hon{\PBUH}{\BODY}, but I thought, ‘I have nothing, so
@@ -45,12 +44,12 @@ more exquisite than that of Fatimah." \[Ibn Mājah\]
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} reports that when the Prophet
 \hon{\PBUH}{\BODY} married Fāṭimah \hon{\P_HER}{\BODY} to him, he sent with
 them a big sheet, a leather cushion stuffed with barks of the date palm or
-idhkhir (scented) grass, a grinder, a leather skin, and two jars. \[Aḥmad\]
+_idhkhir_ (scented) grass, a grinder, a leather skin, and two jars. \[Aḥmad\]
 
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} said, “I married Fāṭimah
 \hon{\P_HER}{\BODY}, and we had no bedding except a sheepskin. At night, we
 would sleep on it, and during the day we would place fodder on it for our
-camel.” \[al-Ṭabaqāt al-Kubrā\]
+camel.” \[Al-Ṭabaqāt al-Kubrā\]
 
 In another narration, ʿAlī \hon{\P_HIM}{\BODY} states that he told his mother,
 Fāṭimah bint Asad, “I will fulfil the outside needs of the house while Fāṭimah

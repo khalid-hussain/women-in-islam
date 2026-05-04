@@ -1,5 +1,5 @@
 
-# The Romance of the Prophet \hon{\PBUH}{\BODY}
+# The Romance of the Prophet \hon{\PBUH}{\HEADER}
 
 By looking attentively at the Sīrah of the Prophet \hon{\PBUH}{\BODY}, we find that
 he gave us a true, practical, and actual example of what love and romance is.
@@ -7,8 +7,7 @@ he gave us a true, practical, and actual example of what love and romance is.
 **1. Knowing Her Feelings**
 
 The Prophet \hon{\PBUH}{\BODY} once said to ʿĀʾishah \hon{\P_HER}{\BODY}, "I
-know well when you are pleased or angry with me." ʿĀʾishah [رضي الله
-عنها]{dir="rtl"} replied, "How do you know that?" He said, "When you are pleased
+know well when you are pleased or angry with me." ʿĀʾishah \hon{\P_HER}{\BODY} replied, "How do you know that?" He said, "When you are pleased
 with me, you swear by saying, 'By the Lord of Muḥammad,' but when you are angry,
 you swear by saying, 'By the Lord of Ibrāhīm.'" She said, "You are right, I
 don't mention your name." \[Al-Bukhārī\]
@@ -91,11 +90,11 @@ protect me from misleading trials.'" \[Ibn al-Sunnī\]
 
 **10. Beautifying Oneself for One's Spouse**
 
-Ibn ʿAbbās [رضي الله عنهما]{dir="rtl"} said, "As my wife adorns herself for me,
-I adorn myself for her. I do not want to take all of my rights from her so that
-she will not take all of her rights from me, because Allah stated the following,
-"And women shall have rights similar to the rights against them." \[Sūrat
-al-Baqarah Q2:228\]
+Ibn ʿAbbās \hon{\P_TWO}{\BODY} said, “As my wife adorns herself for me, I adorn
+myself for her. I do not want to take all of my rights from her so that she will
+not take all of her rights from me, because Allah stated the following, ‘And
+women shall have rights similar to the rights against them.’” \[Sūrat al-Baqarah
+Q2:228\]
 
 ʿĀʾishah \hon{\P_HER}{\BODY} narrated, "While in menses, I used to comb
 the hair of Allah\'s Messenger \hon{\PBUH}{\BODY}." \[Al-Bukhārī\]

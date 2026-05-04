@@ -1,5 +1,5 @@
 
-# Ahl al-Bayt: The Prophet's \hon{\PBUH}{\BODY} Daughters
+# Ahl al-Bayt: The Prophet's \hon{\PBUH}{\HEADER} Daughters
 
 All the Prophet's \hon{\PBUH}{\BODY} daughters were from his first wife, Khadījah
 \hon{\P_HER}{\BODY}. In order of their birth, the daughters of the
@@ -129,8 +129,7 @@ husbands. Fāṭimah was the best of her father\'s daughters.
 
 All of the Prophet's \hon{\PBUH}{\BODY} children passed away during his lifetime
 except Fāṭimah \hon{\P_HER}{\BODY}, who passed away six months after his
-death. Some scholars of Sīrah have differed regarding whether Fāṭimah [رضي الله
-عنها]{dir="rtl"} or Umm Kulthūm \hon{\P_HER}{\BODY} was the last daughter
+death. Some scholars of Sīrah have differed regarding whether Fāṭimah \hon{\P_HER}{\BODY} or Umm Kulthūm \hon{\P_HER}{\BODY} was the last daughter
 to be born.
 
 A distinctive quality of the Prophet's \hon{\PBUH}{\BODY} daughters is that none of
@@ -142,8 +141,7 @@ them were ever co-wives.
 - ʿUthmān ibn ʿAffān was married only to Umm Kulthūm \hon{\P_HER}{\BODY}
   during her lifetime. He had other wives after her passing.
 
-- Similarly, ʿAlī ibn Abī Ṭālib was married only to Fāṭimah [رضي الله
-  عنها]{dir="rtl"} during her lifetime, and only married other women after her
+- Similarly, ʿAlī ibn Abī Ṭālib was married only to Fāṭimah \hon{\P_HER}{\BODY} during her lifetime, and only married other women after her
   passing.
 
 ## Stepdaughters of the Prophet \hon{\PBUH}{\HEADER}
