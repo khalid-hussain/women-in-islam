@@ -34,8 +34,10 @@ welcome him, and young girls joyfully recited:
 
 [وَجَبَ الشُّكْرُ عَلَيْنَا مَا دَعَا لِلّٰهِ دَاعِ]{dir="rtl"}
 
-The full moon has risen upon us from the valley of Thaniyyāt al-Wadāʿ;\
-Gratitude has become obligatory upon us so long as one calls to Allah.
+::: {custom-style="left-ragged"}
+| The full moon has risen upon us from the valley of Thaniyyāt al-Wadāʿ;
+|     Gratitude has become obligatory upon us so long as one calls to Allah.
+:::
 
 Umm Sulaym \hon{\P_HER}{\BODY} also wished to present a gift but was constrained
 by poverty. Finally, she brought her young son, Anas \hon{\P_HIM}{\BODY}, and

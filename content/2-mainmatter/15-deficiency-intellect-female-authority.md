@@ -38,7 +38,7 @@ influence.
 
 In any case, our present discussion concerns the claim that women are being
 described as "deficient in intellect". First, we present the complete *ḥadīth*
-from *Ṣaḥīḥ al-Bukhārī*, after which we will explain it. The original ḥadīth is
+from *Ṣaḥīḥ al-Bukhārī*, after which we will explain it. The original _ḥadīth_ is
 as follows:
 
 Abū Saʿīd al-Khuḍrī \hon{\P_HIM}{\BODY} narrated that the Messenger of
@@ -66,7 +66,7 @@ could be applied to all matters universally. If women were deficient in
 intellect in every domain, there would have been no need for the Prophet
 \hon{\PBUH}{\BODY} to specify particular cases. Instead, he explicitly linked this
 “deficiency” to a specific legal context---namely, the matter of testimony
-(shahādah).
+(_shahādah_).
 
 In the specific matter of testimony, the designation of deficiency is entirely
 consistent with natural disposition (*fiṭrah*). Women are generally occupied
@@ -134,11 +134,11 @@ affairs to a woman will never prosper.” \[Ṣaḥīḥ al-Bukhārī\]
 However, this is only a fragment of the _ḥadīth_. When the complete narration is
 examined, its reality becomes clear. In *Sunan al-Nasāʾī*, it is reported:
 
-It was narrated from Abū Bakrah \hon{\P_HIM}{\BODY}, “Allah benefitted me
-with something that I heard from the Messenger of Allah \hon{\PBUH}{\BODY}. When
-Kisrā (the Persian Emperor) perished, he \hon{\PBUH}{\BODY} said, ‘Whom did they
-appoint as his successor?’ They said, ‘His daughter.’ He \hon{\PBUH}{\BODY} said, ‘A
-people who entrust their affairs to a woman will not prosper.’”
+> It was narrated from Abū Bakrah \hon{\P_HIM}{\BODY}, “Allah benefitted me
+> with something that I heard from the Messenger of Allah \hon{\PBUH}{\BODY}. When
+> Kisrā (the Persian Emperor) perished, he \hon{\PBUH}{\BODY} said, ‘Whom did they
+> appoint as his successor?’ They said, ‘His daughter.’ He \hon{\PBUH}{\BODY} said, ‘A
+> people who entrust their affairs to a woman will not prosper.’”
 
 In reality, this was a prophecy regarding the great conquest that the Muslims
 would achieve over the Persian Empire. It was not intended as a universal,

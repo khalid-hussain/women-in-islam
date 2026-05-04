@@ -19,21 +19,19 @@ considered immodesty, then such "immodesty" is a source of pride for us. These
 two incidents suffice as examples, but at this point it is our religious duty to
 admonish the women of Islam that, in seeking their legitimate Sharīʿah rights,
 they should not remain bound by customs and traditions; rather, they should keep
-before them only this consideration, that **whatever Allah and His Messenger
+before them only this consideration, that whatever Allah and His Messenger
 \hon{\PBUH}{\BODY} have legislated is the command to be followed, and before that
 alone they should bow their heads, for true success and peace lie in this
-alone.**
+alone.
 
 <!-- TODO: Persian poetry -->
-<!-- TODO: Add missing footnote -->
 
 [پندار سعدی کہ راہِ صفا]{dir="rtl"}
 
 [توان رفت جز در پےِ مصطفیٰ]{dir="rtl"}
 
-*Saʿdī's*[^5] *counsel is that the path of purity*
-
-*Can be traversed only by following Muṣṭafā \hon{\PBUH}{\BODY}.*
+| Saʿdī's[^5] *counsel is that the path of purity
+| Can be traversed only by following Muṣṭafā \hon{\PBUH}{\BODY}.
 
 [^5]: Saʿdī Shirāzī (c.1210--c.1291) was an Iranian poet and prose writer,
     widely recognized as one of the greatest masters of the classical literary

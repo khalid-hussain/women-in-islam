@@ -77,6 +77,8 @@ responsibilities, the essential duties of upbringing would remain unfulfilled.
 For this reason, the Sharīʿah assigned economic responsibilities to men and the
 moral and educational development of children to women.
 
+<!-- TODO: This reference was mentioned as al-Milal wa al-Nihal elsewhere -->
+
 Finally, it must be clarified that this preference pertains to the categories of
 men and women in general; individuals are exempt from this generalization.
 Personal excellence is determined by one's own virtues and achievements. Thus,

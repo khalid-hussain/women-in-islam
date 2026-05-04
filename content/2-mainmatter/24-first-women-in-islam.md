@@ -20,7 +20,7 @@ When the Quraysh plotted to assassinate the Prophet \hon{\PBUH}{\BODY}, it was a
 woman who first conveyed the warning.[^12]
 
 [^12]: Translator's Note: The assassination plot is well documented in works
-    like Sīrat Ibn Hishām, but there is no reliable report of a woman conveying
+    like _Sīrat Ibn Hishām_, but there is no reliable report of a woman conveying
     the warning first.
 
 Among Muslims, the use of a bier (_tabūt_) was first introduced by Asmāʾ bint
