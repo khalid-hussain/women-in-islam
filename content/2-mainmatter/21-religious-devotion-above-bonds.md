@@ -57,12 +57,12 @@ among the conditions of *bayʿah* was that women should spend their wealth
 freely, without hesitation, in the path of Allah.)[^7]
 
 [^7]: Translator's Note: It is not authentically established that the Prophet
-    \hon{\PBUH}{\BODY} ever placed the condition of women parting from their wealth
+    \hon{\PBUH}{\FOOTER} ever placed the condition of women parting from their wealth
     as a condition for *bayʿah*. What the author might be referring to are
-    narrations like when a woman came to the Prophet \hon{\PBUH}{\BODY} with her
+    narrations like when a woman came to the Prophet \hon{\PBUH}{\FOOTER} with her
     daughter, and on the daughter's hands were two gold bangles. He
-    \hon{\PBUH}{\BODY} said to her, "Do you give the *zakāh* on these?" She replied,
-    "No." He \hon{\PBUH}{\BODY} said, "Would it please you that Allah should place
+    \hon{\PBUH}{\FOOTER} said to her, "Do you give the *zakāh* on these?" She replied,
+    "No." He \hon{\PBUH}{\FOOTER} said, "Would it please you that Allah should place
     upon you, on the Day of Resurrection, two bangles of fire?" So she removed
     them and cast them aside. \[Sunan Abī Dāwūd\]
 
@@ -108,8 +108,10 @@ al-Muʾminīn in matters of truth in public pathways, and he would humbly submit
 And how sacred were those days when our mothers and sisters fulfilled the duty
 of commanding good and forbidding evil.
 
-<!-- TODO: Arabic Quote -->
+\AR_START
+فَيَا عَجَبًا لِفُنُونِ الدَّهْرِ وَيَا لِزَمَان
+\AR_END
 
-[فَيَا عَجَبًا لِفُنُونِ الدَّهْرِ وَيَا لِزَمَان]{dir="rtl"}ِ
-
+\EN_START
 Alas for the strange turns of time, and alas for this age!
+\EN_END
