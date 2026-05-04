@@ -80,11 +80,13 @@ this lion-hearted woman showed not even a crease upon her brow. Such is the
 affair of Islam, that any hardship or suffering in the path of Allah is borne
 with serenity and composure:
 
-<!-- TODO: Persian couplet -->
+\FA_START
+آنچه از دوست می‌رسد نیکوست
+\FA_END
 
-[آنچه از دوست می‌رسد نیکوست]{dir="rtl"}
-
+\EN_START
 Whatever comes from the Beloved is good.
+\EN_END
 
 In one battle, all the relatives of an Anṣārī woman were martyred. When people
 came to inform her, her first question was, “Is the Messenger \hon{\PBUH}{\BODY}

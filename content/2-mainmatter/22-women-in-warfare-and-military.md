@@ -131,6 +131,10 @@ In summary, if the military services of women were to be detailed fully, volumes
 upon volumes would be required. These few examples suffice to demonstrate that
 they never lagged behind in any service to their community and nation.
 
-[اے نوجوئے خوبی بچہ نامت خوانم]{dir="rtl"}
+\FA_START
+اے نوجوئے خوبی بچہ نامت خوانم
+\FA_END
 
-O seeker of excellence, how could I regard you as merely a child?"
+\EN_START
+O seeker of excellence, how could I regard you as merely a child?
+\EN_END
