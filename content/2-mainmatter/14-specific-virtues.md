@@ -71,7 +71,7 @@ The Master of all creations \hon{\PBUH}{\BODY} did not, in matters of
 transactions (such as buying and selling), appoint anyone with a particular
 distinction as his representative. However, this honor belongs to the gentler
 gender, because the Prophet \hon{\PBUH}{\BODY} himself first undertook trade to
-Syria as Khadījah's \hon{\P_HER}{\BODY} representative[^6].
+Syria as Khadījah's \hon{\P_HER}{\BODY} representative.[^6]
 
 [^6]: It appears that the author is trying to highlight how the agency (wakālah)
     was reversed: rather than someone acting on behalf of the Prophet
