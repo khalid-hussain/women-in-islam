@@ -6,26 +6,31 @@ women in the completion of social life and held both responsible for the
 well-being or corruption of the family and progeny. Evidence for this claim is
 found in the narration of ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY}:
 
-[وَالرَّجُلُ رَاعٍ فِي أَهْلِ بَيْتِهِ، وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ،
-وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا، وَهِيَ مَسْئُولَةٌ عَنْ
-رَعِيَّتِهَا]{dir="rtl"}
+\HADITH_AR_START
+وَالرَّجُلُ رَاعٍ فِي أَهْلِ بَيْتِهِ، وَهُوَ مَسْئُولٌ عَنْ رَعِيَّتِهِ، وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ زَوْجِهَا، وَهِيَ مَسْئُولَةٌ عَنْ رَعِيَّتِهَا.
+\HADITH_AR_END
 
+\HADITH_START
 “The man is a guardian over his household and will be questioned regarding them,
 and the woman is a guardian over her husband's house and will be questioned
-regarding it.” \[Ṣaḥīḥ al-Bukhārī\]
+regarding it.” [Ṣaḥīḥ al-Bukhārī]
+\HADITH_END
 
 In another narration from him, an additional phrase appears:
 
-[وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ بَعْلِهَا وَوَلَدِهِ، وَهِيَ مَسْئُولَةٌ
-عَنْهُمْ]{dir="rtl"}
+\HADITH_AR_START
+وَالْمَرْأَةُ رَاعِيَةٌ فِي بَيْتِ بَعْلِهَا وَوَلَدِهِ، وَهِيَ مَسْئُولَةٌ عَنْهُمْ.
+\HADITH_AR_END
 
-“The woman is responsible for her husband's house and his children.” \[Ṣaḥīḥ
-al-Bukhārī\]
+\HADITH_START
+“The woman is responsible for her husband's house and his children.” [Ṣaḥīḥ
+al-Bukhārī]
+\HADITH_END
 
 The Messenger of Allah \hon{\PBUH}{\BODY}, upon whom my soul be sacrificed, was
 the most eloquent of both Arabs and non-Arabs, and among his distinguishing
-qualities was that he was “granted concise and comprehensive speech.” \[Ṣaḥīḥ
-al-Bukhārī\]
+qualities was that he was “granted concise and comprehensive speech.” [Ṣaḥīḥ
+al-Bukhārī]
 
 Today, among us, numerous debates arise concerning women; even if we set aside
 other matters, consider the intensity of disagreement surrounding the issue of
