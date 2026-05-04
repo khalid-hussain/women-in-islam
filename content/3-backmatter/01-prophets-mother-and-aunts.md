@@ -2,7 +2,7 @@
 <!-- Zahid's articles start here -->
 # The Prophet's \hon{\PBUH}{\HEADER} Mother and Aunts {.unnumbered}
 
-## His Mother
+## His Mother {.unnumbered}
 
 Her name was Āminah bint Wahb ibn ʿAbd Manāf ibn Zuhrah ibn Kilāb. Her father
 was the chief of the Banū Zuhrah tribe. Her mother was Barrah bint ʿAbd al-ʿUzzá
@@ -12,7 +12,7 @@ when Muḥammad \hon{\PBUH}{\BODY} was six years and one month old. His caretake
 Barakah, then took him back to the care of his grandfather ʿAbd al-Muṭṭalib in
 Makkah.
 
-## His Aunts
+## His Aunts {.unnumbered}
 
 He had six paternal aunts, most of whom were born before their brothers:
 Ṣafiyyah, Umm Ḥakīm al-Bayḍāʾ, ʿĀtikah, Umaymah, Arwá, and Barrah. At the advent
@@ -55,7 +55,7 @@ daughter, Arwá, who was the mother of ʿUthmān ibn ʿAffān.
 Ḥakīm, ʿĀtikah, Umaymah, Arwá, and Barrah were all siblings from the same
 mother: Fāṭimah bint ʿAmr.
 
-## His Wet Nurses and Caretakers
+## His Wet Nurses and Caretakers {.unnumbered}
 
 The first woman to nurse him was his mother, Āminah, who breastfed him for seven
 to eight days. Thereafter, he was nursed by Thuwaybah, who also breastfed Ḥamzah

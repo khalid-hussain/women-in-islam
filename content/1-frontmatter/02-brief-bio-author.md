@@ -3,7 +3,7 @@
 
 <!-- **Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī (1899--1926)** -->
 
-## Early Life and Education
+## Early Life and Education {.unnumbered}
 
 Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} was born in 1899
 in Nagrām, a historic town near Lucknow. The town of Nagrām possessed a family
@@ -56,7 +56,7 @@ but his personality combined both firmness and reform. He was extremely
 religious and at the same time deeply reformist. Every word of his speech and
 writing constituted a chapter of moral and religious reform."
 
-## Life After Shiblī: Teaching and Reform Work
+## Life After Shiblī: Teaching and Reform Work {.unnumbered}
 
 In 1913, following the passing of Mawlānā Shiblī \hon{\M_HIM}{\BODY}, his
 associates and students undertook the responsibilities he had left behind. These
@@ -86,7 +86,7 @@ Quran. Among his most prominent students of that period was Shaykh Amīn Aḥsan
 Iṣlāḥī \hon{\M_HIM}{\BODY}, whose celebrated *tafsīr* book *Tadabbur-i
 Qurʾān* later received wide appreciation from scholars.
 
-## Political Engagement and Calcutta Period
+## Political Engagement and Calcutta Period {.unnumbered}
 
 Throughout his life, he actively participated in both educational and political
 movements. As President of Anjuman Khuddām al-Muslimīn, Shaykh ʿAbd al-Raḥmān
@@ -121,7 +121,7 @@ for several days. In reply, Mawlānā Āzād conveyed a message to Shaykh ʿAbd
 al-Raḥmān to the effect that both of them were bearing hardship in the path of
 truth, though their respective paths differed.
 
-## Leadership and Public Influence
+## Leadership and Public Influence {.unnumbered}
 
 During his time in Calcutta, he was elected President of the city's Khilafat
 Committee. Through his sincerity, sacrifice, and affection, he won over the
@@ -141,7 +141,7 @@ al-ʿAdam al-Tashaddud* (The Victory of Non-Violence), was also written during
 this period. Some of his writings appeared in the journal *al-Jāmiʿah*
 (Calcutta).
 
-## Return to Lucknow
+## Return to Lucknow {.unnumbered}
 
 In 1923, upon the invitation of ʿAllāmah Sayyid Sulaymān al-Nadwī
 \hon{\M_HIM}{\BODY}, he returned to Nadwat al-ʿUlamāʾ, where he was entrusted
@@ -195,7 +195,7 @@ expression in this weekly, where he also served as a contributing editor. Over a
 period of two years, he regularly wrote articles on beneficial subjects,
 distinguished by their simplicity of language and strength of impact.
 
-## Character and Way of Life
+## Character and Way of Life {.unnumbered}
 
 The essence of Shaykh ʿAbd al-Raḥmān's \hon{\M_HIM}{\BODY} life was his
 character, humility, modesty, extreme gentleness, yet at the same time
@@ -226,7 +226,7 @@ not only become regular in ṣalāh but would rise to the level of performing
 tahajjud. My teacher, Mawlānā ʿAbd al-Salām Kidwai, was among his distinguished
 students."
 
-## Final Illness and Passing
+## Final Illness and Passing {.unnumbered}
 
 He suffered from recurring health issues over several years, beginning with
 joint pain around 1912 that left him physically weakened and from which he never
@@ -245,7 +245,7 @@ someone in such a critical condition. He then performed *wuḍūʾ* and offered
 prayer individually. As soon as he completed the prayer, he departed and joined
 the Most High. He was twenty-seven years old.
 
-## Aftermath and Legacy
+## Aftermath and Legacy {.unnumbered}
 
 The manner in which all of India mourned this young scholar is well-known. His
 passing occurred in the prime of his youth. Leading figures of the time wrote

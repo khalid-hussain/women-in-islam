@@ -5,7 +5,7 @@ All the Prophet's \hon{\PBUH}{\BODY} daughters were from his first wife, Khadīj
 \hon{\P_HER}{\BODY}. In order of their birth, the daughters of the
 Prophet \hon{\PBUH}{\BODY} were:
 
-## 1. Zaynab bint Muḥammad ([زينب بنت محمد]{dir="rtl"})
+## 1. Zaynab bint Muḥammad ([زينب بنت محمد]{dir="rtl"}) {.unnumbered}
 
 She was the eldest daughter of the Prophet \hon{\PBUH}{\BODY}. She was born in
 Makkah, ten years before Prophethood, when the Prophet \hon{\PBUH}{\BODY} was thirty
@@ -36,7 +36,7 @@ constructed.
 The Prophet \hon{\PBUH}{\BODY} made *duʿāʾ* for ease in her grave and personally led
 her *janāzah*.
 
-## 2. Ruqayyah bint Muḥammad ([رقية بنت محمد]{dir="rtl"})
+## 2. Ruqayyah bint Muḥammad ([رقية بنت محمد]{dir="rtl"}) {.unnumbered}
 
 She was born in Makkah, eight years before Prophethood, when the Prophet
 \hon{\PBUH}{\BODY} was thirty-two years old -- approximately three years after
@@ -61,7 +61,7 @@ participation in the Battle of Badr. She passed away in Madīnah in Ramaḍān 2
 at the age of 22. The Prophet \hon{\PBUH}{\BODY} made *duʿāʾ* for her and led her
 *janāzah*.
 
-## 3. Umm Kulthūm bint Muḥammad ([أم كلثوم بنت محمد]{dir="rtl"})
+## 3. Umm Kulthūm bint Muḥammad ([أم كلثوم بنت محمد]{dir="rtl"}) {.unnumbered}
 
 She was born in Makkah, seven years before Prophethood, when the Prophet
 \hon{\PBUH}{\BODY} was thirty-three years old.
@@ -80,7 +80,7 @@ She passed away in Madīnah in Shaʿbān 9 AH at the age of 27. She was washed b
 
 The Prophet \hon{\PBUH}{\BODY} made *duʿāʾ* for her and led her *janāzah*.
 
-## 4. Fāṭimah bint Muḥammad ([فاطمة بنت محمد]{dir="rtl"})
+## 4. Fāṭimah bint Muḥammad ([فاطمة بنت محمد]{dir="rtl"}) {.unnumbered}
 
 She was born in Makkah, five years before Prophethood, when the Prophet
 \hon{\PBUH}{\BODY} was thirty-five years old. Some scholars state she was born in
@@ -144,7 +144,7 @@ them were ever co-wives.
 - Similarly, ʿAlī ibn Abī Ṭālib was married only to Fāṭimah \hon{\P_HER}{\BODY} during her lifetime, and only married other women after her
   passing.
 
-## Stepdaughters of the Prophet \hon{\PBUH}{\HEADER}
+## Stepdaughters of the Prophet \hon{\PBUH}{\HEADER} {.unnumbered}
 
 The Prophet \hon{\PBUH}{\BODY} had fifteen stepchildren. Of these, he had four
 stepdaughters:

@@ -7,7 +7,7 @@ An easy way to memorize their names is through the phrase:
 
 Lettuce with carrots is healthy.
 
-## 1. Khadījah bint Khuwaylid ([خديجة بنت خويلد]{dir="rtl"})
+## 1. Khadījah bint Khuwaylid ([خديجة بنت خويلد]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Quṣayy ibn Kilāb. She
 belonged to the Banū Asad sub-tribe of Quraysh. Her father, Khuwaylid, was a
@@ -55,7 +55,7 @@ of either 53 or 65. She was buried in al-Ḥajūn by the Prophet \hon{\PBUH}{\BO
 The Prophet \hon{\PBUH}{\BODY} said, "The best woman of her time was Maryam bint
 ʿImrān, and the best woman of this Ummah is Khadījah." \[Ṣaḥīḥ al-Bukhārī\]
 
-## 2. Sawdah bint Zamʿah ([سودة بنت زمعة]{dir="rtl"})
+## 2. Sawdah bint Zamʿah ([سودة بنت زمعة]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Luʾayy ibn Ghālib. She
 was born in Makkah and was the daughter of Zamʿah ibn Qays from Banū ʿĀmir. Her
@@ -79,7 +79,7 @@ She passed away in Madīnah in Shawwāl 23 AH, at the age of 72, during the
 caliphate of ʿUmar ibn al-Khaṭṭāb. She narrated five *aḥādīth* from the Prophet
 \hon{\PBUH}{\BODY}.
 
-## 3. ʿĀʾishah bint Abī Bakr ([عائشة بنت أبي بكر]{dir="rtl"})
+## 3. ʿĀʾishah bint Abī Bakr ([عائشة بنت أبي بكر]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Luʾayy ibn Ghālib. She
 was the daughter of Abū Bakr al-Ṣiddīq and belonged to the Banū Taym sub-tribe
@@ -145,7 +145,7 @@ only Āsiyah, the wife of Firʿawn, and Maryam bint ʿImrān attained perfection
 And the superiority of ʿĀʾishah over other women is like the superiority of
 *tharīd* over all other foods." \[Ṣaḥīḥ al-Bukhārī\]
 
-## 4. Ḥafṣah bint ʿUmar ([حفصة بنت عمر]{dir="rtl"})
+## 4. Ḥafṣah bint ʿUmar ([حفصة بنت عمر]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Kaʿb ibn Luʾayy. She was
 the daughter of ʿUmar ibn al-Khaṭṭāb and belonged to the Banū ʿAdī sub-tribe of
@@ -172,7 +172,7 @@ caliphate of Abū Bakr. She passed away in Madīnah in 45 AH at approximately
 sixty years of age. Her janāzah prayer was led by Marwān ibn al-Ḥakam, the
 governor of Madīnah. She narrated 60 *aḥādīth* from the Prophet \hon{\PBUH}{\BODY}.
 
-## 5. Zaynab bint Khuzaymah ([زينب بنت خزيمة]{dir="rtl"})
+## 5. Zaynab bint Khuzaymah ([زينب بنت خزيمة]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at ʿAbd Manāf. She belonged
 to the tribe of Banū Hilāl. Her father was Khuzaymah ibn al-Ḥārith, and her
@@ -202,7 +202,7 @@ She remained married to the Prophet \hon{\PBUH}{\BODY} for only two to three mon
 though some reports extend this to eight months, placing her passing in Rabīʿ
 al-Ākhir 4 AH.
 
-## 6. Umm Salamah Hind bint Abī Umayyah ([هند بنت أبي أُميّة]{dir="rtl"})
+## 6. Umm Salamah Hind bint Abī Umayyah ([هند بنت أبي أُميّة]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Murrah ibn Kaʿb. She was
 born in Makkah and was the daughter of Abū Umayyah ibn al-Mughīrah from Banū
@@ -239,7 +239,7 @@ Her *janāzah* was led by Abū Hurayrah. She was the last of the Prophet's
 \hon{\PBUH}{\BODY} wives to pass away. She narrated 378 *aḥādīth*, making her the
 second-highest narrator among the Mothers of the Believers after ʿĀʾishah.
 
-## 7. Zaynab bint Jaḥsh ([زينب بنت جحش]{dir="rtl"})
+## 7. Zaynab bint Jaḥsh ([زينب بنت جحش]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Khuzaymah ibn Mudrikah.
 She was born in Makkah and was the daughter of Jaḥsh ibn Riʾāb from Banū Asad.
@@ -265,7 +265,7 @@ at the age of 50, and her janāzah prayer was led by ʿUmar ibn al-Khaṭṭāb.
 was the first of the Prophet's \hon{\PBUH}{\BODY} wives to pass away after him and
 the first to be buried in al-Baqīʿ al-Gharqad. She narrated 11 *aḥādīth*.
 
-## 8. Juwayriyyah bint al-Ḥārith ([جويرية بنت الحارث]{dir="rtl"})
+## 8. Juwayriyyah bint al-Ḥārith ([جويرية بنت الحارث]{dir="rtl"}) {.unnumbered}
 
 She belonged to Banū al-Muṣṭaliq and was the daughter of its chieftain,
 al-Ḥārith ibn Abī Ḍirār. Her mother was Barrah bint al-Ḥārith.
@@ -284,7 +284,7 @@ Juwayriyyah."
 She passed away in Madīnah in 56 AH at the age of 65, and her janāzah was led by
 Marwān ibn al-Ḥakam, the governor of Madinah. She narrated 7 *aḥādīth*.
 
-## 9. Umm Ḥabībah Ramlah bint Abī Sufyān ([رملة بنت ابي سفيان]{dir="rtl"})
+## 9. Umm Ḥabībah Ramlah bint Abī Sufyān ([رملة بنت ابي سفيان]{dir="rtl"}) {.unnumbered}
 
 She was born in Makkah approximately 10--17 years before Prophethood. She was
 the daughter of Abū Sufyān Ṣakhr ibn Ḥarb from Banū Umayyah. Her mother was
@@ -302,7 +302,7 @@ was consummated in Muḥarram 7 AH upon her arrival in Madīnah.
 She passed away in Madīnah in 44 AH at the age of 70, during the caliphate of
 her brother Muʿāwiyah. She narrated 65 *aḥādīth*.
 
-## 10. Ṣafiyyah bint Ḥuyayy ([صفية بنت حيي]{dir="rtl"})
+## 10. Ṣafiyyah bint Ḥuyayy ([صفية بنت حيي]{dir="rtl"}) {.unnumbered}
 
 She was born in Madīnah three years after Prophethood and belonged to Banū
 al-Naḍīr. She was the daughter of its chieftain.
@@ -319,7 +319,7 @@ prophet, and you are married to a prophet." \[Al-Tirmidhī\]
 She passed away in Madīnah in 52 AH at the age of 60 during the caliphate of
 Muʿāwiyah. She narrated 10 *aḥādīth*.
 
-## 11. Maymūnah bint al-Ḥārith ([ميمونة بنت الحارث]{dir="rtl"})
+## 11. Maymūnah bint al-Ḥārith ([ميمونة بنت الحارث]{dir="rtl"}) {.unnumbered}
 
 Her lineage met that of the Prophet's \hon{\PBUH}{\BODY} at Muḍar ibn Nizār, and she
 belonged to Banū Hilāl. She was originally named Barrah, which the Prophet
