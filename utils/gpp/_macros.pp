@@ -35,6 +35,7 @@
 #define P_HER رضي الله عنها
 #define P_TWO رضي الله عنهما
 #define P_THM رضي الله عنهم
+#define P_THMF رضي الله عنهنّ
 
 #define M_HIM رحمه الله تعالى
 #define M_HER رحمها الله تعالى
@@ -121,9 +122,9 @@
 \define{LIST_HADITH_START}{::: {custom-style="list-hadith-trans"}}
 \define{LIST_HADITH_END}{:::}
 
-\define{AR_START}{::: {custom-style="hadith-arabic" lang="ar" dir="rtl"}}
+\define{AR_START}{::: {custom-style="arabic" lang="ar" dir="rtl"}}
 \define{AR_END}{:::}
-\define{EN_START}{::: {custom-style="hadith-trans"}}
+\define{EN_START}{::: {custom-style="trans"}}
 \define{EN_END}{:::}
 \endif
 
