@@ -17,10 +17,10 @@ al-Anṣārī \hon{\P_HIM}{\BODY}, unlike many other Anṣārī families in Indi
 trace their lineage to Abū Ayyūb al-Anṣārī \hon{\P_HIM}{\BODY}. The lineage is
 connected through his wife, Umm Ḥarām bint Milḥān \hon{\P_HER}{\BODY} of Banū
 Najjār. This fact has been rigorously authenticated and documented by learned
-elders of the family like Mawlānā Maḥfūẓ al-Raḥmān (d. 1894)
-\hon{\M_HIM}{\BODY}, Mawlānā Maṭlūb al-Raḥmān (d. 1943) \hon{\M_HIM}{\BODY},
-Ḥājī Muḥammad Aḥsan (d. 1925) \hon{\M_HIM}{\BODY}, and Ḥājī Muḥammad Najm Aḥsan
-(d. 1971) \hon{\M_HIM}{\BODY}, among others.
+elders of the family like Mawlānā Maḥfūẓ al-Raḥmān (d.1894)
+\hon{\M_HIM}{\BODY}, Mawlānā Maṭlūb al-Raḥmān (d.1943) \hon{\M_HIM}{\BODY},
+Ḥājī Muḥammad Aḥsan (d.1925) \hon{\M_HIM}{\BODY}, and Ḥājī Muḥammad Najm Aḥsan
+(d.1971) \hon{\M_HIM}{\BODY}, among others.
 
 Shaykh ʿAbd al-Raḥmān's early education and upbringing took place at home. Since
 the entire environment was scholarly, religious, literary, and to a large extent
@@ -32,13 +32,13 @@ expression, speaking articulately, intelligently, and with understanding.
 Despite his youth and slight stature, his manner of speech was so captivating
 that he often became the center of attention in gatherings.
 
-The late Mawlānā Shiblī Nuʿmānī \hon{\M_HIM}{\BODY} (d. 1914), known for
+The late Mawlānā Shiblī Nuʿmānī \hon{\M_HIM}{\BODY} (d.1914), known for
 identifying and nurturing talent, took a special interest in his education and
 personally guided his intellectual development. He also received authorization
-from Shaykh al-Hind, Mawlānā Maḥmūd al-Ḥasan \hon{\M_HIM}{\BODY} (d. 1920).
+from Shaykh al-Hind, Mawlānā Maḥmūd al-Ḥasan \hon{\M_HIM}{\BODY} (d.1920).
 
 His exceptional scholarly ability was later highly praised by ʿAllāmah Sayyid
-Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} (d. 1953) in *Yādgār-e-Raftagān*,
+Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} (d.1953) in *Yādgār-e-Raftagān*,
 "Within its brief existence, Dār al-ʿUlūm Nadwah has produced many capable and
 learned servants of the religion. I say with full conviction that ʿAbd al-Raḥmān
 was the best among them all. Allah Most High had gathered within his person all
@@ -64,10 +64,10 @@ included the establishment of Dār al-Muṣannifīn and the continued operation 
 Madrasah al-Iṣlāḥ in Sarāy Mīr.
 
 Accordingly, ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY}, Shaykh
-Masʿūd ʿAlī al-Nadwī \hon{\M_HIM}{\BODY} (d. 1967), and Shaykh ʿAbd al-Salām
-al-Nadwī \hon{\M_HIM}{\BODY} (d. 1955) took charge of Dār al-Muṣannifīn,
+Masʿūd ʿAlī al-Nadwī \hon{\M_HIM}{\BODY} (d.1967), and Shaykh ʿAbd al-Salām
+al-Nadwī \hon{\M_HIM}{\BODY} (d.1955) took charge of Dār al-Muṣannifīn,
 while under the guidance of Shaykh Ḥamīd al-Dīn Farāhī \hon{\M_HIM}{\BODY}
-(d. 1930), Shaykh Shiblī Mutakallim al-Nadwī \hon{\M_HIM}{\BODY} assumed
+(d.1930), Shaykh Shiblī Mutakallim al-Nadwī \hon{\M_HIM}{\BODY} assumed
 responsibility for Madrasah al-Iṣlāḥ.
 
 After completing his studies, Shaykh ʿAbd al-Raḥmān \hon{\M_HIM}{\BODY}
@@ -99,7 +99,7 @@ the end of his life.
 
 During the height of the Non-Cooperation Movement, when government institutions
 were being dismantled, Madrasah ʿĀliyah Calcutta was raided. In its place,
-Mawlānā Abū al-Kalām Āzād \hon{\M_HIM}{\BODY} (d. 1958) established Madrasah
+Mawlānā Abū al-Kalām Āzād \hon{\M_HIM}{\BODY} (d.1958) established Madrasah
 Islamiyyah at Jāmiʿ Masjid, Calcutta. At the request of Mawlānā Abū al-Kalām
 Āzād, Shaykh ʿAbd al-Raḥmān \hon{\M_HIM}{\BODY} traveled from Sarāʾī Mīr to
 Calcutta and accepted the position of Head Teacher (Ṣadr Mudarris).
@@ -147,7 +147,7 @@ In 1923, upon the invitation of ʿAllāmah Sayyid Sulaymān al-Nadwī
 \hon{\M_HIM}{\BODY}, he returned to Nadwat al-ʿUlamāʾ, where he was entrusted
 with teaching literature and Tafsīr. He continued in this role until the end of
 his life. Among his notable students during this period was Shaykh Shāh Muʿīn
-al-Dīn Ahmad al-Nadwī \hon{\M_HIM}{\BODY} (d. 1974), later the director of Dār
+al-Dīn Ahmad al-Nadwī \hon{\M_HIM}{\BODY} (d.1974), later the director of Dār
 al-Muṣannifīn, Azamgarh.
 
 In 1924, ʿAbd al-ʿAzīz al-Thaʿālabī, Speaker of the Tunisian Assembly, attended

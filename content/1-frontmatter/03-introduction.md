@@ -181,7 +181,7 @@ attention by my uncle Mawlānā Muḥammad Faizan al-Nagrāmī al-Nadwī, the
 Supervisor of ʿAllāmah Shiblī Nuʿmānī Library that he had published a revised
 Urdu version of this work under Abd al-Raḥmān Academy in Nagrām in 2005. The
 foreword for this work was written by the esteemed Mawlānā Muḥammad Rābiʿ
-al-Ḥasanī al-Nadwī \hon{\M_HIM}{\BODY} (d. 2023). We mapped this work onto
+al-Ḥasanī al-Nadwī (d.2023) \hon{\M_HIM}{\BODY}. We mapped this work onto
 our draft to make sure everything was accurately translated. A few minor
 referencing errors were found in the revised Urdu version which we then
 highlighted to the team be fixed in the upcoming prints. We have translated and
