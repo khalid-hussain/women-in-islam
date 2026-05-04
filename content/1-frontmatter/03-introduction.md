@@ -209,7 +209,7 @@ and make every letter of this translation a witness for us, not against us. May
 He allow it to be a means of guidance, *sadaqah jāriyah*, and lasting benefit.
 
 ::: {custom-style="left-ragged"}
-Mohammad Zahid ibn Tariq al-Nagramī al-Najdī\
-Selangor Darul Ehsan, Malaysia\
-Monday, 29 Ramadan 1447H / 19 March 2026
+| Mohammad Zahid ibn Tariq al-Nagramī al-Najdī
+| Selangor Darul Ehsan, Malaysia
+| Monday, 29 Ramadan 1447H / 19 March 2026
 :::
