@@ -16,12 +16,14 @@ and they should be granted full freedom in this matter.
 
 The Prophet \hon{\PBUH}{\BODY} said,
 
-<!-- TODO: Add hadith styles -->
+\HADITH_AR_START
+الأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا، وَالْبِكْرُ تُسْتَأْذَنُ فِي
+نَفْسِهَا، وَإِذْنُهَا صُمَاتُهَا.
+\HADITH_AR_END
 
-[الأَيِّمُ أَحَقُّ بِنَفْسِهَا مِنْ وَلِيِّهَا، وَالْبِكْرُ تُسْتَأْذَنُ فِي
-نَفْسِهَا، وَإِذْنُهَا صُمَاتُهَا]{dir="rtl"}
-
-A previously married woman (_ayyim_) has more right over herself. \[Ṣaḥīḥ Muslim\]
+\HADITH_START
+A previously married woman (_ayyim_) has more right over herself. [Ṣaḥīḥ Muslim]
+\HADITH_END
 
 The term _ayyim_ in this _ḥadīth_ refers to a woman without a husband, whether a
 virgin or previously married; thus, both require their consent to be sought in
