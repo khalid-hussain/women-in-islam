@@ -1,5 +1,5 @@
 
-# Ahl al-Bayt: Wives of the Prophet \hon{\PBUH}{\HEADER}
+# Ahl al-Bayt: Wives of the Prophet \hon{\PBUH}{\HEADER} {.unnumbered}
 
 An easy way to memorize their names is through the phrase:
 

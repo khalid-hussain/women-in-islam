@@ -1,5 +1,5 @@
 
-## The Emphasis on Mothers
+# The Emphasis on Mothers
 
 There are certain rights in which men and women are equal, yet the Prophet
 \hon{\PBUH}{\BODY} gave greater emphasis to the rights of women. For example,

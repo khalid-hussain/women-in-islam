@@ -1,5 +1,5 @@
 
-## Sharīʿah as the Protector of Women's Rights
+# Sharīʿah as the Protector of Women's Rights
 
 The noble Sharīʿah has always taken the side of the weak and the vulnerable;
 providing justice to the oppressed and safeguarding their rights is the

@@ -1,5 +1,5 @@
 
-# Foreword
+# Foreword {.unnumbered}
 
 Mawlānā ʿAbd al-Raḥmān al-Nagramī al-Nadwī \hon{\M_HIM}{\BODY} was among those
 distinguished sons of Nadwat al-ʿUlamāʾ who left a profound impression through

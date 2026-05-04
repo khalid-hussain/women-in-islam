@@ -1,12 +1,12 @@
 
-## A Brief Discussion of Certain Rights
+# A Brief Discussion of Certain Rights
 
 It is not possible here to detail all the rights that Islam has granted women,
 for that would require a separate treatise, and indeed a substantial body of
 literature already exists in Urdu on this subject; however, we shall briefly
 discuss a few.
 
-### The Right of Consent in Marriage
+## The Right of Consent in Marriage
 
 Among the many injustices inflicted upon women, one of the greatest is that in
 matters of marriage, which constitute the essence of their lives, they are given
@@ -35,7 +35,7 @@ to the extent that marriages are conducted without their consent?
 The greatest error in this regard is that parents pay no heed to the approval
 and satisfaction of their daughters, nor do they consult them in such matters.
 
-### The Concept of Mahr
+## The Concept of Mahr
 
 Islam has granted women a specific right known as *mahr*. In many lands, and
 even among certain communities in India, the opposite custom prevails, whereby
@@ -95,7 +95,7 @@ Similarly, in some regions, dowry is wrongly considered a right of men, leading
 to disputes and conflicts, whereas in reality it is merely a gift given by
 parents to their daughter, dependent entirely upon their means.
 
-### The Right of Inheritance
+## The Right of Inheritance
 
 Among the greatest favors Islam has bestowed upon women is the right of
 inheritance. Many nations have deprived women of the right to inheritance.
@@ -117,7 +117,7 @@ secure and free from anxiety regarding provision. This enables them to dedicate
 themselves to the nurturing and upbringing of their children, thereby raising
 them into upright and valuable members of society.
 
-### The Question of Education
+## The Question of Education
 
 Among the discussions relating to women, the most significant and complex issue
 is that of women's education. The ongoing debate between the modernists and the

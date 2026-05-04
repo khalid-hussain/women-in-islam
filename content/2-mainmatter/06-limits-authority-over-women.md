@@ -1,5 +1,5 @@
 
-## Limits of Authority Over Women
+# Limits of Authority Over Women
 
 From the statement of ʿUmar \hon{\P_HIM}{\BODY}, we have already understood that
 the Arabs did not accord women any significant value, and in their estimation, a

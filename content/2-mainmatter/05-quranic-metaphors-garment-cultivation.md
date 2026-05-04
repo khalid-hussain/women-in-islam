@@ -1,5 +1,5 @@
 
-## Quranic Metaphors: Garment and Cultivation
+# Quranic Metaphors: Garment and Cultivation
 
 The importance conveyed by the word “guardian” (_rāʿiyah_) in the _ḥadīth_ is
 evident. Ḥujjat al-Hind, Shāh Walī Allāh Muḥaddith al-Dahlawī

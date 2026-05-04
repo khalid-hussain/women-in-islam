@@ -1,5 +1,5 @@
 
-## The First Women in Islam
+# The First Women in Islam
 
 Under this heading, we intend to highlight those matters in which women attained
 precedence and distinction. Among these early distinctions are such merits that,

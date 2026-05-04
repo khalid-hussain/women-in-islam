@@ -1,5 +1,5 @@
 
-## Misconceptions About Islam and Women
+# Misconceptions About Islam and Women
 
 Many ignorant people, due to their narrow-mindedness, consider the present
 degradation and decline of women to be the result of Islamic teachings. Is this

@@ -1,5 +1,5 @@
 
-## Protection of Women\'s Rights
+# Protection of Women's Rights
 
 In order to demonstrate that Islam and its Caller \hon{\PBUH}{\BODY} raised
 women from that deep pit of degradation into which all nations of the world had

@@ -1,8 +1,8 @@
 
-## Conclusion
+# Conclusion
 
 ::: {custom-style="left-ragged"}
-Mohammad Zahid ibn Tariq al-Nagrāmī^[The original article ended abruptly at the previous chapter.]
+_Written by Mohammad Zahid ibn Tariq al-Nagrāmī_^[The original article ended abruptly at the previous chapter.]
 :::
 
 These accounts collectively demonstrate that women were not merely passive

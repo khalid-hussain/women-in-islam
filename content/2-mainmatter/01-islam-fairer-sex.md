@@ -1,5 +1,5 @@
 
-## Islam and the Fairer Sex
+# Islam and the Fairer Sex
 
 It is said that the religion of Islam has not formulated any specific law
 regarding the refinement and cultivation of the subtle gender (*al-jins

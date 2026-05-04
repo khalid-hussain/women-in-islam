@@ -1,5 +1,5 @@
 
-## Specific Virtues (Faḍāʾil Makhsūṣah)
+# Specific Virtues (Faḍāʾil Makhsūṣah)
 
 When general commentators discuss mutual distinction, they enumerate many
 virtues of men, such as prophethood, caliphate, judiciary, and the like. The

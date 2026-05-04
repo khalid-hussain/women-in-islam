@@ -1,5 +1,5 @@
 
-## The Blessings Brought About by Women
+# The Blessings Brought About by Women
 
 Within the Sharīʿah of Islam, there are many rulings whose foundations were laid
 in response to the requests and appeals of women. Numerous beneficial and

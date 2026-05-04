@@ -1,5 +1,5 @@
 
-## Love and Reverence for Islam and Allah's Messenger
+# Love and Reverence for Islam and Allah's Messenger
 
 As you have read in the preceding pages, women sacrificed their lives and wealth
 for Islam. Here too, you will see the same reality, though expressed in a

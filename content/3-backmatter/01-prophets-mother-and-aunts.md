@@ -1,6 +1,6 @@
 
 <!-- Zahid's articles start here -->
-# The Prophet's \hon{\PBUH}{\HEADER} Mother and Aunts
+# The Prophet's \hon{\PBUH}{\HEADER} Mother and Aunts {.unnumbered}
 
 ## His Mother
 

@@ -1,5 +1,5 @@
 
-## A Call to Muslim Women
+# A Call to Muslim Women
 
 Now consider, is there any greater freedom than this in the protection and
 exercise of women's rights? In truth, this is the ultimate limit of freedom.

@@ -1,5 +1,5 @@
 
-# The Romance of the Prophet \hon{\PBUH}{\HEADER}
+# The Romance of the Prophet \hon{\PBUH}{\HEADER} {.unnumbered}
 
 By looking attentively at the Sīrah of the Prophet \hon{\PBUH}{\BODY}, we find that
 he gave us a true, practical, and actual example of what love and romance is.

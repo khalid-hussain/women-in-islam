@@ -1,5 +1,5 @@
 
-# The Marriage of Fatimah and Ali \hon{\P_TWO}{\HEADER}
+# The Marriage of Fatimah and Ali \hon{\P_TWO}{\HEADER} {.unnumbered}
 
 It was narrated from ʿAbdullāh ibn Buraydah that his father said, “Abū Bakr and
 ʿUmar \hon{\P_TWO}{\BODY} proposed marriage to Fāṭimah, but the Messenger of

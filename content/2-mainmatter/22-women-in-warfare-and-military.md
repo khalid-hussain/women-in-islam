@@ -1,5 +1,5 @@
 
-## Women in Warfare and Military Service
+# Women in Warfare and Military Service
 
 Women achieved remarkable excellence in the art of warfare. Their contributions
 on the battlefield, their zeal in confronting the enemies of Islam, and their

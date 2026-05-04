@@ -1,5 +1,5 @@
 
-## The Messenger of Allah \hon{\PBUH}{\BODY} and Women
+# The Messenger of Allah \hon{\PBUH}{\BODY} and Women
 
 Above, we have clarified through certain verses of the Noble Quran and the
 statements of the Master of Creation \hon{\PBUH}{\BODY} the status accorded to

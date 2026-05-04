@@ -1,5 +1,5 @@
 
-# Ahl al-Bayt: The Prophet's \hon{\PBUH}{\HEADER} Daughters
+# Ahl al-Bayt: The Prophet's \hon{\PBUH}{\HEADER} Daughters {.unnumbered}
 
 All the Prophet's \hon{\PBUH}{\BODY} daughters were from his first wife, Khadījah
 \hon{\P_HER}{\BODY}. In order of their birth, the daughters of the

@@ -1,5 +1,5 @@
 
-## Adherence to the Commands of Islam
+# Adherence to the Commands of Islam
 
 Moving forward, we will now look at certain incidents in which Muslim women
 endured the harshest trials without faltering in steadfastness. Now we present a
