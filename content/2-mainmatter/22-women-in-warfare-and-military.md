@@ -62,8 +62,8 @@ each blow, a head would fall.[^8]
 
 [^8]: Translator's Note: This narration appears to be a misattribution or
     exaggeration and cannot be cited as an authentic historical report. The
-    report is likely influenced by confusion with Nusaybah bint Kaʿb [رضي الله
-    عنها]{dir="rtl"}.
+    report is likely influenced by confusion with Nusaybah bint Kaʿb
+    \hon{\P_HER}{\FOOTER}.
 
 During the Umayyad period, when Ḥajjāj besieged ʿAbdullāh ibn al-Zubayr
 \hon{\P_TWO}{\BODY}, he sought counsel from his mother, Asmāʾ
