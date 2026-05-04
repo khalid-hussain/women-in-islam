@@ -6,7 +6,7 @@ the Arabs did not accord women any significant value, and in their estimation, a
 woman's worth did not exceed that which a person attributes to his possessions
 or properties; accordingly, husbands possessed over them the same rights that
 one exercises over other means of livelihood. However, the Messenger of Allah
-\hon{\PBUH}{\BODY} \hon{\PBUH}{\BODY}, while teaching good conduct, kindness,
+\hon{\PBUH}{\BODY}, while teaching good conduct, kindness,
 and gracious dealings with women at every stage, made it clear that the rights
 you possess over women are only those granted by the noble Sharīʿah.
 
