@@ -68,10 +68,10 @@ standing with his wife. He only went when his wife wanted to go. \[Aḥmad\]
 
 **9. Calling Her by a Beautiful Name**
 
-The Prophet \hon{\PBUH}{\BODY} would call his wife ʿĀʾishah [رضي الله
-عنها]{dir="rtl"} as “Ḥumayrāʾ” out of love. Linguistically, it means the little
-red one, but scholars state that in reality it refers to someone who is so fair
-that due to the sun they get a reddish tan. This was the reason why the Prophet
+The Prophet \hon{\PBUH}{\BODY} would call his wife ʿĀʾishah \hon{\P_HER}{\BODY}
+as “Ḥumayrāʾ” out of love. Linguistically, it means the little red one, but
+scholars state that in reality it refers to someone who is so fair that due to
+the sun they get a reddish tan. This was the reason why the Prophet
 \hon{\PBUH}{\BODY} called her “Ḥumayrāʾ.” \[Ibn Mājah\]
 
 He \hon{\PBUH}{\BODY} used to lovingly shorten her name as well. ʿĀʾishah
