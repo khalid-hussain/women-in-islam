@@ -2,7 +2,7 @@
 # The Transformative Impact of Islam
 
 Some time ago, in the well-known Egyptian journal *al-Manār*, an article was
-published under the title, _Al-Marʾah fī Islām_ (Women in Islam). In it, a brief
+published under the title, _Al-Marʾah wa al-Islām_ (Women and Islam). In it, a brief
 history of women's rights was recorded, and from its study, it becomes evident
 that in ancient times, in nearly every region and among almost every nation of
 Europe and Asia, women were regarded as a degraded and inferior creation. The
