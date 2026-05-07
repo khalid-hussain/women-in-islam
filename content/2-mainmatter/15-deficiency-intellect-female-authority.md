@@ -37,7 +37,7 @@ firm religious education that they would not lose their faith at the slightest
 influence.
 
 In any case, our present discussion concerns the claim that women are being
-described as "deficient in intellect". First, we present the complete *ḥadīth*
+described as “deficient in intellect.” First, we present the complete *ḥadīth*
 from *Ṣaḥīḥ al-Bukhārī*, after which we will explain it. The original _ḥadīth_ is
 as follows:
 

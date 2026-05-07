@@ -27,9 +27,9 @@ and dignity.
 On certain occasions, the Messenger of Allah \hon{\PBUH}{\BODY} described a
 woman as the most valuable possession of this world, the most precious of all
 treasures. In *Sunan Ibn Mājah*, it is narrated from ʿAbdullāh ibn ʿUmar
-\hon{\P_TWO}{\BODY} that the Messenger of Allah \hon{\PBUH}{\BODY} said, "The
+\hon{\P_TWO}{\BODY} that the Messenger of Allah \hon{\PBUH}{\BODY} said, “The
 world is but a provision, and among its provisions there is nothing better than
-a righteous woman."
+a righteous woman.”
 
 The secret of this virtue is the very reality already mentioned---that a woman
 is a powerful link in the chain of the completion of humanity. In another
@@ -70,8 +70,8 @@ Hereafter.” \[Sunan Ibn Mājah\]
 No further elaboration was given regarding the first two, but after mentioning
 the believing wife, the reason was clearly stated: that she will be a helper and
 supporter. This narration is recorded in detail in *Sunan Ibn Mājah*. In another
-narration reported by *al-Tirmidhī*, it is stated, "The best among you are those
-who are best to their women."
+narration reported by *al-Tirmidhī*, it is stated, “The best among you are those
+who are best to their women.”
 
 And most comprehensive of all is the statement of the Noble Quran:
 

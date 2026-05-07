@@ -21,7 +21,7 @@ al-ʿĀṣ passed away during her lifetime. At the Conquest of Makkah, the Proph
 \hon{\PBUH}{\BODY} entered the city on a riding animal, with ʿAlī seated behind him.
 
 The Prophet \hon{\PBUH}{\BODY} would lead the Ṣalāh while carrying Umāmah on his
-shoulders. She was described as "the most beloved family member" when the
+shoulders. She was described as “the most beloved family member” when the
 Prophet \hon{\PBUH}{\BODY} gifted her an expensive necklace. Later, Umāmah married
 ʿAlī ibn Abī Ṭālib in 12 AH under the supervision of al-Zubayr ibn al-ʿAwwām, as
 per the bequest of Zaynab. After the martyrdom of ʿAlī, she married Mughīrah ibn
@@ -111,15 +111,15 @@ bint ʿUmays, Salmah, and Umm Ayman, under the supervision of ʿAlī ibn Abī �
 She was buried in Madīnah, and her janāzah prayer was led by Abū Bakr al-Ṣiddīq.
 She narrated 18 *aḥādīth* from the Prophet \hon{\PBUH}{\BODY}.
 
-The Prophet \hon{\PBUH}{\BODY} said, "Indeed, this is an angel who had not descended
+The Prophet \hon{\PBUH}{\BODY} said, “Indeed, this is an angel who had not descended
 to the earth before this night. He sought permission from his Lord to greet me
 and give me glad tidings that Fāṭimah will be the queen of the women of Jannah,
-and that Ḥasan and Ḥusayn will be the leaders of the youth of Jannah."
+and that Ḥasan and Ḥusayn will be the leaders of the youth of Jannah.”
 \[Al-Tirmidhī\]
 
 ʿĀʾishah \hon{\P_HER}{\BODY} reported that the Prophet \hon{\PBUH}{\BODY}
-said, "The queens of the women of Jannah are four: Maryam bint ʿImrān, Fāṭimah
-bint Rasūlillāh, Khadījah bint Khuwaylid, and Āsiyah, the wife of Firʿawn."
+said, “The queens of the women of Jannah are four: Maryam bint ʿImrān, Fāṭimah
+bint Rasūlillāh, Khadījah bint Khuwaylid, and Āsiyah, the wife of Firʿawn.”
 \[Al-Mustadrak\]
 
 All four attained their lofty ranks through unwavering *īmān* and servitude to

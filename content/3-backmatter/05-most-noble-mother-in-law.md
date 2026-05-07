@@ -1,8 +1,8 @@
 
 # The Most Noble Mother-In-Law {.unnumbered}
 
-Hind bint ʿAwf has been given the title of "the Noblest Mother-in-law in
-history" by scholars. She was from the tribe of Banū Hilāl. Such were their
+Hind bint ʿAwf has been given the title of “the Noblest Mother-in-law in
+history” by scholars. She was from the tribe of Banū Hilāl. Such were their
 marriages that they were called the in-laws of Banū Hāshim. She married thrice
 and had six daughters:
 
@@ -28,11 +28,11 @@ Bakr al-Ṣiddīq \hon{\P_HIM}{\BODY}. After he passed away, she married ʿAlī
 ibn Abī Ṭālib \hon{\P_HIM}{\BODY}.
 
 It is reported that one day, Muḥammad ibn Jaʿfar and Muḥammad ibn Abī Bakr said
-to each other in the house of ʿAlī, "My father was superior to yours." ʿAlī
-said, "Your mother will decide this matter." Asmāʾ said, "As far as strength is
+to each other in the house of ʿAlī, “My father was superior to yours.” ʿAlī
+said, “Your mother will decide this matter.” Asmāʾ said, “As far as strength is
 concerned, Jaʿfar was a very powerful and a great man. As far as religious
-practice is concerned, Abū Bakr was a great person." (In other words, both are
-great men). ʿAlī then jokingly said to Asmāʾ, "What have you left for me?"
+practice is concerned, Abū Bakr was a great person.” (In other words, both are
+great men). ʿAlī then jokingly said to Asmāʾ, “What have you left for me?”
 *Subḥan Allāh*. The above conversation was happening in the house of her third
 husband about the virtues of the first two husbands to resolve an argument among
 the children from the first two husbands.

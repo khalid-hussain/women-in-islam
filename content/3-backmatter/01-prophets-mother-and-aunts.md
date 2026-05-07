@@ -67,11 +67,11 @@ He was further cared for by Shaymāʾ, the daughter of Ḥalīmah and his foster
 sister, and most notably by Umm Ayman Barakah bint Thaʿlabah, who played a
 central role in his upbringing.
 
-Imam Ibn al-Jawzī \hon{\M_HIM}{\BODY} said, "Ḥalīmah came to see the
+Imam Ibn al-Jawzī \hon{\M_HIM}{\BODY} said, “Ḥalīmah came to see the
 Messenger of Allah \hon{\PBUH}{\BODY} twice after she had returned him to his
 mother. The first time was after his marriage to Khadījah, during a period of
 severe famine in her land. In order to assist her, he spoke to Khadījah, who
 gave her one camel and forty goats. When she came the second time, he had
 already begun his Prophetic mission. Ḥalīmah accepted Islam and pledged
-allegiance to him, and her husband al-Ḥārith also embraced Islam." \[Subul
+allegiance to him, and her husband al-Ḥārith also embraced Islam.” \[Subul
 al-Hudá wa al-Rashād\]

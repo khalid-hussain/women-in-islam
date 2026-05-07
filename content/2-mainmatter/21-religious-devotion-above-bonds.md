@@ -11,8 +11,8 @@ he was ultimately killed.
 Consider the present condition: how many women in our society are truly aware of
 the essence of their religion, and to what extent do they genuinely understand
 the firm and binding relationship that exists between themselves and the
-Sharīʿah? If they are asked about a religious ruling, they will say, "It is the
-command of Allah" (with little regard for custom), yet the women of that earlier
+Sharīʿah? If they are asked about a religious ruling, they will say, “It is the
+command of Allah” (with little regard for custom), yet the women of that earlier
 age fully understood the nature of their religion. They were well aware that the
 Sharīʿah was not a burden of hardship, but rather a system of ease and
 facilitation. They knew that the law ordained by Allah was in accordance with
@@ -61,9 +61,9 @@ freely, without hesitation, in the path of Allah.)[^7]
     as a condition for *bayʿah*. What the author might be referring to are
     narrations like when a woman came to the Prophet \hon{\PBUH}{\FOOTER} with her
     daughter, and on the daughter's hands were two gold bangles. He
-    \hon{\PBUH}{\FOOTER} said to her, "Do you give the *zakāh* on these?" She replied,
-    "No." He \hon{\PBUH}{\FOOTER} said, "Would it please you that Allah should place
-    upon you, on the Day of Resurrection, two bangles of fire?" So she removed
+    \hon{\PBUH}{\FOOTER} said to her, “Do you give the *zakāh* on these?” She replied,
+    “No.” He \hon{\PBUH}{\FOOTER} said, “Would it please you that Allah should place
+    upon you, on the Day of Resurrection, two bangles of fire?” So she removed
     them and cast them aside. \[Sunan Abī Dāwūd\]
 
 When the persecution of Quraysh intensified in Makkah, the Prophet

@@ -191,8 +191,8 @@ Tābiʿīn learned the proper method of the rites of washing the deceased.
 All of these examples make it evident that the disagreements regarding women's
 education are largely rooted in personal opinions. The actual practice of the
 Ṣaḥābah and Tābiʿīn stands in clear contrast to such restrictions. Some
-advocates of modern education cite the *ḥadīth*, "Seeking knowledge is
-obligatory upon every Muslim man and Muslim woman."
+advocates of modern education cite the *ḥadīth*, “Seeking knowledge is
+obligatory upon every Muslim man and Muslim woman.”
 
 It is true that the addition “...and every Muslim woman...” (_wa muslimah_) is
 not established as authentic; however, the inclusion of that word is not
@@ -235,5 +235,5 @@ strongly oppose it, a narration in *Sunan Abī Dāwūd* indicates that the Proph
 issued verdicts permitting it. In our view, this is not merely permissible but
 also a Sunnah upon which Muslims ought to act.
 
-As for the scholarly accomplishments of women, we intend, *InshāʾAllāh*, to
+As for the scholarly accomplishments of women, we intend, *In-shāʾ-Allāh*, to
 present them in detail in a separate treatise.

@@ -58,8 +58,8 @@ recite those two Sūrahs and blow her breath over him and make him rub his body
 with his own hand for its blessings. \[Ṣaḥīḥ al-Bukhārī\]
 
 The passing of the Master of the Universe \hon{\PBUH}{\BODY} took place in the
-lap of a woman. ʿĀʾishah \hon{\P_HER}{\BODY} said, "Allah took his soul while he
-was between my chest and my neck, and he was buried in my house." \[Ṣaḥīḥ
+lap of a woman. ʿĀʾishah \hon{\P_HER}{\BODY} said, “Allah took his soul while he
+was between my chest and my neck, and he was buried in my house.” \[Ṣaḥīḥ
 al-Bukhārī\]
 
 When ʿĀʾishah \hon{\P_HER}{\BODY} would mention her virtues in comparison to the

@@ -26,7 +26,7 @@ relates to functions connected with the physical constitution of human beings.
 Duties such as participation in Jihād and the provision of livelihood are
 assigned to men, owing to their physical structure and capacities. Women are not
 burdened with such responsibilities, for their natural constitution is not
-suited to endure such hardships. However, this does not imply that this "degree"
+suited to endure such hardships. However, this does not imply that this “degree”
 can be used as a pretext to strip women of the rights essential for their
 development and refinement.
 
@@ -42,7 +42,7 @@ Men are maintainers over women. (Sūrat al-Nisāʾ, Q4:34)
 \AYAH_END
 
 This *āyah* is often cited as a strong argument for male superiority; however,
-when examined closely, it clarifies the nature of that "degree." In Arabic
+when examined closely, it clarifies the nature of that “degree.” In Arabic
 usage, when *qiyām* is followed by *ʿalā*, it conveys the meaning of protection
 and responsibility. Thus, the combined implication of the verses is that men
 have been granted this degree in order to assume responsibility for the care,

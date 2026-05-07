@@ -59,8 +59,8 @@ that the foundation of this practice was laid in that blessed era, following
 whose footsteps is an obligation upon all of us.
 
 On another occasion, a delegation of women came to the court of Prophethood and
-complained, "The men have prevailed over us in attending your gatherings, so
-appoint for us a day from your time." The Prophet \hon{\PBUH}{\BODY} listened
+complained, “The men have prevailed over us in attending your gatherings, so
+appoint for us a day from your time.” The Prophet \hon{\PBUH}{\BODY} listened
 attentively to their request and then designated a specific day for them, from
 which they benefited through his instruction. \[Ṣaḥīḥ al-Bukhārī\]
 

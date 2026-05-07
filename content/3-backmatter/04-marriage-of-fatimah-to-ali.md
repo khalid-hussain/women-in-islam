@@ -38,8 +38,8 @@ they plastered the walls. They then cleaned and straightened the barks of the
 date-palm tree and made two cushions out of them, and prepared a dish with dates
 and raisins and a drink of sweet water. They then placed a stick in the corner
 of the room to hang clothes and a leather water-skin. When these arrangements
-were completed, ʿĀʾishah \hon{\P_HER}{\BODY} commented, "We never saw a marriage
-more exquisite than that of Fatimah." \[Ibn Mājah\]
+were completed, ʿĀʾishah \hon{\P_HER}{\BODY} commented, “We never saw a marriage
+more exquisite than that of Fatimah.” \[Ibn Mājah\]
 
 ʿAlī ibn Abī Ṭālib \hon{\P_HIM}{\BODY} reports that when the Prophet
 \hon{\PBUH}{\BODY} married Fāṭimah \hon{\P_HER}{\BODY} to him, he sent with
@@ -61,16 +61,16 @@ the blisters on her hand because of using a millstone. She went to ask the
 Prophet \hon{\PBUH}{\BODY} for a servant, but she did not find him (at home) and
 had to inform ʿĀʾishah of her need. When he came, ʿĀʾishah informed him about
 it.” ʿAlī added, “The Prophet \hon{\PBUH}{\BODY} came to us when we had gone to
-our beds. When I was going to get up, he said, 'Stay in your places,' and sat
+our beds. When I was going to get up, he said, ‘Stay in your places,’ and sat
 between us, till I felt the coolness of his feet on my chest. The Prophet
-\hon{\PBUH}{\BODY} then said, 'Shall I not tell you of a thing which is better
-for you than a servant? When you (both) go to your beds, say "Allāhu Akbar," 34
-times, and "Alḥamdulillāh," 33 times, and "Subhan Allah," 33 times. That is
-better for you than what you have requested (a servant).'” \[Al-Bukhārī\]
+\hon{\PBUH}{\BODY} then said, ‘Shall I not tell you of a thing which is better
+for you than a servant? When you (both) go to your beds, say “Allāhu Akbar,” 34
+times, and “Alḥamdulillāh,” 33 times, and “Subhan Allah,” 33 times. That is
+better for you than what you have requested (a servant).’” \[Al-Bukhārī\]
 
 Later, it is reported on the authority of Anas that the Prophet
 \hon{\PBUH}{\BODY} brought a slave, whom he had gifted to Fāṭimah. She was
 wearing a piece of cloth (which was small) that, if she had to cover her head,
 her feet would be exposed, and if she covered her feet, her head would be
 exposed. When the Prophet \hon{\PBUH}{\BODY} saw her plight, he consoled her,
-saying, "Do not worry. It is only your father and your slave." \[Abū Dāwūd\]
+saying, “Do not worry. It is only your father and your slave.” \[Abū Dāwūd\]

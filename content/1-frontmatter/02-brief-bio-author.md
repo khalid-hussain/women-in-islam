@@ -39,13 +39,13 @@ from Shaykh al-Hind, Mawlānā Maḥmūd al-Ḥasan \hon{\M_HIM}{\BODY} (d.1920)
 
 His exceptional scholarly ability was later highly praised by ʿAllāmah Sayyid
 Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} (d.1953) in *Yādgār-e-Raftagān*,
-"Within its brief existence, Dār al-ʿUlūm Nadwah has produced many capable and
+“Within its brief existence, Dār al-ʿUlūm Nadwah has produced many capable and
 learned servants of the religion. I say with full conviction that ʿAbd al-Raḥmān
 was the best among them all. Allah Most High had gathered within his person all
-the qualities of knowledge and action."
+the qualities of knowledge and action.”
 
 In another place, ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY}
-wrote, "With the passing of the late Mawlānā, the younger generation of scholars
+wrote, “With the passing of the late Mawlānā, the younger generation of scholars
 has lost an important pillar, and the religious and reformist movement in India
 has suffered a great loss. How can we convince those who were not acquainted
 with him of this reality? He was not among those who, when reconciling religious
@@ -54,7 +54,7 @@ always a quiet and deeply religious man. Piety and devotion adorned his learning
 and excellence. Many who claim reformist ideas are weak in religious practice,
 but his personality combined both firmness and reform. He was extremely
 religious and at the same time deeply reformist. Every word of his speech and
-writing constituted a chapter of moral and religious reform."
+writing constituted a chapter of moral and religious reform.”
 
 ## Life After Shiblī: Teaching and Reform Work {.unnumbered}
 
@@ -155,8 +155,8 @@ a session at Nadwat al-ʿUlamāʾ in Lucknow. Also present were Dr. Saifuddin
 Kitchlew and Mawlānā Shaukat ʿAlī. Al-Thaʿālabī delivered a speech in Arabic
 which Shaykh ʿAbd al-Raḥmān translated into Urdu with remarkable fluency and
 elegance. The entire audience was astonished. Dr. Kitchlew and Mawlānā Shawkat
-ʿAlī lifted him onto their shoulders and declared, "This is exactly the kind of
-scholar we need."
+ʿAlī lifted him onto their shoulders and declared, “This is exactly the kind of
+scholar we need.”
 
 He authored numerous articles, and his writings were greatly appreciated by the
 Begum of Bhopal. He spoke Arabic fluently, studied philosophy and theology, and
@@ -214,17 +214,17 @@ covering himself with what he slept upon.
       Gandhi urging Indians to boycott British institutions, goods, and services
       to achieve self-rule.
 
-ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} noted, "He was an angel
+ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} noted, “He was an angel
 in the form of a human being. In his youth, he put elders to shame with his
 character and piety. Once, he left a gathering simply because English music was
-going to be played."
+going to be played.”
 
-Dr. ʿAbdullāh ʿAbbās Nadwī \hon{\M_HIM}{\BODY} wrote, "Mawlānā ʿAbd al-Raḥmān
+Dr. ʿAbdullāh ʿAbbās Nadwī \hon{\M_HIM}{\BODY} wrote, “Mawlānā ʿAbd al-Raḥmān
 Nagramī was a spiritually elevated and deeply compassionate elder whose company
 was transformative. Even one negligent in prayer, if he came close to him, would
 not only become regular in ṣalāh but would rise to the level of performing
 tahajjud. My teacher, Mawlānā ʿAbd al-Salām Kidwai, was among his distinguished
-students."
+students.”
 
 ## Final Illness and Passing {.unnumbered}
 
@@ -259,14 +259,14 @@ condolence articles and letters, including:
   of condolence in which he spoke of his deep attachment and affection for the
   late Shaykh.
 
-Sayyid Jālib al-Dahlawī \hon{\M_HIM}{\BODY} wrote, "The country still needed
-many more scholars like al-Nagrāmī."
+Sayyid Jālib al-Dahlawī \hon{\M_HIM}{\BODY} wrote, “The country still needed
+many more scholars like al-Nagrāmī.”
 
-ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} wrote, "The night-lamp
-of our circle has grown dim."
+ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} wrote, “The night-lamp
+of our circle has grown dim.”
 
 After his passing, his widow later remarried Shaykh ʿAbd al-Mājid al-Daryābādī
-\hon{\M_HIM}{\BODY}. He wrote, "In the truest sense, he (ʿAbd al-Raḥmān
+\hon{\M_HIM}{\BODY}. He wrote, “In the truest sense, he (ʿAbd al-Raḥmān
 al-Nagrāmī) was both a scholar and a student of knowledge. Not a single moment
 of his life was free from intellectual and academic engagement. Among all
 branches of knowledge, his deepest passion and attachment was for the Book of
@@ -278,9 +278,9 @@ his expression eloquent, his language fluent, and his literary taste evident.
 Every line that emerged from his pen bore witness to these qualities. Words fall
 short of fully capturing what the Muslim Ummah has lost with the passing of this
 rare personality, one who combined numerous excellences, a remarkable embodiment
-of knowledge and practice." \[Wafiyāt Majīdī\]
+of knowledge and practice.” \[Wafiyāt Majīdī\]
 
-Shaykh Abū al-Ḥasan ʿAlī al-Nadwī \hon{\M_HIM}{\BODY} wrote, "Allah had
+Shaykh Abū al-Ḥasan ʿAlī al-Nadwī \hon{\M_HIM}{\BODY} wrote, “Allah had
 endowed this young scholar (ʿAbd al-Raḥmān al-Nagrāmī) with an extraordinary
 range of qualities---diverse and, at times, seemingly contrasting. On one hand,
 he was a mufassir, a man of letters, a skilled writer, an eloquent orator, and a
@@ -293,4 +293,4 @@ Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} and his institution took great
 pride in him, and he also served as a trusted associate and strong supporter of
 Abū al-Kalām Āzād \hon{\M_HIM}{\BODY}. At the same time, he was among the
 disciples and authorized representatives of Maḥmūd al-Ḥasan al-Deobandī
-\hon{\M_HIM}{\BODY}." \[Purāne Chirāgh\]
+\hon{\M_HIM}{\BODY}.” \[Purāne Chirāgh\]

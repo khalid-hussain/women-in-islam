@@ -6,7 +6,7 @@ exercise of women's rights? In truth, this is the ultimate limit of freedom.
 Observe the dignity of the Prophet of Islam \hon{\PBUH}{\BODY}, who knew that she
 was exercising her lawful right, and thus from the outset adopted the tone of
 recommendation rather than command. And observe the depth of Barīrah's devotion
-and obedience in her response, "Are you commanding me?" meaning that if this
+and obedience in her response, “Are you commanding me?” meaning that if this
 were a command from the Messenger of Allah \hon{\PBUH}{\BODY}, there would be no
 room for refusal; but if it were merely a recommendation, then she had a choice.
 
@@ -15,7 +15,7 @@ related affairs, the details of which will become clear in the following pages;
 yet in our society today, who truly acts upon these rulings of the Sharīʿah? If
 girls were to exercise such rights, they would be labeled immodest and
 shameless. The truth is that if exercising one's rightful Sharīʿah rights is
-considered immodesty, then such "immodesty" is a source of pride for us. These
+considered immodesty, then such “immodesty” is a source of pride for us. These
 two incidents suffice as examples, but at this point it is our religious duty to
 admonish the women of Islam that, in seeking their legitimate Sharīʿah rights,
 they should not remain bound by customs and traditions; rather, they should keep

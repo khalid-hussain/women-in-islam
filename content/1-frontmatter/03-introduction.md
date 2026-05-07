@@ -43,14 +43,14 @@ short before its full potential could unfold. Qadar Allah. Yet a glance at his
 writings, and the age at which they were authored, makes that reverence entirely
 understandable.
 
-Among the works uncovered, one stood out in particular: *Khavātīn-e-Islam*. This
+Among the works uncovered, one stood out in particular: *Khavātīn-i Islām*. This
 was his first major essay, a profound treatment of the virtues, rights, and
 responsibilities of Muslim women in the light of the Quran and Ḥadīth. This work
 was presented to the Begum of Bhopal, who received it with great appreciation.
 
 ʿAllāmah Sayyid Sulaymān al-Nadwī \hon{\M_HIM}{\BODY} writes regarding this
-work, "The first reflection of his intellectual thought is his article *Khawātīn
-al-Islam*, written in the form of a treatise, likely around 1918, with the
+work, “The first reflection of his intellectual thought is his article *Khavātīn-i
+Islām*, written in the form of a treatise, likely around 1918, with the
 support of the government of Bhopal. This treatise is unique in its subject,
 presenting the virtues, merits, rights, duties, and priorities of women in light
 of the Quran and Ḥadīth.
@@ -58,7 +58,7 @@ of the Quran and Ḥadīth.
 By chance, I visited Bhopal and learned that the Begum had greatly appreciated
 it, even marking certain passages in her own hand, requesting further
 elaboration. I brought the manuscript back and published it in Maʿārif
-(June--July 1921) with a brief introduction." \[Yādgār-e-Raftagān\]
+(June--July 1921) with a brief introduction.” \[Yādgār-e-Raftagān\]
 
 Sultan Jahan Begum was the daughter of Shah Jahan Begum of Bhopal and the
 esteemed scholar Nawab Siddiq Hasan Khan. Sultan Jahan Begum grew up in an
@@ -73,16 +73,16 @@ educational reforms, particularly for Muslim women. She worked to establish
 girls' schools in Bhopal, promote female literacy among Muslim families, and
 support Islamic education alongside modern learning. and encouraging writings on
 women's rights and responsibilities in Islam. Her engagement with works like
-*Khavātīn-e-Islam* was therefore not merely ceremonial patronage, but active
+*Khavātīn-i Islām* was therefore not merely ceremonial patronage, but active
 intellectual interest.
 
-The Editor of Maʿārif in 1921 introduced this work by writing, "Today, we
+The Editor of Maʿārif in 1921 introduced this work by writing, “Today, we
 present to the readers of Maʿārif an offering from a contemporary Nadwī pen. The
 following article is by our esteemed friend, Mawlawi ʿAbd al-Raḥmān Nagrāmī, a
 graduate of Nadwat al-ʿUlamāʾ and a teacher at Madrasah Iṣlāḥ, Sarāy Mīr,
 Azamgarh. On this subject, it is likely that no more comprehensive article has
 yet appeared in Urdu in which the Islamic perspective concerning women has been
-examined in full detail."
+examined in full detail.”
 
 Discovering this work and learning the story behind it ignited within me a
 resolve to bring it to light for an English-speaking audience. What is striking
@@ -97,7 +97,7 @@ when purpose, discipline, and sincerity converge. Our history is not silent on
 this reality.
 
 - Zayd ibn Thābit \hon{\P_HIM}{\BODY} was the scribe of the Messenger of
-  Allah \hon{\PBUH}{\BODY}. He was approximately 11--13 years old when he was
+  Allah \hon{\PBUH}{\BODY}. He was about 11--13 years old when he was
   presented to the Prophet \hon{\PBUH}{\BODY}. At the Prophet's \hon{\PBUH}{\BODY}
   instruction, Zayd learned Hebrew in about 15 days, and in another instance,
   Syriac in about 17 days, so as to read, write, and manage the correspondence
@@ -123,7 +123,7 @@ unattainable. Yet this very work stands as a living refutation of that claim.
 Shaykh ʿAbd al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} authored this deeply
 nuanced and remarkably balanced treatise at the age of nineteen. It forces us to
 confront an uncomfortable but necessary question: what occupies the energies and
-ambitions of our youth today? The category of the "teenager" as a prolonged
+ambitions of our youth today? The category of the “teenager” as a prolonged
 phase of disengagement is a modern construct; in the Islamic worldview,
 responsibility begins with maturity, and maturity begins at puberty.
 
@@ -139,9 +139,9 @@ in need of good deeds to be the one to revive and translate this work. A full
 century has passed. Generations have come and gone, yet his words remain,
 continuing to benefit, to teach, and to inspire. This is the true measure of a
 life lived with purpose. How true are the words of the Messenger of Allah
-\hon{\PBUH}{\BODY}, "When the son of Ādam dies, his deeds come to an end except for
+\hon{\PBUH}{\BODY}, “When the son of Ādam dies, his deeds come to an end except for
 three: ongoing charity, beneficial knowledge, and a righteous child who prays
-for him." \[Ṣaḥīḥ Muslim\]
+for him.” \[Ṣaḥīḥ Muslim\]
 
 We have added a detailed biography of Shaykh ʿAbd al-Raḥmān al-Nagrāmī
 \hon{\M_HIM}{\BODY} which is the first of its kind in the English language. In
@@ -188,8 +188,8 @@ highlighted to the team be fixed in the upcoming prints. We have translated and
 incorporated the foreword by Mawlānā Muḥammad Rābiʿ into our present
 translation. Allah is Most Kind.
 
-The Prophet \hon{\PBUH}{\BODY} taught us, "Whoever does not thank people has not
-thanked Allah" \[Abū Dāwūd\]. I extend my heartfelt gratitude to Shaykh Mairaj
+The Prophet \hon{\PBUH}{\BODY} taught us, “Whoever does not thank people has not
+thanked Allah.” \[Abū Dāwūd\] I extend my heartfelt gratitude to Shaykh Mairaj
 Quraishi for helping digitise the work from its manuscript. I would like to
 thank my dear friend Khalid Hussain for helping with the editing and
 proofreading of the treatise. I would like to thank my wife Zainab Saiyid for

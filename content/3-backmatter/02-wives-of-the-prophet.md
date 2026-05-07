@@ -33,15 +33,15 @@ of Ṣafar. A cow was slaughtered by her family, and Abū Ṭālib delivered a s
 The Prophet \hon{\PBUH}{\BODY} also slaughtered camels to feed the guests.
 
 She was the mother of all the children of the Prophet \hon{\PBUH}{\BODY} except
-Ibrāhīm. The Prophet \hon{\PBUH}{\BODY} said, "Indeed, Allah did not grant me better
+Ibrāhīm. The Prophet \hon{\PBUH}{\BODY} said, “Indeed, Allah did not grant me better
 than her; she accepted me when people rejected me, she believed in me when
 people doubted me, she shared her wealth with me when people deprived me, and
-Allah granted me children only through her." \[Ṣaḥīḥ Muslim\]
+Allah granted me children only through her.” \[Ṣaḥīḥ Muslim\]
 
 She was the first to hear the revelation from the Prophet \hon{\PBUH}{\BODY}, the
 first to perform *wuḍūʾ* and pray with him, and the first to believe in his
-message. The Prophet \hon{\PBUH}{\BODY} said, "Her love was nurtured in my heart by
-Allah Himself." \[Ṣaḥīḥ Muslim\]
+message. The Prophet \hon{\PBUH}{\BODY} said, “Her love was nurtured in my heart by
+Allah Himself.” \[Ṣaḥīḥ Muslim\]
 
 He did not marry any other woman during her lifetime. She was the first person
 to be given the glad tidings of Jannah, and she was given specific glad tidings
@@ -52,8 +52,8 @@ She passed away in Makkah in Ramaḍān, three years before the Hijrah, at the a
 of either 53 or 65. She was buried in al-Ḥajūn by the Prophet \hon{\PBUH}{\BODY}.
 Ṣalāt al-Janāzah had not yet been prescribed at that time.
 
-The Prophet \hon{\PBUH}{\BODY} said, "The best woman of her time was Maryam bint
-ʿImrān, and the best woman of this Ummah is Khadījah." \[Ṣaḥīḥ al-Bukhārī\]
+The Prophet \hon{\PBUH}{\BODY} said, “The best woman of her time was Maryam bint
+ʿImrān, and the best woman of this Ummah is Khadījah.” \[Ṣaḥīḥ al-Bukhārī\]
 
 ## 2. Sawdah bint Zamʿah ([سودة بنت زمعة]{dir="rtl"}) {.unnumbered}
 
@@ -86,9 +86,9 @@ was the daughter of Abū Bakr al-Ṣiddīq and belonged to the Banū Taym sub-tr
 of Quraysh. Her mother was Umm Rummān Zaynab bint ʿĀmir from Banū Kinānah.
 
 She was born in Makkah approximately four to five years after the beginning of
-Prophethood. She was the only virgin whom the Prophet \hon{\PBUH}{\BODY} married.
-She was shown to the Prophet \hon{\PBUH}{\BODY} in a dream by Jibrīl \hon{\S_HIM}{\BODY} [عليه
-السلام]{dir="rtl"} as his future wife.
+Prophethood. She was the only virgin whom the Prophet \hon{\PBUH}{\BODY}
+married. She was shown to the Prophet \hon{\PBUH}{\BODY} in a dream by Jibrīl
+\hon{\S_HIM}{\BODY} as his future wife.
 
 She married the Prophet \hon{\PBUH}{\BODY} in Shawwāl in the tenth year of
 Prophethood, with a *mahr* of 400 dirhams, at the age of six. The marriage was
@@ -103,17 +103,17 @@ marriage with Zaynab. In reality, ʿĀʾishah was already engaged to Muṭʿim i
 faster because of the climate. For over a 1000 years, the Muslim Ummah has had
 no issues with the age of ʿĀʾishah.
 
-ʿĀʾishah \hon{\P_HER}{\BODY} said, "If a girl (*jāriyah*) were to reach
-puberty at the age of nine, then she is a woman." \[Al-Tirmidhī\]
+ʿĀʾishah \hon{\P_HER}{\BODY} said, “If a girl (*jāriyah*) were to reach
+puberty at the age of nine, then she is a woman.” \[Al-Tirmidhī\]
 
-Imam Ibn Ḥazm \hon{\M_HIM}{\BODY} said, "The age of ʿĀʾishah is recorded in
-the texts without a difference of opinion." \[Ḥajjat al-Widāʿ\]
+Imam Ibn Ḥazm \hon{\M_HIM}{\BODY} said, “The age of ʿĀʾishah is recorded in
+the texts without a difference of opinion.” \[Ḥajjat al-Widāʿ\]
 
-Imam Ibn Kathīr \hon{\M_HIM}{\BODY} said, "This is a matter in which there is
-no difference of opinion amongst people." \[Al-Sīrah al-Nabawiyyah\]
+Imam Ibn Kathīr \hon{\M_HIM}{\BODY} said, “This is a matter in which there is
+no difference of opinion amongst people.” \[Al-Sīrah al-Nabawiyyah\]
 
-Imam Ibn ʿAbd al-Barr \hon{\M_HIM}{\BODY} said, "I do not know of anyone
-differing on this." \[Al-Istīʿāb\]
+Imam Ibn ʿAbd al-Barr \hon{\M_HIM}{\BODY} said, “I do not know of anyone
+differing on this.” \[Al-Istīʿāb\]
 
 She was the only wife whose parents migrated to Madīnah. Revelation would
 descend upon the Prophet \hon{\PBUH}{\BODY} while he was in her company. The rulings
@@ -123,9 +123,9 @@ She was around twelve years old at the time of the Incident of Ifk, which
 occurred after the expedition of al-Muraysīʿ, before the Battle of al-Aḥzāb and
 the events of Banū Qurayẓah in 5 AH.
 
-The Prophet \hon{\PBUH}{\BODY} affectionately called her "Ḥumayrāʾ" and would
-shorten her name. She reported, "Once the Messenger of Allah \hon{\PBUH}{\BODY} said
-to me, 'O ʿĀʾish! This is Jibrīl greeting you.'"
+The Prophet \hon{\PBUH}{\BODY} affectionately called her “Ḥumayrāʾ” and would
+shorten her name. She reported, “Once the Messenger of Allah \hon{\PBUH}{\BODY} said
+to me, ‘O ʿĀʾish! This is Jibrīl greeting you.’”
 
 *Āyāt* of the Quran were revealed, declaring her innocence---to be recited until
 the Day of Judgment. She also witnessed Jibrīl \hon{\S_HIM}{\BODY} in a
@@ -133,17 +133,17 @@ non-angelic form.
 
 The Prophet \hon{\PBUH}{\BODY} passed away while leaning against her chest when she
 was eighteen years old. She became one of the greatest scholars of the Ummah.
-Imam al-Ḥākim stated, "One-fourth of the rulings of the Sharīʿah were narrated
-on the authority of ʿĀʾishah."
+Imam al-Ḥākim stated, “One-fourth of the rulings of the Sharīʿah were narrated
+on the authority of ʿĀʾishah.”
 
 She passed away in Madīnah on 17 Ramaḍān 58 AH at the age of 66. Her *janāzah*
 was led by Abū Hurayrah. She narrated 2,210 *aḥādīth* from the Prophet
 \hon{\PBUH}{\BODY}.
 
-The Prophet \hon{\PBUH}{\BODY} said, "Many men attained perfection, but among women
+The Prophet \hon{\PBUH}{\BODY} said, “Many men attained perfection, but among women
 only Āsiyah, the wife of Firʿawn, and Maryam bint ʿImrān attained perfection.
 And the superiority of ʿĀʾishah over other women is like the superiority of
-*tharīd* over all other foods." \[Ṣaḥīḥ al-Bukhārī\]
+*tharīd* over all other foods.” \[Ṣaḥīḥ al-Bukhārī\]
 
 ## 4. Ḥafṣah bint ʿUmar ([حفصة بنت عمر]{dir="rtl"}) {.unnumbered}
 
@@ -164,8 +164,8 @@ Khuṇays. She later married the Prophet \hon{\PBUH}{\BODY} in Shaʿbān 3 AH wi
 *mahr* of 400 dirhams at the age of nineteen.
 
 Her worship was praised by the Angel Jibrīl \hon{\S_HIM}{\BODY}, who said
-to the Prophet \hon{\PBUH}{\BODY}, "She is one who frequently fasts and prays, and
-she will be your wife in Paradise."
+to the Prophet \hon{\PBUH}{\BODY}, “She is one who frequently fasts and prays, and
+she will be your wife in Paradise.”
 
 She was the custodian of the first compiled *muṣḥaf* of the Quran during the
 caliphate of Abū Bakr. She passed away in Madīnah in 45 AH at approximately
@@ -216,13 +216,13 @@ She and her husband were among the earliest to migrate---twice to Abyssinia and
 later to Madīnah. Abū Salamah, who was also the foster brother of the Prophet
 \hon{\PBUH}{\BODY}, passed away from wounds sustained at Uḥud.
 
-Umm Salamah reported, "I heard the Messenger of Allah \hon{\PBUH}{\BODY} saying,
-'When a person suffers from a calamity and utters, "We belong to Allah and to
+Umm Salamah reported, “I heard the Messenger of Allah \hon{\PBUH}{\BODY} saying,
+‘When a person suffers from a calamity and utters, “We belong to Allah and to
 Him we shall return. O Allah! Compensate me in my affliction, recompense my loss
-and give me something better in exchange for it," then Allah surely compensates
-him with reward and a better substitute.'" Umm Salamah said, "When Abū Salamah
+and give me something better in exchange for it,” then Allah surely compensates
+him with reward and a better substitute.’” Umm Salamah said, “When Abū Salamah
 died, I repeated the same supplication as the Messenger of Allah \hon{\PBUH}{\BODY}
-had commanded me with. So Allah bestowed upon me a better substitute than him."
+had commanded me with. So Allah bestowed upon me a better substitute than him.”
 \[Ṣaḥīḥ Muslim\]
 
 She married the Prophet \hon{\PBUH}{\BODY} in Shawwāl 4 AH at the age of 29. After
@@ -272,14 +272,14 @@ al-Ḥārith ibn Abī Ḍirār. Her mother was Barrah bint al-Ḥārith.
 
 She had previously been married to Musāfiʿ ibn Ṣafwān, who was killed in battle
 against the Muslims. She was originally named Barrah, which the Prophet
-\hon{\PBUH}{\BODY} changed to Juwayriyyah, meaning "young girl," reflecting her
+\hon{\PBUH}{\BODY} changed to Juwayriyyah, meaning “young girl,” reflecting her
 youth.
 
 She married the Prophet \hon{\PBUH}{\BODY} in Shaʿbān 6 AH at the age of 19 or 20,
 and her *mahr* was her emancipation. Following her marriage, over a hundred
 families from her tribe were freed, leading ʿĀʾishah \hon{\P_HER}{\BODY}
-to remark, "I do not know of any woman more blessed for her people than
-Juwayriyyah."
+to remark, “I do not know of any woman more blessed for her people than
+Juwayriyyah.”
 
 She passed away in Madīnah in 56 AH at the age of 65, and her janāzah was led by
 Marwān ibn al-Ḥakam, the governor of Madinah. She narrated 7 *aḥādīth*.
@@ -313,8 +313,8 @@ Abī al-Ḥuqayq.
 She married the Prophet \hon{\PBUH}{\BODY} in Rabīʿ al-Awwal 7 AH at the age of
 approximately 16 or 17, and her *mahr* was her emancipation. She was his only
 non-Arab wife. When her co-wives remarked about her lineage, the Prophet
-\hon{\PBUH}{\BODY} said, "You are the daughter of a prophet, your uncle is a
-prophet, and you are married to a prophet." \[Al-Tirmidhī\]
+\hon{\PBUH}{\BODY} said, “You are the daughter of a prophet, your uncle is a
+prophet, and you are married to a prophet.” \[Al-Tirmidhī\]
 
 She passed away in Madīnah in 52 AH at the age of 60 during the caliphate of
 Muʿāwiyah. She narrated 10 *aḥādīth*.
@@ -337,8 +337,8 @@ She was the sister of Umm al-Faḍl, the wife of al-ʿAbbās, and the uterine si
 of Zaynab bint Khuzaymah. This was the final marriage of the Prophet
 \hon{\PBUH}{\BODY}.
 
-Her mother Hind was famously described as "the woman with the most noble
-sons-in-law," including the Prophet \hon{\PBUH}{\BODY}, al-ʿAbbās, Ḥamzah, ʿAlī,
+Her mother Hind was famously described as “the woman with the most noble
+sons-in-law,” including the Prophet \hon{\PBUH}{\BODY}, al-ʿAbbās, Ḥamzah, ʿAlī,
 Jaʿfar, and Abū Bakr.
 
 She passed away in Wādī Sarif near Makkah in 61 or 63 AH at the age of 81. Her

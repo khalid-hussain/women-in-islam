@@ -17,11 +17,11 @@ eloquent and heartfelt terms.
 The intellectual and practical capabilities demonstrated by Mawlānā ʿAbd
 al-Raḥmān al-Nagramī \hon{\M_HIM}{\BODY} were marked by depth, benefit, and
 scholarly maturity. His writings were published in leading academic journals of
-the time. Among them was a notable series on the theme of "Women in Islam,"
-which appeared across several issues of Maʿārif. In the modern age, this subject
-has often been manipulated to cast aspersions upon Islam, portraying it as
-unjust to women and alleging that it deprives them of their rights while
-favoring men. On this basis, calls are made to "restore" women's rights
+the time. Among them was a notable series on the theme of “Women in Islam,”
+which appeared across several issues of _Maʿārif_. In the modern age, this
+subject has often been manipulated to cast aspersions upon Islam, portraying it
+as unjust to women and alleging that it deprives them of their rights while
+favoring men. On this basis, calls are made to “restore” women's rights
 according to non-Islamic frameworks.
 
 However, Islam in reality elevated women from conditions of oppression imposed
