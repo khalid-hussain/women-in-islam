@@ -220,7 +220,7 @@ character and piety. Once, he left a gathering simply because English music was
 going to be played.”
 
 Dr. ʿAbdullāh ʿAbbās Nadwī \hon{\M_HIM}{\BODY} wrote, “Mawlānā ʿAbd al-Raḥmān
-Nagramī was a spiritually elevated and deeply compassionate elder whose company
+al-Nagrāmī was a spiritually elevated and deeply compassionate elder whose company
 was transformative. Even one negligent in prayer, if he came close to him, would
 not only become regular in ṣalāh but would rise to the level of performing
 tahajjud. My teacher, Mawlānā ʿAbd al-Salām Kidwai, was among his distinguished

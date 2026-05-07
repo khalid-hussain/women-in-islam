@@ -1,7 +1,7 @@
 
 # Foreword {.unnumbered}
 
-Mawlānā ʿAbd al-Raḥmān al-Nagramī al-Nadwī \hon{\M_HIM}{\BODY} was among those
+Mawlānā ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī \hon{\M_HIM}{\BODY} was among those
 distinguished sons of Nadwat al-ʿUlamāʾ who left a profound impression through
 their intellectual and practical contributions. In his relatively short life, he
 rendered significant service as a scholar of religion and a guide to the
@@ -15,7 +15,7 @@ a major loss to scholarship and righteous action, expressing their grief in
 eloquent and heartfelt terms.
 
 The intellectual and practical capabilities demonstrated by Mawlānā ʿAbd
-al-Raḥmān al-Nagramī \hon{\M_HIM}{\BODY} were marked by depth, benefit, and
+al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} were marked by depth, benefit, and
 scholarly maturity. His writings were published in leading academic journals of
 the time. Among them was a notable series on the theme of “Women in Islam,”
 which appeared across several issues of _Maʿārif_. In the modern age, this
@@ -44,7 +44,7 @@ burdens, Islam promised immense reward for their upbringing and emphasized their
 honorable treatment. It ensured that marriage was not a transaction of
 exploitation but a dignified union based on consent, rights, and mutual respect.
 
-Mawlānā ʿAbd al-Raḥmān al-Nagramī \hon{\M_HIM}{\BODY} presented these
+Mawlānā ʿAbd al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} presented these
 realities in a clear and accessible style, drawing upon the Quran and Ḥadīth to
 demonstrate the honor Islam accords to women. He further illustrated how the
 women of the early Islamic period embodied these teachings in practice, often
@@ -58,7 +58,7 @@ societies stem not from Islamic teachings but from the imitation of non-Islamic
 practices. It is therefore the responsibility of Muslims to rectify these
 deviations and realign society with the guidance of Islam.
 
-The work produced by Mawlānā ʿAbd al-Raḥmān al-Nagramī \hon{\M_HIM}{\BODY} on
+The work produced by Mawlānā ʿAbd al-Raḥmān al-Nagrāmī \hon{\M_HIM}{\BODY} on
 this subject is of such depth and value that it constitutes a complete book in
 itself. It is a matter of satisfaction that a member of his own family, Mawlawī
 Muḥammad Faizan al-Nagrāmī al-Nadwī, undertook the effort to publish it (the

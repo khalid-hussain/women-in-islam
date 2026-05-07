@@ -102,7 +102,7 @@ of prophethood.
 
 <!-- TODO: Consider removing -->
 <!--
-**Note:** It should be noted that Shaykh ʿAbd al-Raḥmān Nagrāmī al-Nadwī [رحمه
+**Note:** It should be noted that Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī [رحمه
 الله]{dir="rtl"} is not alone in holding this view. A number of distinguished
 scholars, such as Ibn Ḥazm \hon{\M_HIM}{\BODY}, al-Qurṭubī [رحمه
 الله]{dir="rtl"}, and Abū al-Ḥasan al-Ashʿarī \hon{\M_HIM}{\BODY}, among
