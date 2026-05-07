@@ -114,7 +114,7 @@ to the established rhetorical norms of the Arabic language.
 
 Consider this analogy: when Allah portrays the fluctuating, unstable, and
 changing condition of (human beings, He says that man is “despairing and
-ungrateful” ([يَؤُوسٌ كَفُور]{lang="ar" dir="rtl"}ٌ). Now, if someone were to
+ungrateful” ([يَؤُوسٌ كَفُورٌ]{lang="ar" dir="rtl"}). Now, if someone were to
 argue from this that human beings should have no connection with hope or
 gratitude at all, because Allah has described them as such, would that be
 acceptable? Certainly not. This is because the context of the discourse
