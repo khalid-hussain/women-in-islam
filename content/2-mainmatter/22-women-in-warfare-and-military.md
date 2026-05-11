@@ -110,7 +110,7 @@ bravery in the Battle of Yarmūk. \[Futūḥ al-Shām\]
 
 Rabīʿ bint Muʿawwidh \hon{\P_HER}{\BODY} would personally participate in
 Jihād, supply water to soldiers, and carry the martyrs from the battlefield back
-to Madīnah al-Munawwarah. \[Ṣaḥīḥ al-Bukhārī\]
+to Madīnah al-Munawwarah.[-@@bukhari, vol. 5, p. 129, #5679]
 
 During the pledge of al-ʿAqabah, women played a significant role. They would
 actively encourage one another to participate. For example, during the Battle of

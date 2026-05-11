@@ -72,12 +72,15 @@ O believers, it is not lawful for you to inherit women against their will.
 (Sūrat al-Nisāʾ, Q4:19)
 \AYAH_END
 
+<!-- TODO: I had trouble finding this hadith using the index. -->
+<!-- Learn how to do it. -->
+
 The prohibition of such marriages is stated explicitly elsewhere as well, but
 here the essential point is that such coercion against women is contrary to the
 dignity of Islam. Khansāʾ bint Khidām \hon{\P_HER}{\BODY}, whose father had
 married her off during her youth without her consent, came and complained in the
-court of Prophethood, and the Prophet \hon{\PBUH}{\BODY} annulled the marriage.
-\[Ṣaḥīḥ al-Bukhārī\]
+court of Prophethood, and the Prophet \hon{\PBUH}{\BODY} annulled the
+marriage.[-@@bukhari, vol. 4, p. 419, #5138]
 
 She stands in Islamic history as among the earliest exemplars in establishing
 women's marital rights, laying the foundation that if a marriage is conducted

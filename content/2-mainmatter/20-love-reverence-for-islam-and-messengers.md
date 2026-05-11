@@ -62,7 +62,7 @@ that what is with Allah is better for the Messenger of Allah
 She replied, “I do not weep because I am unaware that what is with Allah is
 better for the Messenger of Allah \hon{\PBUH}{\BODY}. Rather, I weep because the
 revelation from the heavens has ceased.” This moved them both to tears, and they
-began to weep along with her. \[Ṣaḥīḥ Muslim\]
+began to weep along with her.[-@@muslim, vol. 6, p. 306, #2533]
 
 The grief caused by the death of loved ones is immense, yet observe how Muslim
 women upheld religion even in such moments. When news of the martyrs of Badr

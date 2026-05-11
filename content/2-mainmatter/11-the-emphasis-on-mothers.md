@@ -12,8 +12,8 @@ He \hon{\PBUH}{\BODY} replied, “Your mother.” He then asked, “Who next?”
 
 “Your mother,” the Prophet \hon{\PBUH}{\BODY} replied again. He asked, “Who
 next?” He \hon{\PBUH}{\BODY} again said, “Your mother.” The man asked again,
-“Then who?” Thereupon, he \hon{\PBUH}{\BODY} said, “Then your father.”
-\[Ṣaḥīḥ al-Bukhārī\]
+“Then who?” Thereupon, he \hon{\PBUH}{\BODY} said, “Then your
+father.”[-@@bukhari, vol. 5, pp. 237--8, #5971]
 
 To emphasize this right, he \hon{\PBUH}{\BODY} even restrained people from other
 virtuous acts. It is reported in *Sunan al-Nasāʾī* that a man named Jāhimah

@@ -32,16 +32,18 @@ place about three months after his return from Shām, toward the end of the mont
 of Ṣafar. A cow was slaughtered by her family, and Abū Ṭālib delivered a sermon.
 The Prophet \hon{\PBUH}{\BODY} also slaughtered camels to feed the guests.
 
+<!-- TODO: Double check this narration -->
+
 She was the mother of all the children of the Prophet \hon{\PBUH}{\BODY} except
 Ibrāhīm. The Prophet \hon{\PBUH}{\BODY} said, “Indeed, Allah did not grant me better
 than her; she accepted me when people rejected me, she believed in me when
 people doubted me, she shared her wealth with me when people deprived me, and
-Allah granted me children only through her.” \[Ṣaḥīḥ Muslim\]
+Allah granted me children only through her.”[-@@ahmad, vol. 41, p. 356, #24864]
 
 She was the first to hear the revelation from the Prophet \hon{\PBUH}{\BODY}, the
 first to perform *wuḍūʾ* and pray with him, and the first to believe in his
 message. The Prophet \hon{\PBUH}{\BODY} said, “Her love was nurtured in my heart by
-Allah Himself.” \[Ṣaḥīḥ Muslim\]
+Allah Himself.”[-@@muslim, vol. 6, p. 278--9, #2515]
 
 He did not marry any other woman during her lifetime. She was the first person
 to be given the glad tidings of Jannah, and she was given specific glad tidings
@@ -53,7 +55,7 @@ of either 53 or 65. She was buried in al-Ḥajūn by the Prophet \hon{\PBUH}{\BO
 Ṣalāt al-Janāzah had not yet been prescribed at that time.
 
 The Prophet \hon{\PBUH}{\BODY} said, “The best woman of her time was Maryam bint
-ʿImrān, and the best woman of this Ummah is Khadījah.” \[Ṣaḥīḥ al-Bukhārī\]
+ʿImrān, and the best woman of this Ummah is Khadījah.”[-@@bukhari, vol. 3, p. 437, #3815]
 
 ## 2. Sawdah bint Zamʿah ([سودة بنت زمعة]{dir="rtl"}) {.unnumbered}
 
@@ -96,8 +98,9 @@ consummated when she was nine, and she moved into his household in Shawwāl 1 AH
 She was approximately five to eight years younger than Fāṭimah, and she was born
 into Islam.
 
-At the time of the Prophet's \hon{\PBUH}{\BODY} marriage to ʿĀʾishah \hon{\P_HER}{\BODY}, even the pagan Makkans who were seeking to slander him did not
-raise objections to this marriage, while they did raise objections to the
+At the time of the Prophet's \hon{\PBUH}{\BODY} marriage to ʿĀʾishah
+\hon{\P_HER}{\BODY}, even the pagan Makkans who were seeking to slander him did
+not raise objections to this marriage, while they did raise objections to the
 marriage with Zaynab. In reality, ʿĀʾishah was already engaged to Muṭʿim ibn
 ʿAdī before this. That was the norm of the time, and women attained puberty
 faster because of the climate. For over a 1000 years, the Muslim Ummah has had
@@ -113,7 +116,7 @@ Imam Ibn Kathīr \hon{\M_HIM}{\BODY} said, “This is a matter in which there is
 no difference of opinion amongst people.” \[Al-Sīrah al-Nabawiyyah\]
 
 Imam Ibn ʿAbd al-Barr \hon{\M_HIM}{\BODY} said, “I do not know of anyone
-differing on this.” \[Al-Istīʿāb\]
+differing on this.”[-@@isti3ab, vol. 8, p. 188, #3325]
 
 She was the only wife whose parents migrated to Madīnah. Revelation would
 descend upon the Prophet \hon{\PBUH}{\BODY} while he was in her company. The rulings
@@ -143,7 +146,7 @@ was led by Abū Hurayrah. She narrated 2,210 *aḥādīth* from the Prophet
 The Prophet \hon{\PBUH}{\BODY} said, “Many men attained perfection, but among women
 only Āsiyah, the wife of Firʿawn, and Maryam bint ʿImrān attained perfection.
 And the superiority of ʿĀʾishah over other women is like the superiority of
-*tharīd* over all other foods.” \[Ṣaḥīḥ al-Bukhārī\]
+*tharīd* over all other foods.”[-@@bukhari, vol. 3, p. 420, #3770]
 
 ## 4. Ḥafṣah bint ʿUmar ([حفصة بنت عمر]{dir="rtl"}) {.unnumbered}
 
@@ -216,21 +219,35 @@ She and her husband were among the earliest to migrate---twice to Abyssinia and
 later to Madīnah. Abū Salamah, who was also the foster brother of the Prophet
 \hon{\PBUH}{\BODY}, passed away from wounds sustained at Uḥud.
 
+<!-- TODO: The dua part seems to be off -->
+<!--
+Umm Salamah reported, “I heard the Messenger of Allah \hon{\PBUH}{\BODY} saying,
+‘When a person suffers from a calamity and utters, “We belong to Allah and to
+Him we shall return. O Allah! Compensate me in my affliction
+and grant me something better in exchange for it,” then Allah surely compensates
+him with reward and a better substitute.’” Umm Salamah said, “When Abū Salamah
+died, I repeated the same supplication as the Messenger of Allah
+\hon{\PBUH}{\BODY} had commanded me with. So Allah bestowed upon me a better
+substitute than him, the Messenger of Allah \hon{\PBUH}{\BODY}.”[-@@muslim, vol.
+3, pp. 90--1, #925]
+-->
+
 Umm Salamah reported, “I heard the Messenger of Allah \hon{\PBUH}{\BODY} saying,
 ‘When a person suffers from a calamity and utters, “We belong to Allah and to
 Him we shall return. O Allah! Compensate me in my affliction, recompense my loss
 and give me something better in exchange for it,” then Allah surely compensates
 him with reward and a better substitute.’” Umm Salamah said, “When Abū Salamah
-died, I repeated the same supplication as the Messenger of Allah \hon{\PBUH}{\BODY}
-had commanded me with. So Allah bestowed upon me a better substitute than him.”
-\[Ṣaḥīḥ Muslim\]
+died, I repeated the same supplication as the Messenger of Allah
+\hon{\PBUH}{\BODY} had commanded me with. So Allah bestowed upon me a better
+substitute than him, the Messenger of Allah \hon{\PBUH}{\BODY}.”[-@@muslim, vol.
+3, pp. 90--1, #925]
 
 She married the Prophet \hon{\PBUH}{\BODY} in Shawwāl 4 AH at the age of 29. After
 marriage, she moved into the residence of Zaynab bint Khuzaymah. Her daughter,
 originally named Barrah, was renamed Zaynab by the Prophet \hon{\PBUH}{\BODY}.
 
 Several verses of the Quran were revealed in response to her questions. She also
-witnessed the Angel Jibrīl \hon{\S_HIM}{\BODY} [عليه السلام]{dir="rtl"} in a non-angelic form. She
+witnessed the Angel Jibrīl \hon{\S_HIM}{\BODY} in a non-angelic form. She
 was the only Mother of the Believers alive at the time of the martyrdom of
 Ḥusayn at Karbalāʾ.
 

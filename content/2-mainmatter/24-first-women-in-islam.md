@@ -42,16 +42,16 @@ Ummah sailing upon the sea, engaged in Jihād.”
 She requested, “Pray that I may be among them.” He \hon{\PBUH}{\BODY} replied,
 “You are among them.” Accordingly, during the caliphate of ʿUthmān ibn ʿAffān
 \hon{\P_HIM}{\BODY}, when the expedition to Cyprus was launched, she
-participated in it and attained martyrdom after falling from her mount. \[Ṣaḥīḥ
-al-Bukhārī\]
+participated in it and attained martyrdom after falling from her
+mount.[-@@isti3ab, vol. 8, pp. 314--5, #3435]
 
 The first hospital in Islam was established during the Prophetic era under the
 supervision of a woman named Rufaydah al-Aslamiyyah \hon{\P_HER}{\BODY}.
 It was set up within Masjid al-Nabawī itself. \[Sunan Abī Dāwūd\]
 
 The first to affirm the miracles of the Prophet \hon{\PBUH}{\BODY} was a
-woman---again, Khadījah bint Khuwaylid \hon{\P_HER}{\BODY}. \[Ṣaḥīḥ
-al-Bukhārī\]
+woman---again, Khadījah bint Khuwaylid \hon{\P_HER}{\BODY}.[-@@bukhari, vol. 1,
+pp. 8--10, #3--4]
 
 The earliest practical rejection of gold (in the sense of treating it as
 insignificant for worldly attachment) was initiated by a woman. It is mentioned

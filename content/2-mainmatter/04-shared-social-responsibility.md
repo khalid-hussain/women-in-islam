@@ -13,7 +13,7 @@ found in the narration of ʿAbdullāh ibn ʿUmar \hon{\P_TWO}{\BODY}:
 \HADITH_START
 “The man is a guardian over his household and will be questioned regarding them,
 and the woman is a guardian over her husband's house and will be questioned
-regarding it.” [Ṣaḥīḥ al-Bukhārī]
+regarding it.”[-@@bukhari, vol. 4, pp. 436--7, #5188]
 \HADITH_END
 
 In another narration from him, an additional phrase appears:
@@ -23,14 +23,12 @@ In another narration from him, an additional phrase appears:
 \HADITH_AR_END
 
 \HADITH_START
-“The woman is responsible for her husband's house and his children.” [Ṣaḥīḥ
-al-Bukhārī]
+“The woman is responsible for her husband's house and his children.”[-@@bukhari, vol. 4, p. 444, #5200]
 \HADITH_END
 
 The Messenger of Allah \hon{\PBUH}{\BODY}, upon whom my soul be sacrificed, was
 the most eloquent of both Arabs and non-Arabs, and among his distinguishing
-qualities was that he was “granted concise and comprehensive speech.” [Ṣaḥīḥ
-al-Bukhārī]
+qualities was that he was “granted concise and comprehensive speech.”[-@@bukhari, vol. 3, p. 79, #2977]
 
 Today, among us, numerous debates arise concerning women; even if we set aside
 other matters, consider the intensity of disagreement surrounding the issue of

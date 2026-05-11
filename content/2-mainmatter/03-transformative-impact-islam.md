@@ -17,7 +17,7 @@ you may gauge its extent from the statement of ʿUmar \hon{\P_HIM}{\BODY}:
 
 > We never gave significance to women in the days of Jāhilīyah, but when Islam
 > came, and Allah mentioned their rights, we came to realize that they have
-> rights over us. \[Ṣaḥīḥ al-Bukhārī\]
+> rights over us.[-@@bukhari, vol. 5, p. 196, #5843]
 
 This statement is, in reality, a mirror reflecting the attitudes that prevailed
 regarding women in pre-Islamic Arabia, and it also demonstrates that Islam

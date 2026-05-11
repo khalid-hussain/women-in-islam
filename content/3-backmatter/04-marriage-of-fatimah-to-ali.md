@@ -12,7 +12,8 @@ months after the Prophet\'s \hon{\PBUH}{\BODY} *hijrah* to Madīnah. He
 consummated his marriage with her after he returned from the Battle of Badr (in
 Ramadan 2 AH), and she was 18 years old when he consummated the marriage with
 her.” \[Al-Ṭabaqāt al-Kubrá\] Imam ʿAlī al-Ḥalabī \hon{\M_HIM}{\BODY} writes,
-“ʿAlī \hon{\P_HIM}{\BODY} was 21 years old when he married Fāṭimah \hon{\P_HER}{\BODY}, and that she was 15 years old.” \[Al-Sīrah al-Ḥalabīyyah\]
+“ʿAlī \hon{\P_HIM}{\BODY} was 21 years old when he married Fāṭimah
+\hon{\P_HER}{\BODY}, and that she was 15 years old.” \[Al-Sīrah al-Ḥalabīyyah\]
 
 ʿAlī \hon{\P_HIM}{\BODY} said, “I wanted to propose marriage to the daughter of
 the Messenger of Allah \hon{\PBUH}{\BODY}, but I thought, ‘I have nothing, so
@@ -66,7 +67,8 @@ between us, till I felt the coolness of his feet on my chest. The Prophet
 \hon{\PBUH}{\BODY} then said, ‘Shall I not tell you of a thing which is better
 for you than a servant? When you (both) go to your beds, say “Allāhu Akbar,” 34
 times, and “Alḥamdulillāh,” 33 times, and “Subhan Allah,” 33 times. That is
-better for you than what you have requested (a servant).’” \[Al-Bukhārī\]
+better for you than what you have requested (a servant).’”[-@@bukhari, vol. 3,
+pp. 134--5, #3113]
 
 Later, it is reported on the authority of Anas that the Prophet
 \hon{\PBUH}{\BODY} brought a slave, whom he had gifted to Fāṭimah. She was

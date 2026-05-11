@@ -46,8 +46,8 @@ Usayd ibn Ḥuḍayr \hon{\P_HIM}{\BODY} remarked, “O family of Abū Bakr, thi
 is not your first blessing.”
 
 After the revelation of the *āyah*, when a camel was made to rise, the lost
-necklace of ʿĀʾishah \hon{\P_HER}{\BODY} was found beneath it. \[Ṣaḥīḥ
-al-Bukhārī\]
+necklace of ʿĀʾishah \hon{\P_HER}{\BODY} was found beneath it.[-@@bukhari, vol.
+4, pp. 76--7, #4607, #4608]
 
 During the Prophetic era, the Treaty of Ḥudaybiyyah held immense importance. The
 completion of this treaty was achieved through the counsel of a woman. The
@@ -117,13 +117,16 @@ day's journey away. She was brought to the Prophet \hon{\PBUH}{\BODY}, who
 supplicated for blessings in the water. Everyone drank to satisfaction, and she
 was then sent back with provisions.
 
+<!-- TODO: The translation of what the women said seems off. -->
+<!-- مَا أُرى أَنَّ هؤلاء القومَ يَدَعُونَكُمْ عَمْدًا، فهل لكم في الإسلام؟ -->
+
 Her tribe had not yet accepted Islam. Upon returning, she would say, “The
 claimant of prophethood is either a magician or truly the Messenger of Allah.”
 The Muslims thereafter refrained from confronting her tribe, even while engaging
 other tribes. Observing this conduct, she reflected deeply and eventually called
 her people, saying, “Do you not see how mercifully these people treat us? Would
 you not like to enter this blessed community?” The tribe accepted her
-invitation, and all of them embraced Islam.
+invitation, and all of them embraced Islam.[-@@bukhari, vol. 1, pp. 205--7, #344]
 
 Individual *daʿwah* efforts by women are also numerous. Saʿdiyyah
 \hon{\P_HER}{\BODY}, an eloquent woman of Quraysh and ʿUthmān's

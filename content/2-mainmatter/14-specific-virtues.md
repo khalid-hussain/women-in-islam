@@ -55,12 +55,12 @@ Say, “I seek refuge in the Lord of mankind.” (Sūrat al-Nās, Q114)
 
 ...and would blow over himself. When his illness was aggravated, she used to
 recite those two Sūrahs and blow her breath over him and make him rub his body
-with his own hand for its blessings. \[Ṣaḥīḥ al-Bukhārī\]
+with his own hand for its blessings.[-@@bukhari, vol. 5, pp. 154--5, #5751]
 
 The passing of the Master of the Universe \hon{\PBUH}{\BODY} took place in the
 lap of a woman. ʿĀʾishah \hon{\P_HER}{\BODY} said, “Allah took his soul while he
-was between my chest and my neck, and he was buried in my house.” \[Ṣaḥīḥ
-al-Bukhārī\]
+was between my chest and my neck, and he was buried in my house.”[-@@bukhari,
+vol. 1, p. 687, #1389]
 
 When ʿĀʾishah \hon{\P_HER}{\BODY} would mention her virtues in comparison to the
 other wives of the Prophet \hon{\PBUH}{\BODY}, she would include this among

@@ -45,8 +45,8 @@ perceived that perhaps they had not fully received the instructions and
 exhortations, so he himself went to them, taught them the necessary matters, and
 instructed them to give charity. This occurred on the occasion of ʿĪd al-Fiṭr,
 and Bilāl \hon{\P_HIM}{\BODY} was with him. A garment was spread, and the women,
-deeply moved, began removing their jewelry and placing it into it. \[Ṣaḥīḥ
-al-Bukhārī\]
+deeply moved, began removing their jewelry and placing it into it.[-@@bukhari,
+vol. 2, p. 28, #1449]
 
 At certain times, women in that era demonstrated similar enthusiasm. This is, in
 reality, a Sunnah, and one should avoid neglecting it as much as possible.
@@ -62,18 +62,21 @@ On another occasion, a delegation of women came to the court of Prophethood and
 complained, “The men have prevailed over us in attending your gatherings, so
 appoint for us a day from your time.” The Prophet \hon{\PBUH}{\BODY} listened
 attentively to their request and then designated a specific day for them, from
-which they benefited through his instruction. \[Ṣaḥīḥ al-Bukhārī\]
+which they benefited through his instruction.[-@@bukhari, vol. 1, p. 80, #101]
 
 In our view, it is a religious duty upon Muslim women that, in order to fulfill
 this Sunnah, they organize a separate gathering wherein scholars of religion and
 guides of the community inform them of the present needs of the country as well
 as the essential rulings and etiquettes of the religion.
 
+<!-- TODO: Ali is not mentioned in the referenced narration but he is her brother -->
+<!-- TODO: How is Umm Hani spelled in Arabic? -->
+
 On one occasion, Umm Hānī bint Abī Ṭālib \hon{\P_HER}{\BODY} granted protection
 to a man. ʿAlī \hon{\P_HIM}{\BODY} considered this grant invalid and intended to
 fight him. Umm Hānī complained to the Prophet \hon{\PBUH}{\BODY}, who prevented
 ʿAlī \hon{\P_HIM}{\BODY} and said to Umm Hānī, “O Umm Hānī, we grant protection
-to whom you have granted protection.” \[Ṣaḥīḥ al-Bukhārī\]
+to whom you have granted protection.”[-@@bukhari, vol. 1, p. 219, #357]
 
 It appears that ʿAlī \hon{\P_HIM}{\BODY} initially thought that the granting of
 protection by a woman would not be valid, but the Prophet \hon{\PBUH}{\BODY}

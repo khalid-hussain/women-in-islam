@@ -11,7 +11,7 @@ know well when you are pleased or angry with me.” ʿĀʾishah \hon{\P_HER}{\BO
 replied, “How do you know that?” He said, “When you are pleased with me, you
 swear by saying, ‘By the Lord of Muḥammad,’ but when you are angry, you swear by
 saying, ‘By the Lord of Ibrāhīm.’” She said, “You are right, I don't mention
-your name.” \[Al-Bukhārī\]
+your name.”[-@@bukhari, vol. 5, p. 277, #6078]
 
 **2. Consoling Her**
 
@@ -23,40 +23,41 @@ and tried his utmost to calm her down. \[Al-Sunan al-Kubrá\]
 **3. Lying in Her Lap**
 
 The Prophet \hon{\PBUH}{\BODY} would recline in the lap of our beloved mother
-ʿĀʾishah \hon{\P_HER}{\BODY} even when she would be menstruating. The
-Prophet \hon{\PBUH}{\BODY} would recite the Quran whilst reclining in her lap.
-\[Al-Bukhārī\]
+ʿĀʾishah \hon{\P_HER}{\BODY} even when she would be menstruating. The Prophet
+\hon{\PBUH}{\BODY} would recite the Quran whilst reclining in her
+lap.[-@@bukhari, vol. 1, p. 181, #297]
 
 **4. Drinking and Eating from the Same Place**
 
 ʿĀʾishah \hon{\P_HER}{\BODY} would drink from a cup. The Prophet
-\hon{\PBUH}{\BODY} would take this cup and search for the place where the lips of
-his beloved wife made contact. Upon finding the place where his wife drank from
-the cup, he would put his lips on the very same place so that his lips would
-touch the place where her lips had touched. He would then drink the contents of
-the cup at the same time enjoying this union with his spouse. When there was
-meat to eat, ʿĀʾishah \hon{\P_HER}{\BODY} would take a bite. The Prophet
-\hon{\PBUH}{\BODY} would take the meat from her hand and again place his mouth in
-the very same place where his wife had eaten from. This would add a taste of
-love to his food. \[Muslim\]
+\hon{\PBUH}{\BODY} would take this cup and search for the place where the lips
+of his beloved wife made contact. Upon finding the place where his wife drank
+from the cup, he would put his lips on the very same place so that his lips
+would touch the place where her lips had touched. He would then drink the
+contents of the cup at the same time enjoying this union with his spouse. When
+there was meat to eat, ʿĀʾishah \hon{\P_HER}{\BODY} would take a bite. The
+Prophet \hon{\PBUH}{\BODY} would take the meat from her hand and again place his
+mouth in the very same place where his wife had eaten from. This would add a
+taste of love to his food.[-@@muslim, vol. 2, p. 70, #289]
 
 **5. Kissing**
 
-The Prophet \hon{\PBUH}{\BODY} would kiss and embrace his wives while fasting, and
-he had more control over his passion than any other person. \[Muslim\]
+The Prophet \hon{\PBUH}{\BODY} would kiss and embrace his wives while fasting,
+and he had more control over his passion than any other person.[-@@muslim, vol.
+3, p. 313, #1120/2]
 
 **6. Lifting A Bite to Her Mouth**
 
-The Prophet \hon{\PBUH}{\BODY} said, “And whatever you spend (for Allah\'s sake) you
+The Prophet \hon{\PBUH}{\BODY} said, “And whatever you spend (for Allah's sake) you
 will be rewarded for it, even for a morsel of food which you may put in the
-mouth of your wife.” \[Al-Bukhārī\]
+mouth of your wife.”[-@@bukhari, vol. 1, p. 49, #56]
 
 **7. Assisting her in the Housework**
 
-ʿĀʾishah \hon{\P_HER}{\BODY} was asked, “What did the Prophet
-\hon{\PBUH}{\BODY} do in his house?” She replied, “He used to keep himself busy
-serving his family, and when it was time for prayer, he would go for it.”
-\[Al-Bukhārī\]
+ʿĀʾishah \hon{\P_HER}{\BODY} was asked, “What did the Prophet \hon{\PBUH}{\BODY}
+do in his house?” She replied, “He used to keep himself busy serving his family,
+and when it was time for prayer, he would go for it.”[-@@bukhari, vol. 1, p.
+365, #676]
 
 **8. Sharing Happy Occasions with Her**
 
@@ -77,7 +78,8 @@ the sun they get a reddish tan. This was the reason why the Prophet
 He \hon{\PBUH}{\BODY} used to lovingly shorten her name as well. ʿĀʾishah
 \hon{\P_HER}{\BODY} said, “Once Allah's Messenger \hon{\PBUH}{\BODY} said to me,
 ‘O ʿĀʾish! This is Jibrīl greeting you.’ I said, ‘Peace and Allah's Mercy and
-Blessings be on him, you see what I don't see.’” \[Al-Bukhārī\]
+Blessings be on him, you see what I don't see.’”[-@@bukhari, vol. 3, pp.
+359--60, #3768]
 
 Muḥammad ibn Abī Bakr narrates that when ʿĀʾishah \hon{\P_HER}{\BODY}
 would become angry, the Messenger of Allah \hon{\PBUH}{\BODY} would stroke her nose
@@ -97,10 +99,11 @@ not take all of her rights from me, because Allah stated the following, ‘And
 women shall have rights similar to the rights against them.’” \[Sūrat al-Baqarah
 Q2:228\]
 
-ʿĀʾishah \hon{\P_HER}{\BODY} narrated, “While in menses, I used to comb
-the hair of Allah\'s Messenger \hon{\PBUH}{\BODY}.” \[Al-Bukhārī\]
+ʿĀʾishah \hon{\P_HER}{\BODY} narrated, “While in menses, I used to comb the hair
+of Allah's Messenger \hon{\PBUH}{\BODY}.”[-@@bukhari, vol. 1, p. 180, #295]
 
 **11. Concealing Her Private Matters**
 
-The Prophet \hon{\PBUH}{\BODY} described the one who discloses his wife's affairs to
-others as amongst the worst of people. \[Muslim\]
+The Prophet \hon{\PBUH}{\BODY} described the one who discloses his wife's
+affairs to others as amongst the worst of people.[-@@muslim, vol. 4, p. 61,
+#1459]

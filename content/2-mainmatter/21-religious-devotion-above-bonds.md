@@ -27,7 +27,7 @@ She immediately responded, “Allah and His Messenger \hon{\PBUH}{\BODY} are mor
 merciful to us than we are to ourselves.”
 
 This statement encapsulates the very essence of the noble Sharīʿah and reflects
-the Prophetic teaching, “Religion is ease.” \[Ṣaḥīḥ al-Bukhārī\]
+the Prophetic teaching, “Religion is ease.”[-@@bukhari, vol. 1, pp. 36--7, #39]
 
 It also echoes the Quranic declaration:
 
@@ -87,9 +87,9 @@ Therefore, I grieve more for the latter, for I fear his end may not have been
 good.”
 
 Umm Kulthūm bint ʿUqbah \hon{\P_HER}{\BODY} migrated alone from Makkah to
-Madīnah, leaving her parents behind. \[Ṣaḥīḥ al-Bukhārī\] What force drew her?
-The answer can be none other than the love of religion and the love of the one
-who calls to religion \hon{\PBUH}{\BODY}.
+Madīnah, leaving her parents behind.[-@@tabaqah01, vol. 10, pp. 218--9] What force
+drew her? The answer can be none other than the love of religion and the love of
+the one who calls to religion \hon{\PBUH}{\BODY}.
 
 It was precisely this religious devotion and collective dignity that enabled
 women to actively fulfill the duty of enjoining good and forbidding evil. Once,
@@ -100,7 +100,7 @@ Allah regarding the affairs of your subjects and those under your authority, and
 remain mindful of His wrath and punishment.” \[Ḥilyat al-Awliyāʾ\]
 
 Samrāʾ bint Nuhayk would walk with a whip in her hand and discipline those who
-violated the Sharīʿah. \[Ṭabaqāt Ibn Saʿd\]
+violated the Sharīʿah.[-@@isti3ab, vol. 8, p. 265]
 
 This is precisely the quality that is now lacking among us Muslims. How blessed
 was that era when courageous and lion-hearted women would confront the Amīr

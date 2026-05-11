@@ -22,7 +22,7 @@ The Prophet \hon{\PBUH}{\BODY} said,
 \HADITH_AR_END
 
 \HADITH_START
-A previously married woman (_ayyim_) has more right over herself. [Ṣaḥīḥ Muslim]
+A previously married woman (_ayyim_) has more right over herself.[-@@muslim, vol. 4, p. 32, #1440]
 \HADITH_END
 
 The term _ayyim_ in this _ḥadīth_ refers to a woman without a husband, whether a
@@ -218,7 +218,7 @@ education of women, which shows the importance of this issue even in that era.
 The Messenger of Allah \hon{\PBUH}{\BODY} consistently emphasized education on
 various occasions. The Messenger of Allah \hon{\PBUH}{\BODY} said, “A man who
 has a slave-girl, then he disciplines her, educates her well, then frees her and
-marries her, will have a double reward.” \[Ṣaḥīḥ al-Bukhārī\]
+marries her, will have a double reward.”[-@@bukhari, vol. 1, p. 77, #97]
 
 Though this ruling pertains to bondwomen, it clearly demonstrates the importance
 attached to education. Indeed, the very manner in which education is mentioned

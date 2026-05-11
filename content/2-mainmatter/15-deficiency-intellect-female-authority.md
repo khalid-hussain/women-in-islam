@@ -58,7 +58,7 @@ He \hon{\PBUH}{\BODY} said, “Is not the testimony of a woman equal to half the
 testimony of a man?” They replied, “Yes.” He \hon{\PBUH}{\BODY} said, “That is
 the deficiency of her intellect. Is it not the case that when she menstruates,
 she neither prays nor fasts?” They replied, “Yes.” He \hon{\PBUH}{\BODY} said,
-“That is the deficiency in her religion.” \[Ṣaḥīḥ al-Bukhārī\]
+“That is the deficiency in her religion.”[-@@bukhari, vol. 1, pp. 183--4, #304]
 
 The wording of this *ḥadīth* is clear and explicit. The Prophet \hon{\PBUH}{\BODY}
 did not use any general expression regarding the deficiency of intellect that
@@ -88,11 +88,11 @@ specifically related to women, he did not require this numerical condition;
 rather, he would at times decide based on the testimony of a single woman.
 
 For example, the incident of ʿUqbah ibn al-Ḥārith as reported in *Ṣaḥīḥ
-al-Bukhārī*. When he intended to marry a woman, another woman came forward and
+al-Bukhārī*: when he intended to marry a woman, another woman came forward and
 claimed that she had breastfed both of them. Since the required number of
 witnesses was not present, he did not consider it sufficient and traveled to
 Madīnah to verify the matter. The Prophet \hon{\PBUH}{\BODY} said, “How can it be
-permissible when such a claim has already been made?”
+permissible when such a claim has already been made?”[-@@bukhari, vol. 1, p. 72, #89]
 
 It is clear that if women were deficient in all matters, the Prophet
 \hon{\PBUH}{\BODY} would not have issued such a ruling on this basis. In this
@@ -129,7 +129,7 @@ deficient in intellect in every matter. If that were the case, the Messenger
 Some people advance another argument: that since women are deficient in
 intellect, the Lawgiver has deprived them of governance and political authority.
 In support of this claim, they cite the *ḥadīth*, “A people who entrust their
-affairs to a woman will never prosper.” \[Ṣaḥīḥ al-Bukhārī\]
+affairs to a woman will never prosper.”[-@@bukhari, vol. 3, p. 706, #4425]
 
 However, this is only a fragment of the _ḥadīth_. When the complete narration is
 examined, its reality becomes clear. In *Sunan al-Nasāʾī*, it is reported:

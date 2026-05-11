@@ -142,12 +142,12 @@ them of ʿĀʾishah's response, and all of them affirmed the same choice.
 After this profound example, can it not be said that women have left behind
 unparalleled and unmatched examples of sacrifice in the history of Islam?
 
-Even ordinary women upheld this spirit. Once, a woman named Saʿīrah al-Asadiyyah
+Even ordinary women upheld this spirit. Once, a woman named Saʿīrah al-Asadīyah
 \hon{\P_HER}{\BODY} came to the Prophet \hon{\PBUH}{\BODY} complaining of
 illness and requested a supplication for a cure. The Prophet \hon{\PBUH}{\BODY}
 said, “If you wish, I will supplicate for you, and you will be cured; but if you
 exercise patience, Allah will grant you a great reward.” She immediately
-replied, “I choose the reward of Allah.” \[Ṣaḥīḥ al-Bukhārī\]
+replied, “I choose the reward of Allah.”[-@@bukhari, vol. 5, pp. 114--5, #5652]
 
 One of the paternal aunts of the Prophet \hon{\PBUH}{\BODY}, ʿArwá bint ʿAbd\ al-Muṭṭalib
 \hon{\P_HER}{\BODY}, had a son named Ṭayyib. When he accepted Islam, Abū Jahl

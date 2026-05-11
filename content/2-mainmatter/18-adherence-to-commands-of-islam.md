@@ -30,29 +30,33 @@ consoled him, saying, “Indeed, he was a trust from Allah placed with us. When
 the messenger of death came, we had to return that trust without objection. If
 you now wail and lament, it would be like that neighbor's unjust behavior. I
 told you he is at peace, do not accuse me of falsehood, for what greater peace
-can there be for a person than death?” \[Ṣaḥīḥ Muslim\]
+can there be for a person than death?”
 
 Abū Ṭalḥah \hon{\P_HIM}{\BODY} later mentioned this incident in the presence of
-the Messenger of Allah \hon{\PBUH}{\BODY}, who expressed great pleasure at it.
-From this incident, women in particular should draw lessons of insight and
-reflection, and strive earnestly to eradicate the customs of excessive mourning
-prevalent in their societies. Umm Sulaym \hon{\P_HER}{\BODY} has many other
-instructive incidents, which will be mentioned under other headings,
+the Messenger of Allah \hon{\PBUH}{\BODY}, who expressed great pleasure at
+it.^[The various _aḥādīth_ of this incident were compiled by Shaykh al-Albānī
+\hon{\M_HIM}{\FOOTER} into a single narrative. See @@ahkamjanaaiz, pp. 36--8 for
+details.] From this incident, women in particular should draw lessons of insight
+and reflection, and strive earnestly to eradicate the customs of excessive
+mourning prevalent in their societies. Umm Sulaym \hon{\P_HER}{\BODY} has many
+other instructive incidents, which will be mentioned under other headings,
 *in-shāʾ-Allah*.
 
 On one occasion, the Messenger of Allah \hon{\PBUH}{\BODY} said, “It is not
 permissible for a woman who believes in Allah and the Last Day to mourn for a
 deceased person for more than three days, except for her husband, for whom she
-may mourn four months and ten days.” \[Ṣaḥīḥ al-Bukhārī\]
+may mourn four months and ten days.”[-@@bukhari, vol. 4, p. 504, #5345]
 
 In this age, who observes such details? People argue that upon the death of
 loved ones, it is impossible not to mourn for months or even years, or to
 refrain from wearing colored garments. Yet, Islam does not permit this.
 
+<!-- TODO: There are variations of this and I think it's not a verbatim quote -->
+<!-- 1280, 1282 -->
 When the father of Umm al-Muʾminīn Umm Ḥabībah \hon{\P_HER}{\BODY} (Abū
 Sufyān) passed away, she applied fragrance and adornment on the third day and
 said, “Had I not heard this command from the Messenger \hon{\PBUH}{\BODY}, I would
-have had no need to do this.” \[Ṣaḥīḥ al-Bukhārī\] Reflect: her father had
+have had no need to do this.”[-@@bukhari, vol. X, p. Y, #Z] Reflect: her father had
 passed away, and according to prevailing customs, mourning should have continued
 for at least a year, yet solely due to the command of the Messenger
 \hon{\PBUH}{\BODY}, she ended mourning on the third day.

@@ -34,7 +34,7 @@ a righteous woman.”
 The secret of this virtue is the very reality already mentioned---that a woman
 is a powerful link in the chain of the completion of humanity. In another
 narration of *Ṣaḥīḥ al-Bukhārī*, Abū Hurayrah \hon{\P_HIM}{\BODY} narrated that
-the Messenger of Allah \hon{\PBUH}{\BODY} said, “A woman is like a rib.”
+the Messenger of Allah \hon{\PBUH}{\BODY} said, “A woman is like a rib.”[-@@bukhari, vol. 4, p. 436, #5184]
 
 The full meaning of this statement becomes clear after a brief physiological
 explanation. The various individuals of the human species together form, as it

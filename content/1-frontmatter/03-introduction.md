@@ -141,7 +141,7 @@ continuing to benefit, to teach, and to inspire. This is the true measure of a
 life lived with purpose. How true are the words of the Messenger of Allah
 \hon{\PBUH}{\BODY}, “When the son of Ādam dies, his deeds come to an end except for
 three: ongoing charity, beneficial knowledge, and a righteous child who prays
-for him.” \[Ṣaḥīḥ Muslim\]
+for him.”[-@@muslim, vol. 4, p. 348, #1671]
 
 We have added a detailed biography of Shaykh ʿAbd al-Raḥmān al-Nagrāmī
 \hon{\M_HIM}{\BODY} which is the first of its kind in the English language. In
