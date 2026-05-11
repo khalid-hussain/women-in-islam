@@ -86,9 +86,9 @@ For the male is a share equal to that of two females. (Sūrat al-Nisāʾ, Q4:11)
 \AYAH_END
 
 [^11]: Translator's Note: The names are incorrect. The case of a woman who
-    complained to the Prophet \hon{\PBUH}{\BODY} after her daughters were deprived
+    complained to the Prophet \hon{\PBUH}{\FOOTER} after her daughters were deprived
     of inheritance is found in *Sunan Abī Dāwūd* and *Jāmiʿ al-Tirmidhī*.
-    Therein, it is the wife of Saʿd ibn al-Rabīʿ \hon{\P_HIM}{\BODY} who
+    Therein, it is the wife of Saʿd ibn al-Rabīʿ \hon{\P_HIM}{\FOOTER} who
     complained that his uncle took all the wealth and the daughters were left
     with nothing.
 
