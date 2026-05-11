@@ -35,12 +35,12 @@ can there be for a person than death?”
 Abū Ṭalḥah \hon{\P_HIM}{\BODY} later mentioned this incident in the presence of
 the Messenger of Allah \hon{\PBUH}{\BODY}, who expressed great pleasure at
 it.^[The various _aḥādīth_ of this incident were compiled by Shaykh al-Albānī
-\hon{\M_HIM}{\FOOTER} into a single narrative. See @@ahkamjanaaiz, pp. 36--8 for
-details.] From this incident, women in particular should draw lessons of insight
-and reflection, and strive earnestly to eradicate the customs of excessive
-mourning prevalent in their societies. Umm Sulaym \hon{\P_HER}{\BODY} has many
-other instructive incidents, which will be mentioned under other headings,
-*in-shāʾ-Allah*.
+\hon{\M_HIM}{\FOOTER} into a single narrative. For details, see -@@ahkamjanaaiz,
+pp. 36--8.] From this incident, women in particular should draw lessons of
+insight and reflection, and strive earnestly to eradicate the customs of
+excessive mourning prevalent in their societies. Umm Sulaym \hon{\P_HER}{\BODY}
+has many other instructive incidents, which will be mentioned under other
+headings, *in-shāʾ-Allah*.
 
 On one occasion, the Messenger of Allah \hon{\PBUH}{\BODY} said, “It is not
 permissible for a woman who believes in Allah and the Last Day to mourn for a
