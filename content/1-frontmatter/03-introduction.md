@@ -189,13 +189,13 @@ incorporated the foreword by Mawlānā Muḥammad Rābiʿ into our present
 translation. Allah is Most Kind.
 
 The Prophet \hon{\PBUH}{\BODY} taught us, “Whoever does not thank people has not
-thanked Allah.” \[Abū Dāwūd\] I extend my heartfelt gratitude to Shaykh Mairaj
-Quraishi for helping digitise the work from its manuscript. I would like to
-thank my dear friend Khalid Hussain for helping with the editing and
-proofreading of the treatise. I would like to thank my wife Zainab Saiyid for
-her constant support and help during the translation of this work. I would also
-like to thank my parents, without whose constant prayers, guidance, and support,
-I wouldn't stand where I stand today.
+thanked Allah.”[-@@abudawud, vol. 7, p. 313, #4730] I extend my heartfelt
+gratitude to Shaykh Mairaj Quraishi for helping digitise the work from its
+manuscript. I would like to thank my dear friend Khalid Hussain for helping with
+the editing and proofreading of the treatise. I would like to thank my wife
+Zainab Saiyid for her constant support and help during the translation of this
+work. I would also like to thank my parents, without whose constant prayers,
+guidance, and support, I wouldn't stand where I stand today.
 
 Every effort has been made to ensure accuracy; however, perfection cannot be
 claimed, for only Allah is free from all errors, while human beings are
