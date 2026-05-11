@@ -101,16 +101,15 @@ Therefore, it is incorrect to assert that women have been deprived of the rank
 of prophethood.
 
 <!-- TODO: Consider removing -->
-<!--
-**Note:** It should be noted that Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī [رحمه
-الله]{dir="rtl"} is not alone in holding this view. A number of distinguished
-scholars, such as Ibn Ḥazm \hon{\M_HIM}{\BODY}, al-Qurṭubī [رحمه
-الله]{dir="rtl"}, and Abū al-Ḥasan al-Ashʿarī \hon{\M_HIM}{\BODY}, among
-others, are reported to have inclined toward this position. However, it remains
-a minority opinion, with the overwhelming majority of scholars holding that
-prophethood was exclusive to men. Given that this discussion intersects with
-matters of *ʿaqīdah*, this clarification is presented to ensure proper context
-and balance.
+<!-- 
+**Note:** It should be noted that Shaykh ʿAbd al-Raḥmān al-Nagrāmī al-Nadwī
+\hon{\M_HIM}{\BODY} is not alone in holding this view. A number of distinguished
+scholars, such as Ibn Ḥazm \hon{\M_HIM}{\BODY}, al-Qurṭubī \hon{\M_HIM}{\BODY},
+and Abū al-Ḥasan al-Ashʿarī \hon{\M_HIM}{\BODY}, among others, are reported to
+have inclined toward this position. However, it remains a minority opinion, with
+the overwhelming majority of scholars holding that prophethood was exclusive to
+men. Given that this discussion intersects with matters of *ʿaqīdah*, this
+clarification is presented to ensure proper context and balance.
 
 The responsibilities of prophethood included engagement in warfare, persistent
 public and private *daʿwah*, direct interaction with diverse segments of
@@ -132,15 +131,15 @@ sent to a man and informed him that Allah had loved him for loving his brother
 for His sake. Likewise, in the narration of the leper, the blind man, and the
 bald man reported in *Ṣaḥīḥ al-Bukhārī* and *Ṣaḥīḥ Muslim*, angels directly
 interacted with individuals who were not Prophets. Similarly, in the famous
-*ḥadīth* of Jibrīl [عليه السلام]{dir="rtl"}, the angel came in human form and
-taught the Ṣaḥābah [رضي الله عنهم]{dir="rtl"} their *Dīn* through questioning,
-yet none of those present were prophets.
+*ḥadīth* of Jibrīl \hon{\S_HIM}{\BODY}, the angel came in human form and taught
+the Ṣaḥābah \hon{\P_THM}{\BODY} their *Dīn* through questioning, yet none of
+those present were prophets.
 
 As for the forms of communication received by figures such as the mother of Mūsá
-[عليه السلام]{dir="rtl"} or Āsiyah [عليها السلام]{dir="rtl"}, scholars have
-clarified that such inspiration may occur through dreams or other non-prophetic
-forms of *waḥy*. It is well established that true dreams can constitute a form
-of inspiration granted even to non-prophets.
+\hon{\S_HIM}{\BODY} or Āsiyah \hon{\S_HER}{\BODY}, scholars have clarified that
+such inspiration may occur through dreams or other non-prophetic forms of
+*waḥy*. It is well established that true dreams can constitute a form of
+inspiration granted even to non-prophets.
 
 In conclusion, this discussion should be understood within its proper scholarly
 bounds. While the view presented has roots in the works of respected
@@ -148,8 +147,8 @@ authorities, it remains a minority position. The overwhelming consensus of the
 Ummah affirms that Prophethood was exclusive to men, and this remains the safest
 and most widely accepted position. At the same time, it is essential to
 recognize that the virtue, rank, and nearness to Allah of women such as Maryam
-[عليها السلام]{dir="rtl"}, Āsiyah [عليها السلام]{dir="rtl"}, and the mother of
-Mūsá [عليه السلام]{dir="rtl"} are firmly established in revelation, without
-necessitating Prophethood. Their station is one of *īmān*, *ṣabr*, and closeness
-to Allah, and in many respects, they stand as exemplars for all believers.
+\hon{\S_HER}{\BODY}, Āsiyah \hon{\S_HER}{\BODY}, and the mother of Mūsá
+\hon{\S_HIM}{\BODY} are firmly established in revelation, without necessitating
+Prophethood. Their station is one of *īmān*, *ṣabr*, and closeness to Allah, and
+in many respects, they stand as exemplars for all believers.
  -->
