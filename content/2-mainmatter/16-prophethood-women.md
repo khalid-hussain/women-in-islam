@@ -16,7 +16,7 @@ also deeply versed in philosophy and the rational disciplines.
 Those individuals whom Allah appoints for the guidance of His creation are of
 two categories:
 
-1. Messengers (_Rusul_): Those who are given a revealed law (sharīʿah) and through
+1. Messengers (_Rusul_): Those who are given a revealed law (_sharīʿah_) and through
    whom scriptures are sent down.
 
 2. Prophets (_Anbiyāʾ_): Those who are not given a new scripture, yet receive
@@ -87,15 +87,13 @@ similar language.
 
 The opinion of Imam Ibn Ḥazm \hon{\M_HIM}{\BODY} is as follows:
 
-<!-- TODO: Check if the reference was used before with a different name: al-Fisal -->
-
-As for the mother of Mūsá \hon{\S_HIM}{\BODY}, the mother of ʿĪsá
-\hon{\S_HIM}{\BODY}, and the mother of Isḥāq \hon{\S_HIM}{\BODY}, the Quran
-explicitly states that angels addressed some of them, conveying revelation from
-Allah, informing them of future events before they occurred. This, in essence,
-is precisely what constitutes prophethood, and there is no prophethood other
-than this. Thus, their prophethood is established by the explicit text of the
-Quran. \[al-Milal wa al-Niḥal\]
+> As for the mother of Mūsá \hon{\S_HIM}{\BODY}, the mother of ʿĪsá
+> \hon{\S_HIM}{\BODY}, and the mother of Isḥāq \hon{\S_HIM}{\BODY}, the Quran
+> explicitly states that angels addressed some of them, conveying revelation
+> from Allah, informing them of future events before they occurred. This, in
+> essence, is precisely what constitutes prophethood, and there is no
+> prophethood other than this. Thus, their prophethood is established by the
+> explicit text of the Quran.[-@@fasl, vol. 4, p. 22]
 
 Therefore, it is incorrect to assert that women have been deprived of the rank
 of prophethood.

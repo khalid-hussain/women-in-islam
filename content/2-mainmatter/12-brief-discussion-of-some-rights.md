@@ -56,6 +56,8 @@ Allah says,
 He created you all from a single soul. (Sūrat al-Nisāʾ, Q4:1)
 \AYAH_END
 
+<!-- TODO: Tafsir Manar reference required -->
+
 Since both genders originate from one essence, granting one party authority over
 another without any form of compensation runs contrary to the principle of
 equity. For this reason, the Sharīʿah has established a balanced framework: just
@@ -197,8 +199,8 @@ obligatory upon every Muslim man and Muslim woman.”
 It is true that the addition “...and every Muslim woman...” (_wa muslimah_) is
 not established as authentic; however, the inclusion of that word is not
 necessary to prove the obligation of education for women. The Messenger of Allah
-\hon{\PBUH}{\BODY} said, “Seeking knowledge is an obligation upon every Muslim.”
-\[Sunan Ibn Mājah\]
+\hon{\PBUH}{\BODY} said, “Seeking knowledge is an obligation upon every
+Muslim...”[-@@majah14, vol. 1, p. 268, #223]
 
 The word Muslim itself is general and not restricted to men alone. This is
 consistent with the Quranic and Prophetic style, where general commands are
@@ -206,8 +208,7 @@ often addressed to men while including women in their scope. This is further
 confirmed by another narration: some women once came to the Prophet
 \hon{\PBUH}{\BODY} to ask specific questions but felt shy; upon realizing this,
 he \hon{\PBUH}{\BODY} instructed them not to feel ashamed in seeking knowledge
-and said, “Seeking knowledge is obligatory upon every Muslim.” \[Sunan Ibn
-Mājah\]
+and said, “Seeking knowledge is obligatory upon every Muslim...”
 
 This narration is also recorded in *Sharḥ al-Muwaṭṭaʾ* by Shāh Walī Allāh
 \hon{\M_HIM}{\BODY}. It clearly indicates that the term includes both men and

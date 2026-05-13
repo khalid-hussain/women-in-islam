@@ -134,7 +134,7 @@ This was an extremely severe test. When this *āyah* was revealed, the Prophet
 to say something to you, but do not hasten in your reply; consult your parents
 first.” After explaining the matter, ʿĀʾishah \hon{\P_HER}{\BODY} replied, “In
 such matters, there is no need to consult my parents. I choose Allah and His
-Messenger.” \[Sunan Ibn Mājah\]
+Messenger.”[-@@ibnmajah, vol. 2, pp. 352--3, #2044]
 
 Thereafter, the Prophet \hon{\PBUH}{\BODY} went to the other wives and informed
 them of ʿĀʾishah's response, and all of them affirmed the same choice.

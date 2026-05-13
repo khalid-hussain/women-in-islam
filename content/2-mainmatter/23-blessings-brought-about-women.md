@@ -60,7 +60,7 @@ Umm Salamah \hon{\P_HER}{\BODY} advised him, “Perform the sacrifice yourself
 first, and the others will follow.” The Prophet \hon{\PBUH}{\BODY} acted upon
 this advice. He came out of the tent, had the animals brought, and sacrificed
 them. Thereafter, all the Companions followed and performed their sacrifices.
-\[Ṣaḥīḥ al-Bukhārī\]
+[-@@bukhari, vol. 6, pp. 575--82, #2731--2]
 
 Those who do not permit women any role in political affairs or governance should
 reflect upon this: how the Beloved of Allah \hon{\PBUH}{\BODY} acted upon the
@@ -92,11 +92,13 @@ For the male is a share equal to that of two females. (Sūrat al-Nisāʾ, Q4:11)
     complained that his uncle took all the wealth and the daughters were left
     with nothing.
 
+<!-- The following had \[Jāmiʿ al-Tirmidhī\] as the reference -->
+
 Similarly, a ruling regarding the separation of a mother and child was
 established due to a woman's suffering. A slave woman named Umm Ḍamīrah was
 separated from her child when sold. Upon seeing her weeping, the Prophet
 \hon{\PBUH}{\BODY} decreed, “A mother and her child must not be separated (in a
-sale).” \[Jāmiʿ al-Tirmidhī\]
+sale).”[-@@usdghabah, p. 1619, #7506]
 
 At times, entire tribes embraced Islam through the *daʿwah* of women. Safānah
 bint Ḥātim \hon{\P_HER}{\BODY} was brought as a captive and appealed to the

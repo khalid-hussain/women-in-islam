@@ -76,6 +76,8 @@ conflicts. Instead, much of their time is spent responding emotionally to
 events. Therefore, if their testimony alone were relied upon in such cases, the
 resolution of disputes might not always be precise.
 
+<!-- TODO: Shah Wali Allāh -- Al-Musawwa reference -->
+
 Shāh Walī Allāh \hon{\M_HIM}{\BODY} writes in his commentary on the _Muwaṭṭaʾ_
 that in the Sharīʿah, the testimony of two women is equated with that of one man
 in certain legal matters because women's memory is generally more susceptible to
@@ -136,13 +138,13 @@ examined, its reality becomes clear. In *Sunan al-Nasāʾī*, it is reported:
 
 > It was narrated from Abū Bakrah \hon{\P_HIM}{\BODY}, “Allah benefitted me
 > with something that I heard from the Messenger of Allah \hon{\PBUH}{\BODY}. When
-> Kisrā (the Persian Emperor) perished, he \hon{\PBUH}{\BODY} said, ‘Whom did they
+> Kisrá (the Persian Emperor) perished, he \hon{\PBUH}{\BODY} said, ‘Whom did they
 > appoint as his successor?’ They said, ‘His daughter.’ He \hon{\PBUH}{\BODY} said, ‘A
-> people who entrust their affairs to a woman will not prosper.’”
+> people who entrust their affairs to a woman will not prosper.’”[-@@nasaiik, vol. 6, pp. 478--9, #6115]
 
 In reality, this was a prophecy regarding the great conquest that the Muslims
 would achieve over the Persian Empire. It was not intended as a universal,
 absolute legal ruling to exclude women from all forms of governance
 categorically. Had the objective been a blanket prohibition of women in
 leadership, then the discussion would not have been tied specifically to that
-historical incident involving the succession of Kisrā.
+historical incident involving the succession of Kisrá.

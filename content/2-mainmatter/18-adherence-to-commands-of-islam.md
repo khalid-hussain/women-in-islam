@@ -61,6 +61,8 @@ passed away, and according to prevailing customs, mourning should have continued
 for at least a year, yet solely due to the command of the Messenger
 \hon{\PBUH}{\BODY}, she ended mourning on the third day.
 
+<!-- TODO: Missing reference -->
+
 Muʿādhah al-ʿAdawiyyah once fell ill. People suggested a medicinal drink for
 treatment. When it was brought, she placed the bowl before her and said, “O
 Allah! If ʿĀʾishah al-Ṣiddīqah \hon{\P_HER}{\BODY} had not narrated to me
@@ -73,8 +75,8 @@ Once, ʿUmar ibn al-Khaṭṭāb \hon{\P_HIM}{\BODY} passed by a leprous woman a
 instructed her not to sit on the public road so that passersby would not be
 harmed. After the death of the Amīr al-Muʾminīn, someone said to her, “The one
 who forbade you has passed away.” She replied, “How could it be that I obeyed
-him during his lifetime and now disobey him after his death?” \[Muṣaffā Sharḥ
-Muwaṭṭa\]
+him during his lifetime and now disobey him after his death?”[-@@malik16, vol.
+2, p. 217, #1064]
 
 Observe how this wise woman eliminated hypocrisy; true obedience means
 consistency in public and private, openly and secretly. These examples clearly

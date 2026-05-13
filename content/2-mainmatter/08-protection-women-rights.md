@@ -39,7 +39,8 @@ from it,’ (Sūrat al-Nisāʾ, Q4:20) then what right does the Commander of the
 Faithful have to confiscate this excess?”
 
 ʿUmar \hon{\P_HIM}{\BODY} immediately accepted her argument and spontaneously
-said, “A woman has spoken correctly, and a man has erred.” \[Muṣannaf ʿAbd\ al-Razzāq\]
+said, “A woman has spoken correctly, and a man has erred.”[-@@shaybah16, vol. 6,
+p. 254, #11266]
 
 From this incident, numerous conclusions may be drawn, including the powerful
 effect of Islamic teachings and the truthfulness and justice of the successors
@@ -60,9 +61,11 @@ deeply; after the separation, he would wander through the streets in distress,
 weeping loudly, yet Barīrah paid no heed to his lamentations and refused to
 remarry him.
 
-When the Prophet \hon{\PBUH}{\BODY} saw Mughīth's condition, he said to Barīrah, “It
-would be better if you returned to him.” Barīrah responded, “O Messenger of
+When the Prophet \hon{\PBUH}{\BODY} saw Mughīth's condition, he said to Barīrah,
+“It would be better if you returned to him.” Barīrah responded, “O Messenger of
 Allah \hon{\PBUH}{\BODY}, are you commanding me?”
 
-He \hon{\PBUH}{\BODY} replied, “I am only interceding, not commanding.” Barīrah then
-said, “I have no need of him.” \[Sunan al-Nasāʾī\]
+He \hon{\PBUH}{\BODY} replied, “I am only interceding, not commanding.” Barīrah
+then said, “I have no need of him.”[-@@bukhari, vol. 4, p. 478--9, #5283]
+
+<!-- [-@@nasaiik, vol. 6, pp. 499--500, #6148] -->

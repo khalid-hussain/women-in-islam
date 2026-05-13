@@ -13,7 +13,8 @@ Allah al-Bālighah\]
 
 In other words, this implies that a woman is a being who completes humanity. For
 this reason, the Messenger of Allah \hon{\PBUH}{\BODY} said, “When a person marries,
-he has completed half of his religion.” \[Mishkāt al-Maṣābīḥ\]
+he has completed half of his religion.”
+[-@@mustadrakhakim_risalah, vol. 3, p. 552, #2714]
 
 This is because human actions are of two types: those related to the Hereafter,
 and those related to worldly social life. With the establishment of marriage,

@@ -102,7 +102,7 @@ and released it with such precision that it struck directly into his eye,
 bringing about his death.
 
 Umm Ḥakīm \hon{\P_HER}{\BODY} killed seven disbelievers in the Battle of
-Ajnādayn using nothing more than a tent pole. \[Usd al-Ghābah\]
+Ajnādayn using nothing more than a tent pole.[-@@usdghabah, p. 1605, #7424]
 
 Khawlah bint al-Azwar, the sister of the renowned commander, Ḍirār, led a
 special contingent of women in the Battle of Antioch and displayed remarkable

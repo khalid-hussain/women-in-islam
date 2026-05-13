@@ -12,9 +12,9 @@ Khadījah bint Khuwaylid \hon{\P_HER}{\BODY} was the very first to embrace Islam
 \[Sīrat Ibn Hishām\]
 
 The first person to attain the rank of martyrdom in Islam was a woman. Her name
-was Sumayyah bint Khayyāṭ \hon{\P_HER}{\BODY}, the mother of ʿAmmār ibn Yāsir
+was Sumayyah bint Khubbāṭ \hon{\P_HER}{\BODY}, the mother of ʿAmmār ibn Yāsir
 \hon{\P_HIM}{\BODY}. She was martyred by Abū Jahl. It is stated in *Usd
-al-Ghābah*, “She was the first martyr in Islam.”
+al-Ghābah*, “She was the first martyr in Islam.”[-@@usdghabah, p. 1535, #7024]
 
 When the Quraysh plotted to assassinate the Prophet \hon{\PBUH}{\BODY}, it was a
 woman who first conveyed the warning.[^12]
@@ -45,9 +45,11 @@ She requested, “Pray that I may be among them.” He \hon{\PBUH}{\BODY} replie
 participated in it and attained martyrdom after falling from her
 mount.[-@@isti3ab, vol. 8, pp. 314--5, #3435]
 
+<!-- The following had  \[Sunan Abī Dāwūd\] as its reference -->
+
 The first hospital in Islam was established during the Prophetic era under the
-supervision of a woman named Rufaydah al-Aslamiyyah \hon{\P_HER}{\BODY}.
-It was set up within Masjid al-Nabawī itself. \[Sunan Abī Dāwūd\]
+supervision of a woman named Rufaydah al-Aslamīyah \hon{\P_HER}{\BODY}.
+It was set up within Masjid al-Nabawī itself.[-@@usdghabah, p. 1516, #6928]
 
 The first to affirm the miracles of the Prophet \hon{\PBUH}{\BODY} was a
 woman---again, Khadījah bint Khuwaylid \hon{\P_HER}{\BODY}.[-@@bukhari, vol. 1,

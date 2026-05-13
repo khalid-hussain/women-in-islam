@@ -64,14 +64,17 @@ better for the Messenger of Allah \hon{\PBUH}{\BODY}. Rather, I weep because the
 revelation from the heavens has ceased.” This moved them both to tears, and they
 began to weep along with her.[-@@muslim, vol. 6, p. 306, #2533]
 
+<!-- TODO: I can't find the exact narration with this wording -->
+
 The grief caused by the death of loved ones is immense, yet observe how Muslim
 women upheld religion even in such moments. When news of the martyrs of Badr
 reached Madīnah, many households were plunged into mourning. Yet, the mother of
-Ḥārith ibn Surāqah \hon{\P_HIM}{\BODY} said, “Until the Messenger
-\hon{\PBUH}{\BODY} returns, I cannot grieve for my son. I will ask him whether my
-son has attained Paradise through his deeds or has become deserving of
+Ḥārith[ah] ibn Surāqah \hon{\P_HIM}{\BODY} said, “Until the Messenger
+\hon{\PBUH}{\BODY} returns, I cannot grieve for my son. I will ask him whether
+my son has attained Paradise through his deeds or has become deserving of
 punishment. If he has attained the pleasure of Allah, then there is no reason to
 weep; but if he has fallen into punishment, then indeed one should weep for
-having ruined his eternal life.” \[Usd al-Ghābah\]
+having ruined his eternal life.”[-@@bukhari, vol. 3, pp. 15--6, #2809;
+-@@usdghabah, p. 235, #993]
 
 What greater example can there be of love for religion and reverence for faith?

@@ -6,7 +6,7 @@ discussions commonly associated with women. Now we turn to the historical
 dimension, to show that this delicate creation has stood shoulder to shoulder
 with men in every plain of hardship and test.
 
-At the dawn of Islam
+At the dawn of Islam:
 
 - When men left their beloved homelands, women accompanied them.
 - When men stood armed against the deniers, women too displayed courage and
@@ -40,19 +40,26 @@ struck, her face bloodied, her clothes stained.
 
 Yet the final words uttered by that brave and resolute woman were, “O ʿUmar! Do
 whatever you wish. This is not a state that can be undone. Once this neck has
-entered into the collar of Allah's commands, it cannot be removed.” \[Madārij
-al-Nubuwwah\]
+entered into the collar of Allah's commands, it cannot be removed.”
+\[Madārij al-Nubuwwah\]
 
-Lubaynah was a slave-woman of ʿUmar \hon{\P_HIM}{\BODY}. She had accepted Islam
-before he himself embraced the faith. The condition of ʿUmar \hon{\P_HIM}{\BODY}
-at that time was such that he would begin beating her; he would continue
-striking until he became exhausted, then sit down and say, “Let me rest a little
-so that I may beat you again.” Yet observe the resolve of this strong-hearted
-woman, she would reply, “O my master! If you do not accept Islam, then the True
-Lord will deal with you in the same manner.” Alongside this zeal, behold her
-reliance on Allah: she endured worldly suffering with the firm conviction that
-the True Bestower would take retribution if he did not accept Islam.
-\[Al-Iṣābah\]
+<!-- TODO: Add a reference to the incident; Isabah gives a reference for just the name -->
+<!-- «أن أبا بكر الصّدّيق رضي الله عنه أعتق ممن كان يعذّب في اللَّه سبعة، وهم: بلال،
+وعامر بن فهيرة، وزنبرة، وجارية ابنا المؤمّل، والنهديّة، وابنتها، وأمّ عنيس.» -->
+
+Lubaybah[^lubaybah] was a slave-woman of ʿUmar \hon{\P_HIM}{\BODY}. She had
+accepted Islam before he himself embraced the faith. The condition of ʿUmar
+\hon{\P_HIM}{\BODY} at that time was such that he would begin beating her; he
+would continue striking until he became exhausted, then sit down and say, “Let
+me rest a little so that I may beat you again.” Yet observe the resolve of this
+strong-hearted woman, she would reply, “O my master! If you do not accept Islam,
+then the True Lord will deal with you in the same manner.” Alongside this zeal,
+behold her reliance on Allah: she endured worldly suffering with the firm
+conviction that the True Bestower would take retribution if he did not accept
+Islam.[-@@subulhuda, vol. 2, p. 361; -@@sirahibnhisham, vol. 1, p. 319]
+
+[^lubaybah]: She is unnamed, referred to simply as a “slavegirl of Banī
+    al-Muʾammal,” in most references. See [-@@isabah, vol. 8, p. 301, #11705].
 
 Among the slave-women of Banū Makhzūm was one named Zinnīrah
 \hon{\P_HER}{\BODY}. She accepted faith in the early days of Islam. The Quraysh

@@ -27,8 +27,8 @@ Indeed, in the Messenger of Allah you have an excellent example. (Sūrat al-Aḥ
 The esteem and honor which the women held in the blessed heart of the Prophet
 \hon{\PBUH}{\BODY} may be gauged from the narration of Anas \hon{\P_HIM}{\BODY}
 where the Messenger of Allah \hon{\PBUH}{\BODY} said, “In this world, women and
-perfume have been made dear to me, and my comfort has been provided in prayer.”
-\[Sunan al-Nasāʾī\]
+perfume have been made dear to me, and my comfort has been provided in
+prayer.”[@@nasaiik, vol. 9, p. 181, #9034]
 
 The nature of the Prophet's \hon{\PBUH}{\BODY} conduct with his pure wives
 \hon{\P_THMF}{\BODY} can be understood by examining their biographies, though
